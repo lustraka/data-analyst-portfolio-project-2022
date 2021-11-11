@@ -1,4 +1,5 @@
 # Data Analyst Portfolio Project 2022 Codebase & Journal
+[Backlog](https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/code/ReadBacklog.md)
 ## 2021Q4
 ### November 2021
 #### Week 45
