@@ -1,122 +1,122 @@
-| id | wp_cat | wp_created | wp_updated | authors |
-| - | - | - | - | - |
-| WP1 | - | - | - | - |
-| WP2 | - | - | - | - |
-| WP3 | - | - | - | - |
-| WP4 | - | - | - | - |
-| WP5 | - | - | - | - |
-| WP6 | - | - | - | - |
-| WP7 | - | - | - | - |
-| WP8 | - | - | - | - |
-| WP9 | - | - | - | - |
-| WP10 | - | - | - | - |
-| WP11 | - | - | - | - |
-| WP12 | - | - | - | - |
-| WP13 | - | - | - | - |
-| WP14 | - | - | - | - |
-| WP15 | - | - | - | - |
-| WP16 | - | - | - | - |
-| WP17 | - | - | - | - |
-| WP18 | - | - | - | - |
-| WP19 | - | - | - | - |
-| WP20 | - | - | - | - |
-| WP21 | - | - | - | - |
-| WP22 | - | - | - | - |
-| WP23 | - | - | - | - |
-| WP24 | - | - | - | - |
-| WP25 | - | - | - | - |
-| WP26 | - | - | - | - |
-| WP27 | - | - | - | - |
-| WP28 | - | - | - | - |
-| WP29 | - | - | - | - |
-| WP30 | - | - | - | - |
-| WP31 | - | - | - | - |
-| WP32 | - | - | - | - |
-| WP33 | - | - | - | - |
-| WP34 | - | - | - | - |
-| WP35 | - | - | - | - |
-| WP36 | - | - | - | - |
-| WP37 | - | - | - | - |
-| WP38 | - | - | - | - |
-| WP39 | - | - | - | - |
-| WP40 | - | - | - | - |
-| WP41 | - | - | - | - |
-| WP42 | - | - | - | - |
-| WP43 | - | - | - | - |
-| WP44 | - | - | - | - |
-| WP45 | - | - | - | - |
-| WP46 | - | - | - | - |
-| WP47 | - | - | - | - |
-| WP48 | - | - | - | - |
-| WP49 | - | - | - | - |
-| WP50 | - | - | - | - |
-| WP51 | - | - | - | - |
-| WP52 | - | - | - | - |
-| WP53 | - | - | - | - |
-| WP54 | - | - | - | - |
-| WP55 | - | - | - | - |
-| WP56 | - | - | - | - |
-| WP57 | - | - | - | - |
-| WP58 | - | - | - | - |
-| WP59 | - | - | - | - |
-| WP60 | - | - | - | - |
-| WP61 | - | - | - | - |
-| WP62 | - | - | - | - |
-| WP63 | - | - | - | - |
-| WP64 | - | - | - | - |
-| WP65 | - | - | - | - |
-| WP66 | - | - | - | - |
-| WP67 | - | - | - | - |
-| WP68 | - | - | - | - |
-| WP69 | - | - | - | - |
-| WP70 | - | - | - | - |
-| WP71 | - | - | - | - |
-| WP72 | - | - | - | - |
-| WP73 | - | - | - | - |
-| WP74 | - | - | - | - |
-| WP75 | - | - | - | - |
-| WP76 | - | - | - | - |
-| WP77 | - | - | - | - |
-| WP78 | - | - | - | - |
-| WP79 | - | - | - | - |
-| WP80 | - | - | - | - |
-| WP81 | - | - | - | - |
-| WP82 | - | - | - | - |
-| WP83 | - | - | - | - |
-| WP84 | - | - | - | - |
-| WP85 | - | - | - | - |
-| WP86 | - | - | - | - |
-| WP87 | - | - | - | - |
-| WP88 | - | - | - | - |
-| WP89 | - | - | - | - |
-| WP90 | - | - | - | - |
-| WP91 | - | - | - | - |
-| WP92 | - | - | - | - |
-| WP93 | - | - | - | - |
-| WP94 | - | - | - | - |
-| WP95 | - | - | - | - |
-| WP96 | - | - | - | - |
-| WP97 | - | - | - | - |
-| WP98 | - | - | - | - |
-| WP99 | - | - | - | - |
-| WP100 | - | - | - | - |
-| WP101 | - | - | - | - |
-| WP102 | - | - | - | - |
-| WP103 | - | - | - | - |
-| WP104 | - | - | - | - |
-| WP105 | - | - | - | - |
-| WP106 | - | - | - | - |
-| WP107 | - | - | - | - |
-| WP108 | - | - | - | - |
-| WP109 | - | - | - | - |
-| WP110 | - | - | - | - |
-| WP111 | - | - | - | - |
-| WP112 | - | - | - | - |
-| WP113 | - | - | - | - |
-| WP114 | - | - | - | - |
-| WP115 | - | - | - | - |
-| WP116 | - | - | - | - |
-| WP117 | - | - | - | - |
-| WP118 | - | - | - | - |
-| WP119 | - | - | - | - |
-| WP120 | - | - | - | - |
+| id | title | site | wp_cat | wp_created | wp_updated | authors | notes |
+| - | - | - | - | - | - | - | - |
+| WP1 | 9 Data Analytics Por... | careerfoundry.com | Article | - | 2021-09-27 | Will Hillier | examples |
+| WP2 | How To Build A Data ... | careerfoundry.com | - | - | - | - | - |
+| WP3 | How to Build a Data ... | www.coursera.org | - | - | - | - | - |
+| WP4 | How to Build an Impr... | www.springboard.com | - | - | - | - | - |
+| WP5 | Data Analyst Portfol... | www.youtube.com | - | - | - | - | - |
+| WP6 | Guide to building a ... | www.codecademy.com | - | - | - | - | - |
+| WP7 | Data Analytics Proje... | www.stratascratch.com | - | - | - | - | - |
+| WP8 | Projects to Include ... | www.kdnuggets.com | - | - | - | - | - |
+| WP9 | Data Science Portfol... | www.dataquest.io | - | - | - | - | - |
+| WP10 | How To Build A Data ... | www.udacity.com | - | - | - | - | - |
+| WP11 | 4 R projects to form... | www.r-bloggers.com | - | - | - | - | - |
+| WP12 | These data science p... | towardsdatascience.com | - | - | - | - | - |
+| WP13 | 5 of my Best Data Sc... | towardsdatascience.com | - | - | - | - | - |
+| WP14 | 4 Types of Projects ... | builtin.com | - | - | - | - | - |
+| WP15 | Portfolio - David Ve... | davidventuri.com | - | - | - | - | - |
+| WP16 | 10 Data Analyst Port... | www.pinterest.com | - | - | - | - | - |
+| WP17 | Claudia ten Hoope - ... | www.claudiatenhoope.com | - | - | - | - | - |
+| WP18 | Top 10 Data Analytic... | www.jigsawacademy.com | - | - | - | - | - |
+| WP19 | Best way to create a... | www.reddit.com | - | - | - | - | - |
+| WP20 | Aleksandr Nikitin - ... | github.com | - | - | - | - | - |
+| WP21 | How to Build an Awes... | www.freecodecamp.org | - | - | - | - | - |
+| WP22 | Predictive Portfolio... | www.planview.com | - | - | - | - | - |
+| WP23 | How to build a Data ... | www.kaggle.com | - | - | - | - | - |
+| WP24 | How to maximize Data... | www.yooi.com | - | - | - | - | - |
+| WP25 | 3 must-have projects... | blog.jovian.ai | - | - | - | - | - |
+| WP26 | 5 Data Analytics pro... | medium.com | - | - | - | - | - |
+| WP27 | How can I build a da... | www.quora.com | - | - | - | - | - |
+| WP28 | Business Analytics P... | www.element61.be | - | - | - | - | - |
+| WP29 | How to build a portf... | analyticalmarketer.io | - | - | - | - | - |
+| WP30 | Creating a Data Anal... | rforhr.com | - | - | - | - | - |
+| WP31 | How to Choose the Be... | tessellationtech.io | - | - | - | - | - |
+| WP32 | Four Data Science Pr... | www.analyticsinsight.net | - | - | - | - | - |
+| WP33 | Top 7 Data Analytics... | www.mygreatlearning.com | - | - | - | - | - |
+| WP34 | How To Choose A Data... | www.datascienceweekly.org | - | - | - | - | - |
+| WP35 | Data Analytics Real-... | www.udemy.com | - | - | - | - | - |
+| WP36 | How to Build a Data ... | brainstation.io | - | - | - | - | - |
+| WP37 | How to make an impre... | www.analyticsvidhya.com | - | - | - | - | - |
+| WP38 | Top 20 Data Analytic... | www.projectpro.io | - | - | - | - | - |
+| WP39 | Become an Entry-Leve... | www.thinkful.com | - | - | - | - | - |
+| WP40 | Data Analytics Portf... | www.nobledesktop.com | - | - | - | - | - |
+| WP41 | Data Analytics and P... | www.researchgate.net | - | - | - | - | - |
+| WP42 | THE IMPORTANCE OF AN... | ppm.express | - | - | - | - | - |
+| WP43 | Data-Analytics-Portf... | tcottrell321.github.io | - | - | - | - | - |
+| WP44 | Guide To Creating Ki... | www.nicksingh.com | - | - | - | - | - |
+| WP45 | 3 Steps To Build A D... | www.aitimejournal.com | - | - | - | - | - |
+| WP46 | Data analyst portfol... | abante.vankruijsdijk.org | - | - | - | - | - |
+| WP47 | Academics | School o... | www.pratt.edu | - | - | - | - | - |
+| WP48 | Data Science Project... | www.datacamp.com | - | - | - | - | - |
+| WP49 | Data and Analytics -... | www.worldbank.org | - | - | - | - | - |
+| WP50 | Data Portfolio - Jam... | jameskle.com | - | - | - | - | - |
+| WP51 | Ger Inberg - Turning... | gerinberg.com | - | - | - | - | - |
+| WP52 | Data Science: Guide ... | ucsd.libguides.com | - | - | - | - | - |
+| WP53 | University of Oregon... | bootcamp.uoregon.edu | - | - | - | - | - |
+| WP54 | Carbon Portfolio Dat... | careers.southpole.com | - | - | - | - | - |
+| WP55 | AppD Analyst, Data &... | jobs.cisco.com | - | - | - | - | - |
+| WP56 | Guide to building a ... | jinn.pro | - | - | - | - | - |
+| WP57 | Best 6 Data Science ... | www.simplilearn.com | - | - | - | - | - |
+| WP58 | How to Become a Data... | bootcamp.pe.gatech.edu | - | - | - | - | - |
+| WP59 | Portfolio Data Analy... | www.devex.com | - | - | - | - | - |
+| WP60 | How To Build a Data ... | www.telegraphindia.com | - | - | - | - | - |
+| WP61 | I've published my da... | www.linkedin.com | - | - | - | - | - |
+| WP62 | 5 Data Engineering P... | www.theseattledataguy.com | - | - | - | - | - |
+| WP63 | Twenty Projects in D... | www.datasciencecentral.com | - | - | - | - | - |
+| WP64 | Analysis Portfolio -... | www.purdue.edu | - | - | - | - | - |
+| WP65 | How to Build an Impr... | www.geeksforgeeks.org | - | - | - | - | - |
+| WP66 | Top 10 Data Science ... | intellipaat.com | - | - | - | - | - |
+| WP67 | Project Analytics: B... | www.ecosys.net | - | - | - | - | - |
+| WP68 | 3 steps to build you... | www.techinasia.com | - | - | - | - | - |
+| WP69 | A Framework for the ... | www.sciencedirect.com | - | - | - | - | - |
+| WP70 | [PDF] Predictive Pro... | www2.deloitte.com | - | - | - | - | - |
+| WP71 | Portfolio Management... | www.pmi.org | - | - | - | - | - |
+| WP72 | Yan Holtz | Data - S... | www.yan-holtz.com | - | - | - | - | - |
+| WP73 | Data Analyst Portfol... | webflow.com | - | - | - | - | - |
+| WP74 | Data Analytics and P... | www.taylorfrancis.com | - | - | - | - | - |
+| WP75 | Portfolio Optimizati... | www.cloudbyz.com | - | - | - | - | - |
+| WP76 | London Project Data ... | www.meetup.com | - | - | - | - | - |
+| WP77 | Data Analytics | Dre... | drew.edu | - | - | - | - | - |
+| WP78 | How to Get into Anal... | www.northeastern.edu | - | - | - | - | - |
+| WP79 | A Step by Step Guide... | hackmakers.com | - | - | - | - | - |
+| WP80 | U of M Data Visualiz... | bootcamp.umn.edu | - | - | - | - | - |
+| WP81 | U of M Data Visualiz... | bootcamp.umn.edu | - | - | - | - | - |
+| WP82 | Data Analyst - Portf... | careers.ovo.com | - | - | - | - | - |
+| WP83 | How to Choose the Be... | www.datacoach.com | - | - | - | - | - |
+| WP84 | Atrof.github.io - Da... | opensourcelibs.com | - | - | - | - | - |
+| WP85 | How to build a portf... | www.zarantech.com | - | - | - | - | - |
+| WP86 | Data Analytics Certi... | professionaled.utexas.edu | - | - | - | - | - |
+| WP87 | 21 Data Science Proj... | www.intellspot.com | - | - | - | - | - |
+| WP88 | 8 Data Science Proje... | whatis.techtarget.com | - | - | - | - | - |
+| WP89 | The data-driven proj... | www.cio.com | - | - | - | - | - |
+| WP90 | Top 10 Data Science ... | intellipaat.com | - | - | - | - | - |
+| WP91 | Spring 2020 Discover... | data.berkeley.edu | - | - | - | - | - |
+| WP92 | Developing Data Scie... | learnpython.com | - | - | - | - | - |
+| WP93 | Portfolio: Conduct c... | help.amplitude.com | - | - | - | - | - |
+| WP94 | 8 Data Science Proje... | dimensionless.in | - | - | - | - | - |
+| WP95 | The 4 Types of Sport... | www.playingnumbers.com | - | - | - | - | - |
+| WP96 | Data Analytics Boot ... | bootcamp.ce.arizona.edu | - | - | - | - | - |
+| WP97 | Practicum Projects |... | gradschool.unh.edu | - | - | - | - | - |
+| WP98 | How to Create a Data... | data-flair.training | - | - | - | - | - |
+| WP99 | Top 10 Data Science ... | www.upgrad.com | - | - | - | - | - |
+| WP100 | H. Jansma... | harrisonjansma.com | - | - | - | - | - |
+| WP101 | Project Portfolio - ... | tippie.uiowa.edu | - | - | - | - | - |
+| WP102 | How to build your da... | naledi.co.uk | - | - | - | - | - |
+| WP103 | DataScience Portfoli... | blog.journeyofanalytics.com | - | - | - | - | - |
+| WP104 | How to Build a Data ... | www.switchup.org | - | - | - | - | - |
+| WP105 | Building a Data Anal... | www.slideshare.net | - | - | - | - | - |
+| WP106 | Project Management f... | www.datascience-pm.com | - | - | - | - | - |
+| WP107 | Building a Data Scie... | www.data-mania.com | - | - | - | - | - |
+| WP108 | Why Have a Data Scie... | eugeneyan.com | - | - | - | - | - |
+| WP109 | Benefits of Big Data... | thinkingportfolio.com | - | - | - | - | - |
+| WP110 | 11 Popular Data Scie... | analyticsindiamag.com | - | - | - | - | - |
+| WP111 | Data Analytics for P... | www.qsm.com | - | - | - | - | - |
+| WP112 | 4 things you should ... | www.stitchdata.com | - | - | - | - | - |
+| WP113 | IBM SPSS software... | www.ibm.com | - | - | - | - | - |
+| WP114 | [PDF] How to Harness... | www.oracle.com | - | - | - | - | - |
+| WP115 | Business Intelligenc... | www.tableau.com | - | - | - | - | - |
+| WP116 | 15 Data Science Proj... | generalassemb.ly | - | - | - | - | - |
+| WP117 | Job Application for ... | boards.greenhouse.io | - | - | - | - | - |
+| WP118 | Data Engineering Sen... | jobs.dell.com | - | - | - | - | - |
+| WP119 | IQVIA: Powering Heal... | www.iqvia.com | - | - | - | - | - |
+| WP120 | Data Engineer, Group... | www.efinancialcareers.fr | - | - | - | - | - |
