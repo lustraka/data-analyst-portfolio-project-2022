@@ -1,25 +1,25 @@
-| id | title | site | wp_cat | wp_created | wp_updated | authors | notes |
+| id | title | site | wp_cat | wp_published | wp_updated | authors | notes |
 | - | - | - | - | - | - | - | - |
-| WP1 | 9 Data Analytics Por... | careerfoundry.com | Article_Board | - | 2021-09-27 | Will Hillier | examples |
-| WP2 | How To Build A Data ... | careerfoundry.com | Article | - | 2021-07-26 | Emily Stevens | guide |
-| WP3 | How to Build a Data ... | www.coursera.org | Article | - | 2021-06-18 | coursera | guide |
+| WP1 | 9 Data Analytics Por... | careerfoundry.com | Article_Board | - | 2021-09-27 | Will Hillier | project_examples |
+| WP2 | How To Build A Data ... | careerfoundry.com | Article | - | 2021-07-26 | Emily Stevens | guide, portfolio_site |
+| WP3 | How to Build a Data ... | www.coursera.org | Article | - | 2021-06-18 | coursera | guide, portfolio_site |
 | WP4 | How to Build an Impr... | www.springboard.com | Article | 2021-10-25 | - | Sakshi Gupta | guide |
-| WP5 | Data Analyst Portfol... | www.youtube.com | video | - | - | - | error_msg |
-| WP6 | Guide to building a ... | www.codecademy.com | - | - | - | - | - |
-| WP7 | Data Analytics Proje... | www.stratascratch.com | - | - | - | - | - |
-| WP8 | Projects to Include ... | www.kdnuggets.com | - | - | - | - | - |
-| WP9 | Data Science Portfol... | www.dataquest.io | - | - | - | - | - |
-| WP10 | How To Build A Data ... | www.udacity.com | - | - | - | - | - |
-| WP11 | 4 R projects to form... | www.r-bloggers.com | - | - | - | - | - |
-| WP12 | These data science p... | towardsdatascience.com | - | - | - | - | - |
-| WP13 | 5 of my Best Data Sc... | towardsdatascience.com | - | - | - | - | - |
-| WP14 | 4 Types of Projects ... | builtin.com | - | - | - | - | - |
-| WP15 | Portfolio - David Ve... | davidventuri.com | - | - | - | - | - |
-| WP16 | 10 Data Analyst Port... | www.pinterest.com | - | - | - | - | - |
-| WP17 | Claudia ten Hoope - ... | www.claudiatenhoope.com | - | - | - | - | - |
-| WP18 | Top 10 Data Analytic... | www.jigsawacademy.com | - | - | - | - | - |
-| WP19 | Best way to create a... | www.reddit.com | - | - | - | - | - |
-| WP20 | Aleksandr Nikitin - ... | github.com | - | - | - | - | - |
+| WP5 | Data Analyst Portfol... | www.youtube.com | Video | - | - | - | error_msg |
+| WP6 | Guide to building a ... | www.codecademy.com | Article | 2021-06-02 | 2021-06-04 | Adam Carpenter | guide, portfolio_site |
+| WP7 | Data Analytics Proje... | www.stratascratch.com | Article | 2021-02-26 | - | Nathan Rosidi | guide, project_components |
+| WP8 | Projects to Include ... | www.kdnuggets.com | Article | - | - | Charlie Custer | guide, project_ideas |
+| WP9 | Data Science Portfol... | www.dataquest.io | Article | 2016-08-12 | - | Vik Paruchuri | guide, project_components, project_ideas |
+| WP10 | How To Build A Data ... | www.udacity.com | Article | 2016-02-10 | - | Mat Leonard | guide, portfolio_site |
+| WP11 | 4 R projects to form... | www.r-bloggers.com | Article | 2020-11-06 | - | Nathaniel Schmucker | project_ideas |
+| WP12 | These data science p... | towardsdatascience.com | Article_Board | 2020-08-17 | - | JP Hwang | project_examples |
+| WP13 | 5 of my Best Data Sc... | towardsdatascience.com | Article_Board | 2021-06-24 | 2021-08-17 | Natassha Selvaraj | project_ideas |
+| WP14 | 4 Types of Projects ... | builtin.com | Article | 2021-08-02 | 2021-08-09 | Sara A. Metwalli | guide |
+| WP15 | Portfolio - David Ve... | davidventuri.com | Portfolio_Site | - | - | David Venturi | project_ideas |
+| WP16 | 10 Data Analyst Port... | www.pinterest.com | Board | - | - | Stephen Wieschhaus | project_ideas |
+| WP17 | Claudia ten Hoope - ... | www.claudiatenhoope.com | Portfolio_Site | - | - | Claudia ten Hoope | project_ideas |
+| WP18 | Top 10 Data Analytic... | www.jigsawacademy.com | Article | 2020-12-11 | - | Ajay Sarangam | project_ideas |
+| WP19 | Best way to create a... | www.reddit.com | Post | - | - | - | - |
+| WP20 | Aleksandr Nikitin - ... | github.com | Portfolio | - | 2021-09-26 | Aleksandr Nikitin | project_ideas |
 | WP21 | How to Build an Awes... | www.freecodecamp.org | - | - | - | - | - |
 | WP22 | Predictive Portfolio... | www.planview.com | - | - | - | - | - |
 | WP23 | How to build a Data ... | www.kaggle.com | - | - | - | - | - |
@@ -96,7 +96,7 @@
 | WP94 | 8 Data Science Proje... | dimensionless.in | - | - | - | - | - |
 | WP95 | The 4 Types of Sport... | www.playingnumbers.com | - | - | - | - | - |
 | WP96 | Data Analytics Boot ... | bootcamp.ce.arizona.edu | - | - | - | - | - |
-| WP97 | Practicum Projects |... | gradschool.unh.edu | - | - | - | - | - |
+| WP97 | Practicum Projects /... | gradschool.unh.edu | - | - | - | - | - |
 | WP98 | How to Create a Data... | data-flair.training | - | - | - | - | - |
 | WP99 | Top 10 Data Science ... | www.upgrad.com | - | - | - | - | - |
 | WP100 | H. Jansma... | harrisonjansma.com | - | - | - | - | - |
