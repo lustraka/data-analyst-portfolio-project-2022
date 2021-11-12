@@ -19,7 +19,7 @@
 | WP17 | Claudia ten Hoope - ... | www.claudiatenhoope.com | Portfolio_Site | - | - | Claudia ten Hoope | project_ideas |
 | WP18 | Top 10 Data Analytic... | www.jigsawacademy.com | Article | 2020-12-11 | - | Ajay Sarangam | project_ideas |
 | WP19 | Best way to create a... | www.reddit.com | Post | - | - | - | - |
-| WP20 | Aleksandr Nikitin - ... | github.com | Portfolio | - | 2021-09-26 | Aleksandr Nikitin | project_ideas |
+| WP20 | Aleksandr Nikitin - ... | github.com | Portfolio_Site | - | 2021-09-26 | Aleksandr Nikitin | project_ideas |
 | WP21 | How to Build an Awes... | www.freecodecamp.org | - | - | - | - | - |
 | WP22 | Predictive Portfolio... | www.planview.com | - | - | - | - | - |
 | WP23 | How to build a Data ... | www.kaggle.com | - | - | - | - | - |
