@@ -1,10 +1,10 @@
 | id | title | site | wp_cat | wp_created | wp_updated | authors | notes |
 | - | - | - | - | - | - | - | - |
-| WP1 | 9 Data Analytics Por... | careerfoundry.com | Article | - | 2021-09-27 | Will Hillier | examples |
-| WP2 | How To Build A Data ... | careerfoundry.com | - | - | - | - | - |
-| WP3 | How to Build a Data ... | www.coursera.org | - | - | - | - | - |
-| WP4 | How to Build an Impr... | www.springboard.com | - | - | - | - | - |
-| WP5 | Data Analyst Portfol... | www.youtube.com | - | - | - | - | - |
+| WP1 | 9 Data Analytics Por... | careerfoundry.com | Article_Board | - | 2021-09-27 | Will Hillier | examples |
+| WP2 | How To Build A Data ... | careerfoundry.com | Article | - | 2021-07-26 | Emily Stevens | guide |
+| WP3 | How to Build a Data ... | www.coursera.org | Article | - | 2021-06-18 | coursera | guide |
+| WP4 | How to Build an Impr... | www.springboard.com | Article | 2021-10-25 | - | Sakshi Gupta | guide |
+| WP5 | Data Analyst Portfol... | www.youtube.com | video | - | - | - | error_msg |
 | WP6 | Guide to building a ... | www.codecademy.com | - | - | - | - | - |
 | WP7 | Data Analytics Proje... | www.stratascratch.com | - | - | - | - | - |
 | WP8 | Projects to Include ... | www.kdnuggets.com | - | - | - | - | - |
@@ -46,7 +46,7 @@
 | WP44 | Guide To Creating Ki... | www.nicksingh.com | - | - | - | - | - |
 | WP45 | 3 Steps To Build A D... | www.aitimejournal.com | - | - | - | - | - |
 | WP46 | Data analyst portfol... | abante.vankruijsdijk.org | - | - | - | - | - |
-| WP47 | Academics | School o... | www.pratt.edu | - | - | - | - | - |
+| WP47 | Academics / School o... | www.pratt.edu | - | - | - | - | - |
 | WP48 | Data Science Project... | www.datacamp.com | - | - | - | - | - |
 | WP49 | Data and Analytics -... | www.worldbank.org | - | - | - | - | - |
 | WP50 | Data Portfolio - Jam... | jameskle.com | - | - | - | - | - |
@@ -71,12 +71,12 @@
 | WP69 | A Framework for the ... | www.sciencedirect.com | - | - | - | - | - |
 | WP70 | [PDF] Predictive Pro... | www2.deloitte.com | - | - | - | - | - |
 | WP71 | Portfolio Management... | www.pmi.org | - | - | - | - | - |
-| WP72 | Yan Holtz | Data - S... | www.yan-holtz.com | - | - | - | - | - |
+| WP72 | Yan Holtz / Data - S... | www.yan-holtz.com | - | - | - | - | - |
 | WP73 | Data Analyst Portfol... | webflow.com | - | - | - | - | - |
 | WP74 | Data Analytics and P... | www.taylorfrancis.com | - | - | - | - | - |
 | WP75 | Portfolio Optimizati... | www.cloudbyz.com | - | - | - | - | - |
 | WP76 | London Project Data ... | www.meetup.com | - | - | - | - | - |
-| WP77 | Data Analytics | Dre... | drew.edu | - | - | - | - | - |
+| WP77 | Data Analytics / Dre... | drew.edu | - | - | - | - | - |
 | WP78 | How to Get into Anal... | www.northeastern.edu | - | - | - | - | - |
 | WP79 | A Step by Step Guide... | hackmakers.com | - | - | - | - | - |
 | WP80 | U of M Data Visualiz... | bootcamp.umn.edu | - | - | - | - | - |
