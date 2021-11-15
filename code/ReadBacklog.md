@@ -6,8 +6,8 @@ Collect ideas, quests, tasks, to-dos, etc.
 - [ ] TD1111-2 Review EACOE methodology and EARS - would you identify processes or requirments?
 - [ ] TD1111-3 Apply Business Case Elevator Pitch: In order to improve `business pain point` we are providing `proposed investment` which is worth `net present value` and can be measured by `bottom-up metrics`.
 - [ ] TD1111-4 Prior DAPP process cycle: Clarify purpose > Collect data > Train a model > Evaluate the model > Use the model. **Data Analytics Cycle** (DAC) Restated 1115: Clarify purpose > Collect data > Train **an analytical engine** > Evaluate findings > Share findings. 
-  - A **domain knowledge base** gets updated from prior to posterior during DAC and consists of datasets and documents describing domain's nature, architecture (R,G,P,E,A,L onotology) and dymamics. 
-  - An analyst observes some characteristics (variables, features) of key domain concepts and explores relations between these characteristics. 
+  - A **domain knowledge base** gets updated from prior to posterior during DAC and consists of datasets and documents describing domain's nature, architecture (R,G,P,E,A,L as an ontology) and dymamics. 
+  - An analyst observes some characteristics (variables, features, aspects) of key domain concepts and explores relations between these characteristics. 
   - A **dataset** consists of a set of observed values of characteristics. 
   - A **document** consists of a tree of lexical elements containing sentences (statements) expressed in an appropriate grammar.
 - [ ] TD1111-5 Root power-ups: Ennea performace cycle, ZTD cycle, InfoMgmt Cycle, DAPP process cycle
