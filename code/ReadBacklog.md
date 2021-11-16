@@ -5,7 +5,7 @@ Collect ideas, quests, tasks, to-dos, etc.
 - [x] TD1111-1 Store web pages' texts instead of requests' content, resulting database should be smaller. Do it in one step (no need for csv mid-data). Name it wp_root.
 - [ ] TD1111-2 Review EACOE methodology and EARS - would you identify processes or requirments?
 - [ ] TD1111-3 Apply Business Case Elevator Pitch: In order to improve `business pain point` we are providing `proposed investment` which is worth `net present value` and can be measured by `bottom-up metrics`.
-- [ ] TD1111-4 Prior DAPP process cycle: Clarify purpose > Collect data > Train a model > Evaluate the model > Use the model. **Data Analytics Cycle** (DAC) Restated 1115: Clarify purpose > Collect data > Train **an analytical engine** > Evaluate insights > Tell the data story. 
+- [ ] TD1111-4 Prior DAPP process cycle: Clarify purpose > Collect data > Train a model > Evaluate the model > Use the model. **Data Analytics Cycle** (DAC) Restated 1115: Clarify purpose > Collect data > Compose **an analytical engine** > Evaluate insights > Tell the story. 
   - A **domain knowledge base** gets updated from prior to posterior during DAC and consists of datasets and documents describing domain's nature, architecture (R,G,P,E,A,L as an ontology) and dymamics. 
   - An analyst observes some characteristics (variables, features, aspects) of key domain concepts and explores relations between these characteristics. 
   - A **dataset** consists of a set of observed values of characteristics. 
