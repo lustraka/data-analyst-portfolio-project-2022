@@ -13,7 +13,7 @@
     - [Template: 6+ Data Analysis Report Templates – PDF, Word, pages](https://www.template.net/business/report-templates/data-analysis-report-template/)
     - [Medium: Kaggle Winner's Blog](https://medium.com/kaggle-blog)
     - [(Small Business) David Weedmark () How to Write a Data Report](https://smallbusiness.chron.com/write-data-report-61330.html)
-- Udacity: Get Hired Pat
+- Udacity: Get Hired Path
   - Get Read for Your Dream Job
   - Impress Your Future Employer
   - Find Work Opportunities
