@@ -18,3 +18,4 @@
   - Impress Your Future Employer
   - Find Work Opportunities
   - Negotiate Your Job Offer
+- Institute of Apprenticeships: [Data Analyst Standard v. 1.1](https://www.instituteforapprenticeships.org/apprenticeship-standards/data-analyst-v1-1) - Collect, organise and study data to provide business insight.
