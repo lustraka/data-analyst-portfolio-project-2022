@@ -8,6 +8,8 @@
 
 (4) **Stakeholder Analysis**. There is plenty of resources on how to build a data analytics portfolio for a data analyst to choose from. Any of them can trigger the flow of analytical thoughts and steps. Are there some stakeholders interested in some organization and systemization of this domain? What could be the value delivered by such clarification and standardization?
 
+(5) **Topic Map**. The duty - KSBs mapping in the Institute of Apprenticeships is a good example of a concept map. Similar kind of mapping can be quite useful when an analyst needs to find the source with a code pattern they wants to use. Try service (duty) - KSBs - resources (urls) model with a CSV interface and an SQL database. [16 fsp]
+
 2021-11-12 Fri : **By Hand**. Discovering knowledge in unstructured data is tedious. An analyst manages to go through first 20 web pages and identify some of their properties. See [WP_root_collect_data_by_hand.md](https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/data/WP_root_collect_data_by_hand.md). [8 fsp]
 
 2021-11-11 Thu: **Refactoring**. An analyst trains a new "model" that scrapes results of a google search and store it in a database. A log of scraping in markdown friendly. [6 fsp]
