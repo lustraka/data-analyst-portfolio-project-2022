@@ -21,5 +21,5 @@
 - Institute of Apprenticeships: 
   - [Data Analyst Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/data-analyst-v1-1) - Collect, organise and study data to provide business insight
   - [Business Analyst Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/business-analyst-v1-1) - Working with organisations to improve their information systems.
-  - [Systems Thinking Practitioner](https://www.instituteforapprenticeships.org/apprenticeship-standards/systems-thinking-practitioner-v1-0) - Support decision-makers in strategic and leadership roles to understand and address complex and sometimes even ‘wicked’ problems through provision of expert systemic analysis, advice and facilitation.
-  - [Project Manager](https://www.instituteforapprenticeships.org/apprenticeship-standards/project-manager-integrated-degree-v1-0) - Help organisations manage projects efficiently.
+  - [Systems Thinking Practitioner Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/systems-thinking-practitioner-v1-0) - Support decision-makers in strategic and leadership roles to understand and address complex and sometimes even ‘wicked’ problems through provision of expert systemic analysis, advice and facilitation.
+  - [Project Manager Standard](https://www.instituteforapprenticeships.org/apprenticeship-standards/project-manager-integrated-degree-v1-0) - Help organisations manage projects efficiently.
