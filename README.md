@@ -1,4 +1,6 @@
 # Data Analyst Portfolio Project 2022
+🚧 Repo under construction! 🚧 
+
 Analysis of bests practices in building data analyst portfolio projects based on web pages returned by an Internet (Google) search.
 
 ## Introduction
