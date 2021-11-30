@@ -25,6 +25,7 @@ Candidates for next steps are:
   - dump the knowledge base for manual embelishment
   - add titles of references [8 fsp]
 - (3) **Modus Operandi**. While embelishing data by hand I can use a local clone of the GitHub repository, then pull changes to origin and download files again in Colab.
+- (4) [Critical Data Studies Methods Instantiated (Temporarily)](CDS_methods_instantiated.md) generated for further planning and processing [2 fsp]
 
 
 ## Curate Backlog and ToDos
