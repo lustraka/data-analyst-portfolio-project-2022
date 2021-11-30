@@ -4,12 +4,15 @@ This journal provides the overview of case study's activities (transactions) for
 
 ## Design Document Transformations
 The *map CSD methods based on Kitchen (2021b)* process includes steps:
-- process the **"cites"** type  triples and the **"instantiates"** type triples for CDS methods in Kitchen (2021b)
+- process the **"cites"** type  triples and the **"instantiates"** type triples for CDS methods in Kitchen (2021b) ([4 fsp] up to 'critical data science method')
 - dump the knowledge base for manual embelishment
 - add titles of references
 - find out full text documents, choose at least 3 examples of each CDS method,
 - add the **"embodies"** type triples and elements with the `title` and `url` attributes by hand,
 - check the integrity of the knowledge base.
+
+Candidates for next steps are:
+- [ ] Change "a CDS *uses* a method" relation type to "a CSD *employs* a method" type Consider same change for *instantiates*.
 
 ## Journal Recent Activities
 **2021-11-30 Tue**:
@@ -22,5 +25,6 @@ The *map CSD methods based on Kitchen (2021b)* process includes steps:
 
 ## Curate Backlog and ToDos
 - [ ] Document the knowledge base with Term-Association Ontology Internal Information Management (TAO-IIM)
+- [ ] Clarify the nature of CDS methods and check their employment in selected documents
 
 ## Archive Journal Entries
