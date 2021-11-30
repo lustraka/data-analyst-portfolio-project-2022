@@ -1,13 +1,15 @@
-# Case Study CS01 Journal
+# Case Study 01 Journal
 
-This journal provides the oveview of case study's activities (transactions) for future reference. Steps taken are accompanied with effort records (in squared brackets) measured in fibonacci story points (fsp).
+This journal provides the overview of case study's activities (transactions) for future reference. Records of steps taken are accompanied with effort entries (in square brackets) measured in fibonacci story points (fsp). A part of the reflection process is moving recent journal entries into the archive section.
 
-## Design Next Steps
-The *map citations in Kitchen (2021b)* process includes steps:
-- process **cites**  triples and **instantiates** triples for CDS methods
+## Design Document Transformations
+The *map CSD methods based on Kitchen (2021b)* process includes steps:
+- process the **"cites"** type  triples and the **"instantiates"** type triples for CDS methods in Kitchen (2021b)
 - dump the knowledge base for manual embelishment
 - add titles of references
-- find out full text documents and choose at least 3 examples of each CDS method.
+- find out full text documents, choose at least 3 examples of each CDS method,
+- add the **"embodies"** type triples and elements with the `title` and `url` attributes by hand,
+- check the integrity of the knowledge base.
 
 ## Journal Recent Activities
 **2021-11-30 Tue**:
@@ -18,7 +20,7 @@ The *map citations in Kitchen (2021b)* process includes steps:
   - create the first IPYNB notebook to populate the knowledge base and test loading, updating, and dumping the knowledge base,
   - create a jounal, document the effort so far, and plan the next step [6 fsp].
 
-## Backlog and ToDos
+## Curate Backlog and ToDos
 - [ ] Document the knowledge base with Term-Association Ontology Internal Information Management (TAO-IIM)
 
 ## Archive Journal Entries
