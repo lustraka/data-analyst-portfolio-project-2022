@@ -1,10 +1,3 @@
-['data (auto)ethnography method', 'interview, focus group and workshop method', 'data archaeology method', 
-'historical analysis and genealogy method', 'participatory and action research method', 'data walk method', 
-'discursive analysis method', 'research-creation and creative practice method', 'critical data science method']
-
-["", 'instantiates', ["research-creation and creative practice method"]],
-
-*********************************** remove before loading ***********************************
 [
 ['Kitchin 2021b', 'cites',
   ['Ruijer et al. 2017', 'Kitchin and Moore-Cherry 2020', 'Brayne 2017', 'Delaney 2019', 'Delaney and Kitchin 2020', 'Thatcher 2014',
@@ -18,9 +11,19 @@
   'van Yoonen et al. 2017', 'Dawkins and Young 2020', 'Thatcher and Dalton 2017', 'Andrejevic 2007', 'Bradshaw 2018', 'Truman and Springgay 2015',
   'Truman 2017', 'Lupton and Watson 2020', 'Foley 2020', 'Lee 2019', 'Graham et al. 2019', 'Fotopoulou and Beavon 2020', 'Petrelli et al. 2017',
   'Lee et al. 2016b', 'Desjardins and Tihanyi 2019', 'Thudt et al. 2017', 'Weinberg n.d.', 'Jansen et al. 2015', 'Lupton 2017', 'Offenhuber 2020',
-  'Khot et al. 2015', 'Markham and Pereira 2019a', 'Markham and Pereira 2019b', 'Stark 2014',
+  'Khot et al. 2015', 'Markham and Pereira 2019a', 'Markham and Pereira 2019b', 'Stark 2014', 'Pickles 1995', 'Schuurman and Pratt 2002',
+  'Dunn 2007', 'Crampton et al. 2013', 'Williams 2020', 'D’Ignazio and Klein 2020', 'Graham et al. 2014', 'Graham et al. 2015', 'Robinson and Franklin 2020',
   ]],
 
+["Pickles 1995", 'instantiates', ["critical data science method"]],
+["Schuurman and Pratt 2002", 'instantiates', ["critical data science method"]],
+["Dunn 2007", 'instantiates', ["critical data science method"]],
+["Crampton et al. 2013", 'instantiates', ["critical data science method"]],
+["Williams 2020", 'instantiates', ["critical data science method"]],
+["D’Ignazio and Klein 2020", 'instantiates', ["critical data science method"]],
+["Graham et al. 2014", 'instantiates', ["critical data science method"]],
+["Graham et al. 2015", 'instantiates', ["critical data science method"]],
+["Robinson and Franklin 2020", 'instantiates', ["critical data science method"]],
 ["Lupton 2017", 'instantiates', ["research-creation and creative practice method"]],
 ["Offenhuber 2020", 'instantiates', ["research-creation and creative practice method"]],
 ["Khot et al. 2015", 'instantiates', ["research-creation and creative practice method"]],
