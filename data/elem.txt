@@ -51,9 +51,9 @@
 {"term": "Khot et al. 2015", "title": "Khot, R.A., Lee, J., Hjorth, L. and Mueller, F. (2015) ‘TastyBeats: Celebrating heart rate data with a drinkable spectacle’, in Proceedings of the Ninth International Conference on Tangible, Embedded, and Embodied Interaction. ACM, New York, pp. 229–232.", "url": NaN}
 {"term": "Kitchin 2021a", "title": "Kitchin, R. (2021a) Data Lives: How Data Are Made and Shape Our World. Bristol University Press, Bristol.", "url": NaN}
 {"term": "Kitchin 2021b", "title": "Kitchin, R. (2021b) The Data Revolution. SAGE Publications. Kindle Edition.", "url": NaN}
-{"term": "Kitchin and McArdle 2016", "title": NaN, "url": NaN}
-{"term": "Kitchin and Moore-Cherry 2020", "title": NaN, "url": NaN}
-{"term": "Kitchin and Stehle 2021", "title": NaN, "url": NaN}
+{"term": "Kitchin and McArdle 2016", "title": "Kitchin, R. and McArdle, G. (2016) ‘What makes big data, big data? Exploring the ontological characteristics of 26 datasets’, Big Data & Society, 3(1): 1–10.", "url": NaN}
+{"term": "Kitchin and Moore-Cherry 2020", "title": "Kitchin, R. and Moore-Cherry, N. (2020, online first) ‘Fragmented governance, the urban data ecosystem and smart cities: The case of Metropolitan Boston’, Regional Studies. DOI: 10.1080/00343404.2020.1735627.", "url": NaN}
+{"term": "Kitchin and Stehle 2021", "title": "Kitchin, R. and Stehle, S. (2021) ‘Can smart city data be used to create new official statistics?’, Journal of Official Statistics, 37(1): 1–29.", "url": NaN}
 {"term": "Kitchin et al. 2016", "title": "Kitchin, R., Maalsen, S. and McArdle, G. (2016) ‘The praxis and politics of building urban dashboards’, Geoforum, 77: 93–101.", "url": NaN}
 {"term": "Knox and Nafus 2018:3", "title": "Knox, H. and Nafus, D. (2018) ‘Introduction: Ethnography for a data-saturated world’, in Knox, H. and Nafus, D. (eds), Ethnography for a Data-Saturated World. Manchester University Press, Manchester, pp. 1–29.", "url": NaN}
 {"term": "Koopman 2019", "title": "Koopman, C. (2019) How We Became Our Data: A Genealogy of the Informational Person. University of Chicago Press, Chicago.", "url": NaN}
