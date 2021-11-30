@@ -1,0 +1,18 @@
+{"term": "Kitchin 2021b", "title": "Kitchin, R. (2021b) The Data Revolution. SAGE Publications. Kindle Edition."}
+{"term": "Herbert 2000", "title": "Herbert, S. (2000) ‘For ethnography’, Progress in Human Geography, 24(4): 550–568."}
+{"term": "Crang and Cook 2007", "title": "Crang, M. and Cook, I. (2007) Doing Ethnographies. Sage, London."}
+{"term": "Knox and Nafus 2018:3", "title": "Knox, H. and Nafus, D. (2018) ‘Introduction: Ethnography for a data-saturated world’, in Knox, H. and Nafus, D. (eds), Ethnography for a Data-Saturated World. Manchester University Press, Manchester, pp. 1–29."}
+{"term": "Pink et al. 2018b", "title": "Pink, S., Ruckenstein, M., Willim, R. and Duque, M. (2018b) ‘Broken data: Conceptualising data in an emerging world’, Big Data & Society, 5(2): 1–13."}
+{"term": "Meng and DiSalvo 2018", "title": "Meng, A. and DiSalvo, C. (2018) ‘Grassroots resource mobilization through counter-data action’, Big Data & Society, 5(2): 1–12."}
+{"term": "Coletta and Kitchin 2017", "title": "Coletta, C. and Kitchin, R. (2017) ‘Algorhythmic governance: Regulating the “heartbeat” of a city using the Internet of Things’, Big Data & Society, 4: 1–16."}
+{"term": "Tanweer et al. 2016", "title": "Tanweer, A., Fiore-Gartland, B. and Aragon, C. (2016) ‘Impediment to insight to innovation: Understanding data assemblages through the breakdown repair process’, Information, Communication & Society, 19(6): 736–752."}
+{"term": "Lowrie 2017", "title": "Lowrie, I. (2017) ‘Algorithmic rationality: Epistemology and efficiency in the data sciences’, Big Data & Society, 5(1): 1–13."}
+{"term": "Evans and Kitchin 2018", "title": "Evans, L. and Kitchin, R. (2018) ‘A smart place to work? Big data systems, labour, control, and modern retail stores’, New Technology, Work and Employment, 33(1): 44–57."}
+{"term": "Grommé et al. 2018", "title": "Grommé, F., Ruppert, E. and Cakici, B. (2018) ‘Data scientists: A new faction of the transnational field of statistics’, in Knox, H. and Nafus, D. (eds), Ethnography for a Data-Saturated World. Manchester University Press, Manchester, pp. 33–61."}
+{"term": "Pink and Fors 2017", "title": "Pink, S. and Fors, V. (2017) ‘Being in a mediated world: Self-tracking and the mind-body-environment’, Cultural Geographies, 24(3): 375–388."}
+{"term": "Beneito-Montagut et al. 2017",  "title": "Beneito-Montagut, R., Begueria, A. and Cassián, N. (2017) ‘Doing digital team ethnography: Being there together and digital social data’, Qualitative Research, 17(6), 664–682."}
+{"term": "Lehtiniemi and Ruckenstein 2019", "title": "Lehtiniemi, T. and Ruckenstein, M. (2019) ‘The social imaginaries of data activism’, Big Data & Society, (1): 1–12."}
+{"term": "Fraser 2019a", "title": "Fraser, A. (2019a) ‘Curating digital geographies in an era of data colonialism’, Geoforum, 104: 193–200."}
+{"term": "Kitchin 2021a", "title": "Kitchin, R. (2021a) Data Lives: How Data Are Made and Shape Our World. Bristol University Press, Bristol."}
+{"term": "Kitchin et al. 2016", "title": "Kitchin, R., Maalsen, S. and McArdle, G. (2016) ‘The praxis and politics of building urban dashboards’, Geoforum, 77: 93–101."}
+{"term": "Fraser 2019a URL", "title": "Curating digital geographies in an era of data colonialism", "url": "https://mural.maynoothuniversity.ie/13809/1/AF_curating.pdf"}
