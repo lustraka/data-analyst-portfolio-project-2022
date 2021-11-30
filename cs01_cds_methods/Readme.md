@@ -20,7 +20,7 @@ The AREA Method (Einhorn 2017) helps me bring greater **CARE** to making smarter
 - Notebooks IPYNB: documentation of the workflow
   - 20211130_Build_knowledge_base: used for populating a knowledge base with references from Kitchin (2021b)
 - Other docs
-  - [cs01_journal.md](cs01_journal.md): a journal of this case study
+  - [Journal of this case study](cs01_journal.md): tracks the research effort
 
 ## Compose Relationships
 
