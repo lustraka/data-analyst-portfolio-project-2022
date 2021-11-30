@@ -20,6 +20,8 @@ The AREA Method (Einhorn 2017) helps me bring greater **CARE** to making smarter
   - `batches_RRRRMMDD.txt`: a set of triples added to the baseline
 - Notebooks IPYNB document the workflow
   - 20211130_Build_knowledge_base: used for populating a knowledge base with references from Kitchin (2021b)
+- Deliverables
+-   [Critical Data Studies Methods Instantiated (Temporarily)](CDS_methods_instantiated.md) (2021-11-30)
 
 ## Compose Relationships
 
