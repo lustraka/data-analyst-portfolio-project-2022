@@ -1,0 +1,21 @@
+['data (auto)ethnography method', 'interview, focus group and workshop method', 'data archaeology method', 
+'historical analysis and genealogy method', 'participatory and action research method', 'data walk method', 
+'discursive analysis method', 'research-creation and creative practice method', 'critical data science method']
+
+["", 'instantiates', [""]],
+["", 'instantiates', [""]],
+["", 'instantiates', [""]],
+["", 'instantiates', [""]],
+
+*********************************** remove before loading ***********************************
+[
+['Kitchin 2021b', 'cites',
+  [
+  ]],
+
+["", 'instantiates', [""]],
+["", 'instantiates', [""]],
+["", 'instantiates', [""]],
+["", 'instantiates', [""]],
+
+]
