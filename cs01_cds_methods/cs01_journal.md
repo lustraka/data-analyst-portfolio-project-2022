@@ -4,7 +4,7 @@ This journal provides the overview of case study's activities (transactions) for
 
 ## Design Document Transformations
 The *map CDS methods based on Kitchen (2021b)* process includes steps:
-- *map references to the CDS methods based on Kitchin (2021b)* process (See Journal 2021-11-30)
+- *map references to the CDS methods based on Kitchin (2021b)* process (See Journal 2021-11-30/2)
 - find out full text documents, choose at least 3 examples of each CDS method,
 - add the **"embodies"** type triples and elements with the `title` and `url` attributes by hand,
 - check the integrity of the knowledge base.
@@ -24,6 +24,7 @@ Candidates for next steps are:
   - process the **"cites"** type  triples and the **"instantiates"** type triples for CDS methods in Kitchen (2021b)
   - dump the knowledge base for manual embelishment
   - add titles of references [8 fsp]
+- (3) **Modus Operandi**. While embelishing data by hand I can use a local clone of the GitHub repository, then pull changes to origin and download files again in Colab.
 
 
 ## Curate Backlog and ToDos
