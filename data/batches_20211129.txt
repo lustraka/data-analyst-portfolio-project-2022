@@ -1,0 +1,28 @@
+[
+[
+        'Kitchin 2021b',
+        'cites',
+        ['Herbert 2000', 'Crang and Cook 2007', 'Knox and Nafus 2018:3', 'Pink et al. 2018b',
+         'Meng and DiSalvo 2018', 'Coletta and Kitchin 2017', 'Tanweer et al. 2016', 'Lowrie 2017',
+         'Evans and Kitchin 2018', 'Grommé et al. 2018', 'Pink and Fors 2017', 'Beneito-Montagut et al. 2017',
+         'Lehtiniemi and Ruckenstein 2019', 'Fraser 2019a', 'Kitchin 2021a', 'Kitchin et al. 2016']
+],
+['critical data study',
+'uses',
+['data (auto)ethnography method', 'interview, focus group and workshop method', 'data archaeology method', 'historical analysis and genealogy method', 'participatory and action research method', 'data walk method', 'discursive analysis method', 'research-creation and creative practice method', 'critical data science method']],
+["Pink et al. 2018b", 'instantiates', ['data (auto)ethnography method']],
+["Meng and DiSalvo 2018", 'instantiates', ['data (auto)ethnography method', 'interview, focus group and workshop method']],
+["Coletta and Kitchin 2017", 'instantiates', ['data (auto)ethnography method']],
+["Tanweer et al. 2016", 'instantiates', ['data (auto)ethnography method']],
+["Lowrie 2017", 'instantiates', ['data (auto)ethnography method']],
+["Evans and Kitchin 2018", 'instantiates', ['data (auto)ethnography method']],
+["Grommé et al. 2018", 'instantiates', ['data (auto)ethnography method']],
+["Pink and Fors 2017", 'instantiates', ['data (auto)ethnography method']],
+["Beneito-Montagut et al. 2017", 'instantiates', ['data (auto)ethnography method']],
+["Lehtiniemi and Ruckenstein 2019", 'instantiates', ['data (auto)ethnography method']],
+["Fraser 2019a", 'instantiates', ['data (auto)ethnography method']],
+["Kitchin 2021a", 'instantiates', ['data (auto)ethnography method']],
+["Kitchin et al. 2016", 'instantiates', ['data (auto)ethnography method']],
+["Fraser 2019a URL", 'embodies', ["Fraser 2019a"]],
+
+]
