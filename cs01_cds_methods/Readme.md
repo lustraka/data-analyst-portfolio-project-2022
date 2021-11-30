@@ -14,10 +14,13 @@ The AREA Method (Einhorn 2017) helps me bring greater **CARE** to making smarter
 
 ## Collect Elements
 - Knowledge Base
-  - `tao_iim.py`: module for loading, adding and dumping data to the knowledge base
+  - `tao_iim.py`: a module for loading, adding and dumping data to the knowledge base
   - `elem.txt`, `rels.csv`, `relt.csv`: the knowledge base (editable)
-  - `RRRRMMDD_batches.txt`: a set of triples added to the baseline
-- Notebooks IPYNB: documentaion of the workflow
+  - `batches_RRRRMMDD.txt`: a set of triples added to the baseline
+- Notebooks IPYNB: documentation of the workflow
+  - 20211130_Build_knowledge_base: used for populating a knowledge base with references from Kitchin (2021b)
+- Other docs
+  - [cs01_journal.md](cs01_journal.md): a journal of this case study
 
 ## Compose Relationships
 
