@@ -13,14 +13,13 @@ The AREA Method (Einhorn 2017) helps me bring greater **CARE** to making smarter
 (Source: WorkFlowy LS_2011)
 
 ## Collect Elements
-- Knowledge Base
+- [Journal](cs01_journal.md) tracks the research journey of this case study including effort
+- Knowledge Base holds the Term-Association ontology (TAO) inluding instances
   - `tao_iim.py`: a module for loading, adding and dumping data to the knowledge base
   - `elem.txt`, `rels.csv`, `relt.csv`: the knowledge base (editable)
   - `batches_RRRRMMDD.txt`: a set of triples added to the baseline
-- Notebooks IPYNB: documentation of the workflow
+- Notebooks IPYNB document the workflow
   - 20211130_Build_knowledge_base: used for populating a knowledge base with references from Kitchin (2021b)
-- Other docs
-  - [Journal of this case study](cs01_journal.md): tracks the research effort
 
 ## Compose Relationships
 
