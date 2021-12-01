@@ -24,6 +24,9 @@ The AREA Method (Einhorn 2017) helps me bring greater **CARE** to making smarter
   - [Critical Data Studies Methods Instantiated](CDS_methods_instantiated.md) (done 2021-11-30)
 
 ## Compose Relationships
+The initial concept model of TAO-IIN for this case study includes four concepts:
+
+![Initial Ontology](https://www.plantuml.com/plantuml/png/FP0nQmCn38Lt_mhXyI3_e9Ii6Lf2bovPx9FQ4rpaOCcK_FlgZDf1F3-_nsVXirhfDkvxMaj7o1Snwa86xmtf9YoIeIYu9cb6qFbxiyH-WoJ6Nqm8zGcf25okK10xgIOIXACUq4-gy47QHb-TEVe-cQwHNqVTUIt6JMxo67N6hX6_aMqDRz9--anSKs8Ho2_rTMjgca-dp0h7UUwJ9zndLkXU6pBzjS8YiEJvYW_aPLdPI9SbMku25PL0FVRs_2TD5wHZgpC9-b_-0W00)
 
 ## Conduct Pre-Mortem
 **2021-11-30**: I need a clear structure for this study, otherwise I get lost. After a couple of first fsp spent on the study I can set a time limit. This is a part of my one-sided contract for this artwork.
