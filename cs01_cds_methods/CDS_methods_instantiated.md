@@ -2,128 +2,128 @@
 Temporary Report
 
 - **Data (Auto)Ethnography Method**
-	- (Beneito-Montagut et al. 2017) Beneito-Montagut, R., Begueria, A. and Cassián, N. (2017) ‘Doing digital team ethnography: Being there together and digital social data’, Qualitative Research, 17(6), 664–682.
-	- (Coletta and Kitchin 2017) Coletta, C. and Kitchin, R. (2017) ‘Algorhythmic governance: Regulating the “heartbeat” of a city using the Internet of Things’, Big Data & Society, 4: 1–16.
-	- (Evans and Kitchin 2018) Evans, L. and Kitchin, R. (2018) ‘A smart place to work? Big data systems, labour, control, and modern retail stores’, New Technology, Work and Employment, 33(1): 44–57.
-	- (Fraser 2019a) Fraser, A. (2019a) ‘Curating digital geographies in an era of data colonialism’, Geoforum, 104: 193–200.
-	- (Grommé et al. 2018) Grommé, F., Ruppert, E. and Cakici, B. (2018) ‘Data scientists: A new faction of the transnational field of statistics’, in Knox, H. and Nafus, D. (eds), Ethnography for a Data-Saturated World. Manchester University Press, Manchester, pp. 33–61.
-	- (Kitchin 2021a) Kitchin, R. (2021a) Data Lives: How Data Are Made and Shape Our World. Bristol University Press, Bristol.
-	- (Kitchin et al. 2016) Kitchin, R., Maalsen, S. and McArdle, G. (2016) ‘The praxis and politics of building urban dashboards’, Geoforum, 77: 93–101.
-	- (Lehtiniemi and Ruckenstein 2019) Lehtiniemi, T. and Ruckenstein, M. (2019) ‘The social imaginaries of data activism’, Big Data & Society, (1): 1–12.
-	- (Lowrie 2017) Lowrie, I. (2017) ‘Algorithmic rationality: Epistemology and efficiency in the data sciences’, Big Data & Society, 5(1): 1–13.
-	- (Meng and DiSalvo 2018) Meng, A. and DiSalvo, C. (2018) ‘Grassroots resource mobilization through counter-data action’, Big Data & Society, 5(2): 1–12.
-	- (Pink and Fors 2017) Pink, S. and Fors, V. (2017) ‘Being in a mediated world: Self-tracking and the mind-body-environment’, Cultural Geographies, 24(3): 375–388.
-	- (Pink et al. 2018b) Pink, S., Ruckenstein, M., Willim, R. and Duque, M. (2018b) ‘Broken data: Conceptualising data in an emerging world’, Big Data & Society, 5(2): 1–13.
-	- (Tanweer et al. 2016) Tanweer, A., Fiore-Gartland, B. and Aragon, C. (2016) ‘Impediment to insight to innovation: Understanding data assemblages through the breakdown repair process’, Information, Communication & Society, 19(6): 736–752.
+	- (pbl Beneito-Montagut et al. 2017) Beneito-Montagut, R., Begueria, A. and Cassián, N. (2017) ‘Doing digital team ethnography: Being there together and digital social data’, Qualitative Research, 17(6), 664–682.
+	- (pbl Coletta and Kitchin 2017) Coletta, C. and Kitchin, R. (2017) ‘Algorhythmic governance: Regulating the “heartbeat” of a city using the Internet of Things’, Big Data & Society, 4: 1–16.
+	- (pbl Evans and Kitchin 2018) Evans, L. and Kitchin, R. (2018) ‘A smart place to work? Big data systems, labour, control, and modern retail stores’, New Technology, Work and Employment, 33(1): 44–57.
+	- (pbl Fraser 2019a) Fraser, A. (2019a) ‘Curating digital geographies in an era of data colonialism’, Geoforum, 104: 193–200.
+	- (pbl Grommé et al. 2018) Grommé, F., Ruppert, E. and Cakici, B. (2018) ‘Data scientists: A new faction of the transnational field of statistics’, in Knox, H. and Nafus, D. (eds), Ethnography for a Data-Saturated World. Manchester University Press, Manchester, pp. 33–61.
+	- (pbl Kitchin 2021a) Kitchin, R. (2021a) Data Lives: How Data Are Made and Shape Our World. Bristol University Press, Bristol.
+	- (pbl Kitchin et al. 2016) Kitchin, R., Maalsen, S. and McArdle, G. (2016) ‘The praxis and politics of building urban dashboards’, Geoforum, 77: 93–101.
+	- (pbl Lehtiniemi and Ruckenstein 2019) Lehtiniemi, T. and Ruckenstein, M. (2019) ‘The social imaginaries of data activism’, Big Data & Society, (1): 1–12.
+	- (pbl Lowrie 2017) Lowrie, I. (2017) ‘Algorithmic rationality: Epistemology and efficiency in the data sciences’, Big Data & Society, 5(1): 1–13.
+	- (pbl Meng and DiSalvo 2018) Meng, A. and DiSalvo, C. (2018) ‘Grassroots resource mobilization through counter-data action’, Big Data & Society, 5(2): 1–12.
+	- (pbl Pink and Fors 2017) Pink, S. and Fors, V. (2017) ‘Being in a mediated world: Self-tracking and the mind-body-environment’, Cultural Geographies, 24(3): 375–388.
+	- (pbl Pink et al. 2018b) Pink, S., Ruckenstein, M., Willim, R. and Duque, M. (2018b) ‘Broken data: Conceptualising data in an emerging world’, Big Data & Society, 5(2): 1–13.
+	- (pbl Tanweer et al. 2016) Tanweer, A., Fiore-Gartland, B. and Aragon, C. (2016) ‘Impediment to insight to innovation: Understanding data assemblages through the breakdown repair process’, Information, Communication & Society, 19(6): 736–752.
 - **Interview, Focus Group And Workshop Method**
-	- (Baack 2015) Baack, S. (2015) ‘Datafication and empowerment: How the open data movement re-articulates notions of democracy, participation, and journalism’, Big Data & Society, 2(2): 1–11.
-	- (Bates 2018) Bates, J. (2018) ‘The politics of data friction’, Journal of Documentation, 74: 412–429.
-	- (Bates et al. 2016) Bates, J., Lin, Y.-W. and Goodale, P. (2016) ‘Data journeys: Capturing the socio-material constitution of data objects and flows’, Big Data & Society, 4(2): 1–12.
-	- (Brayne 2017) Brayne, S. (2017) ‘Big data surveillance: The case of policing’, American Sociological Review, 82(5): 977–1008.
-	- (Chenou and Cepeda-Másmela 2019) Chenou, J.-M. and Cepeda-Másmela, C. (2019) ‘#NiUnaMenos: Data Activism from the Global South’, Television & New Media, 20(4): 396–411.
-	- (Cinnamon 2019) Cinnamon, J. (2019) ‘Visual data justice? Datafication of urban informality in South Africa using 360° imaging technologies’, Development Informatics Working Paper Series 75. www.gdi.manchester.ac.uk/research/publications/di/di-wp75/ (accessed 1 December 2020).
-	- (Delaney 2019) Delaney, A. (2019) ‘Humanising policy from “Warriors to Guardians”: An evaluation of coordinated management and emergency response assemblages in Ireland and the US’, Doctoral thesis, National University of Ireland.
-	- (Delaney and Kitchin 2020) Delaney, A. and Kitchin, R. (2020, online first) ‘Progress and prospects for data-driven coordinated management and emergency response: The case of Ireland’, Territory, Politics, Governance. DOI: 10.1080/21622671.2020.1805355.
-	- (Gray 2019) Gray, J. (2019) ‘Data witnessing: Attending to injustice with data in Amnesty International’s Decoders project’, Information, Communication & Society, 22(7): 971–991.
-	- (Kitchin and Moore-Cherry 2020) Kitchin, R. and Moore-Cherry, N. (2020, online first) ‘Fragmented governance, the urban data ecosystem and smart cities: The case of Metropolitan Boston’, Regional Studies. DOI: 10.1080/00343404.2020.1735627.
-	- (Meng and DiSalvo 2018) Meng, A. and DiSalvo, C. (2018) ‘Grassroots resource mobilization through counter-data action’, Big Data & Society, 5(2): 1–12.
-	- (Ruijer et al. 2017) Ruijer, E., Grimmelikhuijsen, S. and Meijer, A. (2017) ‘Open data for democracy: Developing a theoretical framework for open data use’, Government Information Quarterly, 34(1): 45–52.
-	- (Thatcher 2014) Thatcher, J. (2014) ‘Living on fumes: Digital footprints, data fumes, and the limitations of spatial big data’, International Journal of Communication, 8: 1765–1783.
+	- (pbl Baack 2015) Baack, S. (2015) ‘Datafication and empowerment: How the open data movement re-articulates notions of democracy, participation, and journalism’, Big Data & Society, 2(2): 1–11.
+	- (pbl Bates 2018) Bates, J. (2018) ‘The politics of data friction’, Journal of Documentation, 74: 412–429.
+	- (pbl Bates et al. 2016) Bates, J., Lin, Y.-W. and Goodale, P. (2016) ‘Data journeys: Capturing the socio-material constitution of data objects and flows’, Big Data & Society, 4(2): 1–12.
+	- (pbl Brayne 2017) Brayne, S. (2017) ‘Big data surveillance: The case of policing’, American Sociological Review, 82(5): 977–1008.
+	- (pbl Chenou and Cepeda-Másmela 2019) Chenou, J.-M. and Cepeda-Másmela, C. (2019) ‘#NiUnaMenos: Data Activism from the Global South’, Television & New Media, 20(4): 396–411.
+	- (pbl Cinnamon 2019) Cinnamon, J. (2019) ‘Visual data justice? Datafication of urban informality in South Africa using 360° imaging technologies’, Development Informatics Working Paper Series 75. www.gdi.manchester.ac.uk/research/publications/di/di-wp75/ (accessed 1 December 2020).
+	- (pbl Delaney 2019) Delaney, A. (2019) ‘Humanising policy from “Warriors to Guardians”: An evaluation of coordinated management and emergency response assemblages in Ireland and the US’, Doctoral thesis, National University of Ireland.
+	- (pbl Delaney and Kitchin 2020) Delaney, A. and Kitchin, R. (2020, online first) ‘Progress and prospects for data-driven coordinated management and emergency response: The case of Ireland’, Territory, Politics, Governance. DOI: 10.1080/21622671.2020.1805355.
+	- (pbl Gray 2019) Gray, J. (2019) ‘Data witnessing: Attending to injustice with data in Amnesty International’s Decoders project’, Information, Communication & Society, 22(7): 971–991.
+	- (pbl Kitchin and Moore-Cherry 2020) Kitchin, R. and Moore-Cherry, N. (2020, online first) ‘Fragmented governance, the urban data ecosystem and smart cities: The case of Metropolitan Boston’, Regional Studies. DOI: 10.1080/00343404.2020.1735627.
+	- (pbl Meng and DiSalvo 2018) Meng, A. and DiSalvo, C. (2018) ‘Grassroots resource mobilization through counter-data action’, Big Data & Society, 5(2): 1–12.
+	- (pbl Ruijer et al. 2017) Ruijer, E., Grimmelikhuijsen, S. and Meijer, A. (2017) ‘Open data for democracy: Developing a theoretical framework for open data use’, Government Information Quarterly, 34(1): 45–52.
+	- (pbl Thatcher 2014) Thatcher, J. (2014) ‘Living on fumes: Digital footprints, data fumes, and the limitations of spatial big data’, International Journal of Communication, 8: 1765–1783.
 - **Data Archaeology Method**
-	- (Bates 2018) Bates, J. (2018) ‘The politics of data friction’, Journal of Documentation, 74: 412–429.
-	- (Bates et al. 2016) Bates, J., Lin, Y.-W. and Goodale, P. (2016) ‘Data journeys: Capturing the socio-material constitution of data objects and flows’, Big Data & Society, 4(2): 1–12.
-	- (Currie et al. 2016) Currie, M., Paris, B.S., Pasquetto, I. and Pierre, J. (2016) ‘The conundrum of police officer-involved homicides: Counter-data in Los Angeles County’, Big Data & Society, 3(2): 1–14.
-	- (Dodge and Kitchin 2000) Dodge, M. and Kitchin, R. (2000) Mapping Cyberspace. Routledge, London.
-	- (Dodge and Kitchin 2005) Dodge, M. and Kitchin, R. (2005) ‘Codes of life: Identification codes and the machine-readable world’, Environment and Planning D: Society and Space, 23(6): 851–881.
-	- (Dumit and Nafus 2018) Dumit, J. and Nafus, D. (2018) ‘The other ninety per cent: Thinking with data science, creating data studies,’ in Knox, H. and Nafus, D. (eds), Ethnography for a Data-Saturated World. Manchester University Press, Manchester, pp. 252–274.
-	- (Iliadis 2019) Iliadis, A. (2019) ‘The Tower of Babel problem: Making data make sense with Basic Formal Ontology’, Online Information Review, 43(6): 1021–1045.
-	- (Kitchin and McArdle 2016) Kitchin, R. and McArdle, G. (2016) ‘What makes big data, big data? Exploring the ontological characteristics of 26 datasets’, Big Data & Society, 3(1): 1–10.
-	- (Kitchin and Stehle 2021) Kitchin, R. and Stehle, S. (2021) ‘Can smart city data be used to create new official statistics?’, Journal of Official Statistics, 37(1): 1–29.
-	- (Kitchin et al. 2016) Kitchin, R., Maalsen, S. and McArdle, G. (2016) ‘The praxis and politics of building urban dashboards’, Geoforum, 77: 93–101.
-	- (Leszczynski 2017) Leszczynski, A. (2017) ‘Geoprivacy’, in Kitchin, R., Lauriault, T. and Wilson, M. (eds), Understanding Spatial Media. Sage, London, pp. 239–248.
-	- (Light et al. 2016) Light, B., Burgess, J. and Duguay, S. (2016) ‘The walkthrough method: An approach to the study of apps’, New Media & Society 20(3): 881–900.
-	- (Loukissas 2018) Loukissas, Y. (2018) ‘All the homes: Zillow and the operational context of data’, in Chowdhury, G. et al. (eds), iConference 2018, LNCS 10766, Springer, Cham, pp. 272–281.
-	- (Meng and DiSalvo 2018) Meng, A. and DiSalvo, C. (2018) ‘Grassroots resource mobilization through counter-data action’, Big Data & Society, 5(2): 1–12.
-	- (Tanweer et al. 2016) Tanweer, A., Fiore-Gartland, B. and Aragon, C. (2016) ‘Impediment to insight to innovation: Understanding data assemblages through the breakdown repair process’, Information, Communication & Society, 19(6): 736–752.
+	- (pbl Bates 2018) Bates, J. (2018) ‘The politics of data friction’, Journal of Documentation, 74: 412–429.
+	- (pbl Bates et al. 2016) Bates, J., Lin, Y.-W. and Goodale, P. (2016) ‘Data journeys: Capturing the socio-material constitution of data objects and flows’, Big Data & Society, 4(2): 1–12.
+	- (pbl Currie et al. 2016) Currie, M., Paris, B.S., Pasquetto, I. and Pierre, J. (2016) ‘The conundrum of police officer-involved homicides: Counter-data in Los Angeles County’, Big Data & Society, 3(2): 1–14.
+	- (pbl Dodge and Kitchin 2000) Dodge, M. and Kitchin, R. (2000) Mapping Cyberspace. Routledge, London.
+	- (pbl Dodge and Kitchin 2005) Dodge, M. and Kitchin, R. (2005) ‘Codes of life: Identification codes and the machine-readable world’, Environment and Planning D: Society and Space, 23(6): 851–881.
+	- (pbl Dumit and Nafus 2018) Dumit, J. and Nafus, D. (2018) ‘The other ninety per cent: Thinking with data science, creating data studies,’ in Knox, H. and Nafus, D. (eds), Ethnography for a Data-Saturated World. Manchester University Press, Manchester, pp. 252–274.
+	- (pbl Iliadis 2019) Iliadis, A. (2019) ‘The Tower of Babel problem: Making data make sense with Basic Formal Ontology’, Online Information Review, 43(6): 1021–1045.
+	- (pbl Kitchin and McArdle 2016) Kitchin, R. and McArdle, G. (2016) ‘What makes big data, big data? Exploring the ontological characteristics of 26 datasets’, Big Data & Society, 3(1): 1–10.
+	- (pbl Kitchin and Stehle 2021) Kitchin, R. and Stehle, S. (2021) ‘Can smart city data be used to create new official statistics?’, Journal of Official Statistics, 37(1): 1–29.
+	- (pbl Kitchin et al. 2016) Kitchin, R., Maalsen, S. and McArdle, G. (2016) ‘The praxis and politics of building urban dashboards’, Geoforum, 77: 93–101.
+	- (pbl Leszczynski 2017) Leszczynski, A. (2017) ‘Geoprivacy’, in Kitchin, R., Lauriault, T. and Wilson, M. (eds), Understanding Spatial Media. Sage, London, pp. 239–248.
+	- (pbl Light et al. 2016) Light, B., Burgess, J. and Duguay, S. (2016) ‘The walkthrough method: An approach to the study of apps’, New Media & Society 20(3): 881–900.
+	- (pbl Loukissas 2018) Loukissas, Y. (2018) ‘All the homes: Zillow and the operational context of data’, in Chowdhury, G. et al. (eds), iConference 2018, LNCS 10766, Springer, Cham, pp. 272–281.
+	- (pbl Meng and DiSalvo 2018) Meng, A. and DiSalvo, C. (2018) ‘Grassroots resource mobilization through counter-data action’, Big Data & Society, 5(2): 1–12.
+	- (pbl Tanweer et al. 2016) Tanweer, A., Fiore-Gartland, B. and Aragon, C. (2016) ‘Impediment to insight to innovation: Understanding data assemblages through the breakdown repair process’, Information, Communication & Society, 19(6): 736–752.
 - **Historical Analysis And Genealogy Method**
-	- (Barnes and Wilson 2014) Barnes, T.J. and Wilson, M.W. (2014) ‘Big Data, social physics, and spatial analysis: The early years’, Big Data & Society, 1(1): 1–14.
-	- (Bates et al. 2016) Bates, J., Lin, Y.-W. and Goodale, P. (2016) ‘Data journeys: Capturing the socio-material constitution of data objects and flows’, Big Data & Society, 4(2): 1–12.
-	- (Browne 2015) Browne, S. (2015) Dark Matters: On the Surveillance of Blackness. Duke University Press, Durham, NC.
-	- (Crowley 2009) Crowley, U. (2009) ‘Genealogy method’, in Kitchin, R. and Thrift, N. (eds), International Encyclopedia of Human Geography, vol. 4. Elsevier, Oxford, pp. 341–344.
-	- (Davies et al. 2019b) Davies, T., Walker, S., Rubinstein, M. and Perini, F. (eds) (2019b) The State of Open Data: Histories and Horizons. African Minds and International Development Research Centre Cape Town and Ottawa.
-	- (Desrosières 1998) Desrosières, A. (1998) The Politics of Large Numbers: A History of Statistical Reasoning. Harvard University Press, Cambridge, MA.
-	- (Foucault 1977) Foucault, M. (1977) Discipline and Punish. Allen Lane, London.
-	- (Hannah 2011) Hannah, M. (2011) Dark Territory in the Information Age. Ashgate, Farnham.
-	- (Karabell 2014) Karabell, Z. (2014) The Leading Indicators: A Short History of the Numbers That Rule Our World. Simon & Schuster, New York.
-	- (Koopman 2019) Koopman, C. (2019) How We Became Our Data: A Genealogy of the Informational Person. University of Chicago Press, Chicago.
-	- (Lauriault 2012) Lauriault, T.P. (2012) ‘Data, infrastructures and geographical imaginations: Mapping data access discourses in Canada’, PhD Thesis, Carleton University, Ottawa.
-	- (Lauriault 2017) Lauriault, T. (2017) ‘Open spatial data’, in Kitchin, R., Lauriault, T. and Wilson, M. (eds), Understanding Spatial Media. Sage, London, pp. 95–109.
-	- (Phillips 2019) Phillips, C.J. (2019) Scouting and Scoring: How We Know What We Know About Baseball. Princeton University Press, Princeton, NJ.
-	- (Poovey 1998) Poovey, M. (1998) A History of the Modern Fact: Problems of Knowledge in the Sciences of Wealth and Society. University Chicago Press, Chicago.
-	- (Porter 1995) Porter, T.M. (1995) Trust in Numbers: The Pursuit of Objectivity in Science and Public Life. Princeton University Press, Princeton, NJ.
-	- (Wernimont 2018) Wernimont, J. (2018) Numbered Lives: Life and Death in Quantum Media. MIT Press, Cambridge, MA.
-	- (Wyly 2019) Wyly, E. (2019) Geography’s Quantitative Revolutions: Edward A. Ackerman and the Cold War Origins of Big Data. West Virginia University Press, Morgantown.
+	- (pbl Barnes and Wilson 2014) Barnes, T.J. and Wilson, M.W. (2014) ‘Big Data, social physics, and spatial analysis: The early years’, Big Data & Society, 1(1): 1–14.
+	- (pbl Bates et al. 2016) Bates, J., Lin, Y.-W. and Goodale, P. (2016) ‘Data journeys: Capturing the socio-material constitution of data objects and flows’, Big Data & Society, 4(2): 1–12.
+	- (pbl Browne 2015) Browne, S. (2015) Dark Matters: On the Surveillance of Blackness. Duke University Press, Durham, NC.
+	- (pbl Crowley 2009) Crowley, U. (2009) ‘Genealogy method’, in Kitchin, R. and Thrift, N. (eds), International Encyclopedia of Human Geography, vol. 4. Elsevier, Oxford, pp. 341–344.
+	- (pbl Davies et al. 2019b) Davies, T., Walker, S., Rubinstein, M. and Perini, F. (eds) (2019b) The State of Open Data: Histories and Horizons. African Minds and International Development Research Centre Cape Town and Ottawa.
+	- (pbl Desrosières 1998) Desrosières, A. (1998) The Politics of Large Numbers: A History of Statistical Reasoning. Harvard University Press, Cambridge, MA.
+	- (pbl Foucault 1977) Foucault, M. (1977) Discipline and Punish. Allen Lane, London.
+	- (pbl Hannah 2011) Hannah, M. (2011) Dark Territory in the Information Age. Ashgate, Farnham.
+	- (pbl Karabell 2014) Karabell, Z. (2014) The Leading Indicators: A Short History of the Numbers That Rule Our World. Simon & Schuster, New York.
+	- (pbl Koopman 2019) Koopman, C. (2019) How We Became Our Data: A Genealogy of the Informational Person. University of Chicago Press, Chicago.
+	- (pbl Lauriault 2012) Lauriault, T.P. (2012) ‘Data, infrastructures and geographical imaginations: Mapping data access discourses in Canada’, PhD Thesis, Carleton University, Ottawa.
+	- (pbl Lauriault 2017) Lauriault, T. (2017) ‘Open spatial data’, in Kitchin, R., Lauriault, T. and Wilson, M. (eds), Understanding Spatial Media. Sage, London, pp. 95–109.
+	- (pbl Phillips 2019) Phillips, C.J. (2019) Scouting and Scoring: How We Know What We Know About Baseball. Princeton University Press, Princeton, NJ.
+	- (pbl Poovey 1998) Poovey, M. (1998) A History of the Modern Fact: Problems of Knowledge in the Sciences of Wealth and Society. University Chicago Press, Chicago.
+	- (pbl Porter 1995) Porter, T.M. (1995) Trust in Numbers: The Pursuit of Objectivity in Science and Public Life. Princeton University Press, Princeton, NJ.
+	- (pbl Wernimont 2018) Wernimont, J. (2018) Numbered Lives: Life and Death in Quantum Media. MIT Press, Cambridge, MA.
+	- (pbl Wyly 2019) Wyly, E. (2019) Geography’s Quantitative Revolutions: Edward A. Ackerman and the Cold War Origins of Big Data. West Virginia University Press, Morgantown.
 - **Participatory And Action Research Method**
-	- (Ampatzidou et al. 2015) Ampatzidou, C., Bouw, M., van de Klundert, F., de Lange, M. and de Waal, M. (2015) The Hackable City: A Research Manifesto and Design Toolkit. Amsterdam Creative Industries Publishing, Amsterdam.
-	- (Currie et al. 2016) Currie, M., Paris, B.S., Pasquetto, I. and Pierre, J. (2016) ‘The conundrum of police officer-involved homicides: Counter-data in Los Angeles County’, Big Data & Society, 3(2): 1–14.
-	- (Gabrys et al. 2016) Gabrys, J., Pritchard, H. and Barratt, B. (2016) ‘Just good enough data: Figuring data citizenships through air pollution sensing and data stories’, Big Data & Society, 3(2): 1–14.
-	- (Irani 2015) Irani, L. (2015) ‘Hackathons and the making of entrepreneurial citizenship’, Science, Technology and Human Values, 40(5): 799–824.
-	- (Kennedy et al. 2015b) Kennedy, H., Poell, T. and van Dijck, J. (2015b) ‘Data and agency’, Big Data & Society, 2(2): 1–7.
-	- (Meng and DiSalvo 2018) Meng, A. and DiSalvo, C. (2018) ‘Grassroots resource mobilization through counter-data action’, Big Data & Society, 5(2): 1–12.
-	- (Perng et al. 2018) Perng, S.-Y., Kitchin, R. and MacDonncha, D. (2018) ‘Hackathons, entrepreneurial life and the making of smart cities’, Geoforum, 97: 189–197.
-	- (Petty et al. 2016) Petty, T., Saba, M., Lewis, T., Gangadharan, S.P. and Eubanks, V. (2016) Our Data Bodies: Reclaiming Our Data. Our Data Bodies Project, www.odbproject.org/wp-content/uploads/2016/12/ODB.InterimReport.FINAL_.7.16.2018.pdf (accessed 2 December 2020).
-	- (Urban Praxis 2017) Urban Praxis (2017) ‘O’Hair Park Campaign’, https://urbanpraxis.org/research/ (accessed 2 December 2020).
+	- (pbl Ampatzidou et al. 2015) Ampatzidou, C., Bouw, M., van de Klundert, F., de Lange, M. and de Waal, M. (2015) The Hackable City: A Research Manifesto and Design Toolkit. Amsterdam Creative Industries Publishing, Amsterdam.
+	- (pbl Currie et al. 2016) Currie, M., Paris, B.S., Pasquetto, I. and Pierre, J. (2016) ‘The conundrum of police officer-involved homicides: Counter-data in Los Angeles County’, Big Data & Society, 3(2): 1–14.
+	- (pbl Gabrys et al. 2016) Gabrys, J., Pritchard, H. and Barratt, B. (2016) ‘Just good enough data: Figuring data citizenships through air pollution sensing and data stories’, Big Data & Society, 3(2): 1–14.
+	- (pbl Irani 2015) Irani, L. (2015) ‘Hackathons and the making of entrepreneurial citizenship’, Science, Technology and Human Values, 40(5): 799–824.
+	- (pbl Kennedy et al. 2015b) Kennedy, H., Poell, T. and van Dijck, J. (2015b) ‘Data and agency’, Big Data & Society, 2(2): 1–7.
+	- (pbl Meng and DiSalvo 2018) Meng, A. and DiSalvo, C. (2018) ‘Grassroots resource mobilization through counter-data action’, Big Data & Society, 5(2): 1–12.
+	- (pbl Perng et al. 2018) Perng, S.-Y., Kitchin, R. and MacDonncha, D. (2018) ‘Hackathons, entrepreneurial life and the making of smart cities’, Geoforum, 97: 189–197.
+	- (pbl Petty et al. 2016) Petty, T., Saba, M., Lewis, T., Gangadharan, S.P. and Eubanks, V. (2016) Our Data Bodies: Reclaiming Our Data. Our Data Bodies Project, www.odbproject.org/wp-content/uploads/2016/12/ODB.InterimReport.FINAL_.7.16.2018.pdf (accessed 2 December 2020).
+	- (pbl Urban Praxis 2017) Urban Praxis (2017) ‘O’Hair Park Campaign’, https://urbanpraxis.org/research/ (accessed 2 December 2020).
 - **Data Walk Method**
-	- (Dawkins and Young 2020) Dawkins, O. and Young, G. W. (2020) ‘Engaging place with mixed realities: Sharing multisensory experiences of place through community-generated digital content and multimodal interaction’, in Chen, J. and Fragomeni, G. (eds), Virtual, Augmented and Mixed Reality: Industrial and Everyday Life Applications, HCII 2020. Lecture Notes in Computer Science, vol. 12191. Springer, Cham, pp. 199–218.
-	- (Hunter 2018) Hunter, D. (2018) ‘Datawalking project’, http://datawalking.com/ (accessed 1 December 2020).
-	- (Jarke 2019) Jarke, J. (2019) ‘Open government for all? Co-creating digital public services for older adults through data walks’, Online Information Review, 43(6): 1003–1020.
-	- (Powell 2018) Powell, A. (2018) ‘The data walkshop and radical bottom-up data knowledge’, in Knox, H. and Nafus, D. (eds), Ethnography for a Data-Saturated World. Manchester University Press, Manchester, pp. 212–232.
-	- (Thatcher and Dalton 2017) Thatcher, J. and Dalton, C.M. (2017) ‘Data derives: Confronting digital geographic information as spectacle’, in Briziarelli, M. and Armano, E. (eds), The Spectacle 2.0: Reading Debord in the Context of Digital Capitalism. University of Westminster Press, London, pp. 135–150.
-	- (van Zoonen et al. 2017) van Zoonen, L., Hirzalla, F., Engelbert, J., Zuijderwijk, L. and Schokker, L. (2017) “‘Seeing more than you think”: A “data walk” in the smart city’, 26 May, Bang the Table, www.bangthetable.com/blog/data-walk-in-smart-city/ (accessed 2 December 2020).
+	- (pbl Dawkins and Young 2020) Dawkins, O. and Young, G. W. (2020) ‘Engaging place with mixed realities: Sharing multisensory experiences of place through community-generated digital content and multimodal interaction’, in Chen, J. and Fragomeni, G. (eds), Virtual, Augmented and Mixed Reality: Industrial and Everyday Life Applications, HCII 2020. Lecture Notes in Computer Science, vol. 12191. Springer, Cham, pp. 199–218.
+	- (pbl Hunter 2018) Hunter, D. (2018) ‘Datawalking project’, http://datawalking.com/ (accessed 1 December 2020).
+	- (pbl Jarke 2019) Jarke, J. (2019) ‘Open government for all? Co-creating digital public services for older adults through data walks’, Online Information Review, 43(6): 1003–1020.
+	- (pbl Powell 2018) Powell, A. (2018) ‘The data walkshop and radical bottom-up data knowledge’, in Knox, H. and Nafus, D. (eds), Ethnography for a Data-Saturated World. Manchester University Press, Manchester, pp. 212–232.
+	- (pbl Thatcher and Dalton 2017) Thatcher, J. and Dalton, C.M. (2017) ‘Data derives: Confronting digital geographic information as spectacle’, in Briziarelli, M. and Armano, E. (eds), The Spectacle 2.0: Reading Debord in the Context of Digital Capitalism. University of Westminster Press, London, pp. 135–150.
+	- (pbl van Zoonen et al. 2017) van Zoonen, L., Hirzalla, F., Engelbert, J., Zuijderwijk, L. and Schokker, L. (2017) “‘Seeing more than you think”: A “data walk” in the smart city’, 26 May, Bang the Table, www.bangthetable.com/blog/data-walk-in-smart-city/ (accessed 2 December 2020).
 - **Discursive Analysis Method**
-	- (Andrejevic 2007) Andrejevic, M. (2007) iSpy: Surveillance and Power in the Interactive Era. University of Kansas Press, Lawrence, KS.
-	- (Bates 2018) Bates, J. (2018) ‘The politics of data friction’, Journal of Documentation, 74: 412–429.
-	- (Bates et al. 2016) Bates, J., Lin, Y.-W. and Goodale, P. (2016) ‘Data journeys: Capturing the socio-material constitution of data objects and flows’, Big Data & Society, 4(2): 1–12.
-	- (Bradshaw 2018) Bradshaw, R. (2018) ‘Instrumentalization in the public smart bikeshare sector’, PhD thesis, National University of Ireland Maynooth.
-	- (Brayne 2017) Brayne, S. (2017) ‘Big data surveillance: The case of policing’, American Sociological Review, 82(5): 977–1008.
-	- (Cardullo and Kitchin 2019b) Cardullo, P. and Kitchin, R. (2019b) ‘Smart urbanism and smart citizenship: The neoliberal logic of “citizen-focused” smart cities in Europe’, Environment and Planning C: Politics and Space, 37(5): 813–830.
-	- (Chenou and Cepeda-Másmela 2019) Chenou, J.-M. and Cepeda-Másmela, C. (2019) ‘#NiUnaMenos: Data Activism from the Global South’, Television & New Media, 20(4): 396–411.
-	- (Currie et al. 2016) Currie, M., Paris, B.S., Pasquetto, I. and Pierre, J. (2016) ‘The conundrum of police officer-involved homicides: Counter-data in Los Angeles County’, Big Data & Society, 3(2): 1–14.
-	- (Delaney and Kitchin 2020) Delaney, A. and Kitchin, R. (2020, online first) ‘Progress and prospects for data-driven coordinated management and emergency response: The case of Ireland’, Territory, Politics, Governance. DOI: 10.1080/21622671.2020.1805355.
-	- (Kitchin and Moore-Cherry 2020) Kitchin, R. and Moore-Cherry, N. (2020, online first) ‘Fragmented governance, the urban data ecosystem and smart cities: The case of Metropolitan Boston’, Regional Studies. DOI: 10.1080/00343404.2020.1735627.
-	- (Koopman 2019) Koopman, C. (2019) How We Became Our Data: A Genealogy of the Informational Person. University of Chicago Press, Chicago.
-	- (Loukissas 2018) Loukissas, Y. (2018) ‘All the homes: Zillow and the operational context of data’, in Chowdhury, G. et al. (eds), iConference 2018, LNCS 10766, Springer, Cham, pp. 272–281.
-	- (Meng and DiSalvo 2018) Meng, A. and DiSalvo, C. (2018) ‘Grassroots resource mobilization through counter-data action’, Big Data & Society, 5(2): 1–12.
-	- (Solove 2011) Solove, D.J. (2011) Nothing to Hide: The False Tradeoff Between Privacy and Security. Yale University Press, New Haven, CT.
-	- (Wernimont 2018) Wernimont, J. (2018) Numbered Lives: Life and Death in Quantum Media. MIT Press, Cambridge, MA.
+	- (pbl Andrejevic 2007) Andrejevic, M. (2007) iSpy: Surveillance and Power in the Interactive Era. University of Kansas Press, Lawrence, KS.
+	- (pbl Bates 2018) Bates, J. (2018) ‘The politics of data friction’, Journal of Documentation, 74: 412–429.
+	- (pbl Bates et al. 2016) Bates, J., Lin, Y.-W. and Goodale, P. (2016) ‘Data journeys: Capturing the socio-material constitution of data objects and flows’, Big Data & Society, 4(2): 1–12.
+	- (pbl Bradshaw 2018) Bradshaw, R. (2018) ‘Instrumentalization in the public smart bikeshare sector’, PhD thesis, National University of Ireland Maynooth.
+	- (pbl Brayne 2017) Brayne, S. (2017) ‘Big data surveillance: The case of policing’, American Sociological Review, 82(5): 977–1008.
+	- (pbl Cardullo and Kitchin 2019b) Cardullo, P. and Kitchin, R. (2019b) ‘Smart urbanism and smart citizenship: The neoliberal logic of “citizen-focused” smart cities in Europe’, Environment and Planning C: Politics and Space, 37(5): 813–830.
+	- (pbl Chenou and Cepeda-Másmela 2019) Chenou, J.-M. and Cepeda-Másmela, C. (2019) ‘#NiUnaMenos: Data Activism from the Global South’, Television & New Media, 20(4): 396–411.
+	- (pbl Currie et al. 2016) Currie, M., Paris, B.S., Pasquetto, I. and Pierre, J. (2016) ‘The conundrum of police officer-involved homicides: Counter-data in Los Angeles County’, Big Data & Society, 3(2): 1–14.
+	- (pbl Delaney and Kitchin 2020) Delaney, A. and Kitchin, R. (2020, online first) ‘Progress and prospects for data-driven coordinated management and emergency response: The case of Ireland’, Territory, Politics, Governance. DOI: 10.1080/21622671.2020.1805355.
+	- (pbl Kitchin and Moore-Cherry 2020) Kitchin, R. and Moore-Cherry, N. (2020, online first) ‘Fragmented governance, the urban data ecosystem and smart cities: The case of Metropolitan Boston’, Regional Studies. DOI: 10.1080/00343404.2020.1735627.
+	- (pbl Koopman 2019) Koopman, C. (2019) How We Became Our Data: A Genealogy of the Informational Person. University of Chicago Press, Chicago.
+	- (pbl Loukissas 2018) Loukissas, Y. (2018) ‘All the homes: Zillow and the operational context of data’, in Chowdhury, G. et al. (eds), iConference 2018, LNCS 10766, Springer, Cham, pp. 272–281.
+	- (pbl Meng and DiSalvo 2018) Meng, A. and DiSalvo, C. (2018) ‘Grassroots resource mobilization through counter-data action’, Big Data & Society, 5(2): 1–12.
+	- (pbl Solove 2011) Solove, D.J. (2011) Nothing to Hide: The False Tradeoff Between Privacy and Security. Yale University Press, New Haven, CT.
+	- (pbl Wernimont 2018) Wernimont, J. (2018) Numbered Lives: Life and Death in Quantum Media. MIT Press, Cambridge, MA.
 - **Research-Creation And Creative Practice Method**
-	- (Desjardins and Tihanyi 2019) Desjardins, A. and Tihanyi, T. (2019) ‘ListeningCups: A case of data tactility and data stories’, in Hamilton, S. and Bardzell, S. (eds), Proceedings of the 2019 on Designing Interactive Systems Conference. ACM, New York, pp. 147–160.
-	- (Foley 2020) Foley, J. (2020) ‘0_engineering fictions’, https://engineeringfictions.wordpress.com/about/0_home/ (accessed 1 December 2020).
-	- (Fotopoulou and Beavon 2020) Fotopoulou, A. and Beavon, C. (2020) ‘104 days later: A lockdown data story’, Art/Data/Health project, Brighton, www.artdatahealth.org/104-days-later-a-lockdown-data-story/ (accessed 19 June 2021).
-	- (Graham et al. 2019) Graham, M., Kitchin, R., Mattern, S. and Shaw, J. (eds) (2019) How to Run a City Like Amazon, and Other Fables. Meatspace Press, Oxford.
-	- (Jansen et al. 2015) Jansen, Y., Dragicevic, P., Isenberg, P., Alexander, J., Karnik, A., Kildal, J., Subramanian, S. and Hornbaek, K. (2015) ‘Opportunities and challenges for data physicalization’, Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI). ACM, New York.
-	- (Khot et al. 2015) Khot, R.A., Lee, J., Hjorth, L. and Mueller, F. (2015) ‘TastyBeats: Celebrating heart rate data with a drinkable spectacle’, in Proceedings of the Ninth International Conference on Tangible, Embedded, and Embodied Interaction. ACM, New York, pp. 229–232.
-	- (Kitchin 2021a) Kitchin, R. (2021a) Data Lives: How Data Are Made and Shape Our World. Bristol University Press, Bristol.
-	- (Lee 2019) Lee, C.S. (2019) ‘Datafication, dataveillance, and the social credit system as China’s new normal’, Online Information Review, 43(6): 952–970.
-	- (Lee et al. 2016b) Lee, M.H., Son, O. and Nam, T.J. (2016b) ‘Patina-inspired personalization: Personalizing products with traces of daily use’, in Proceedings of the 2016 ACM Conference on Designing Interactive Systems. ACM, Brisbane, pp. 251–263.
-	- (Lupton 2017) Lupton, D. (2017) ‘Feeling your data: Touch and making sense of personal digital data’, New Media and Society, 19(10): 1599–1614.
-	- (Lupton and Watson 2020) Lupton, D. and Watson, A. (2020, online first) ‘Towards more-than-human digital data studies: Developing research-creation methods’, Qualitative Research. DOI: 10.1177/1468794120939235.
-	- (Markham and Pereira 2019a) Markham, A. and Pereira, G. (2019a) ‘Experimenting with algorithmic memory-making: Lived experience and future-oriented ethics in critical data science’, Frontiers in Big Data 2. www.frontiersin.org/articles/10.3389/fdata.2019.00035/full (accessed 1 December 2020).
-	- (Markham and Pereira 2019b) Markham, A. and Pereira, G. (2019b) ‘Analyzing public interventions through the lens of experimentalism: The case of the Museum of Random Memory’, Digital Creativity, 30(4): 235–256.
-	- (Offenhuber 2020) Offenhuber, D. (2020) ‘What we talk about when we talk about data physicality’, IEEE Computer Graphics and Applications, 40(6): 25–37.
-	- (Petrelli et al. 2017) Petrelli, D., Marshall, M.T., O’Brien, S., McEntaggart, P. and Gwilt, I. (2017) ‘Tangible data souvenirs as a bridge between a physical museum visit and online digital experience’, Personal and Ubiquitous Computing, 21(2): 281–295.
-	- (Stark 2014) Stark, L. (2014) ‘Come on feel the data (and smell it)’, The Atlantic, 19 May, www.theatlantic.com/technology/archive/2014/05/data-visceralization/370899/ (accessed 2 December 2020).
-	- (Thudt et al. 2017) Thudt, A., Hinrichs, U. and Carpendale, S. (2017) ‘Data craft: Integrating data into daily practices and shared reflections’, Paper presented at CHI 2017 Workshop on Quantified Data & Social Relationships, Denver, CO, https://research-repository.st-andrews.ac.uk/handle/10023/10910 (accessed 2 December 2020).
-	- (Truman 2017) Truman, S.E. (2017) ‘Speculative methodologies & emergent literacies: Walking & writing as research-creation’, Unpublished PhD thesis, University of Toronto.
-	- (Truman and Springgay 2015) Truman, S.E. and Springgay, S. (2015) ‘The primacy of movement in research-creation: New materialist approaches to art research and pedagogy’, in Lewis, T. and Laverty, M. (eds), Art’s Teachings, Teaching’s Art: Philosophical, Critical and Educational Musings. Springer Netherlands, Dordrecht, pp. 151–162.
-	- (Weinberg n.d.) Weinberg, T. (n.d.) ‘About the woven climate datascapes’, www.taliweinberg.com/datascapes (accessed 2 December 2020).
+	- (pbl Desjardins and Tihanyi 2019) Desjardins, A. and Tihanyi, T. (2019) ‘ListeningCups: A case of data tactility and data stories’, in Hamilton, S. and Bardzell, S. (eds), Proceedings of the 2019 on Designing Interactive Systems Conference. ACM, New York, pp. 147–160.
+	- (pbl Foley 2020) Foley, J. (2020) ‘0_engineering fictions’, https://engineeringfictions.wordpress.com/about/0_home/ (accessed 1 December 2020).
+	- (pbl Fotopoulou and Beavon 2020) Fotopoulou, A. and Beavon, C. (2020) ‘104 days later: A lockdown data story’, Art/Data/Health project, Brighton, www.artdatahealth.org/104-days-later-a-lockdown-data-story/ (accessed 19 June 2021).
+	- (pbl Graham et al. 2019) Graham, M., Kitchin, R., Mattern, S. and Shaw, J. (eds) (2019) How to Run a City Like Amazon, and Other Fables. Meatspace Press, Oxford.
+	- (pbl Jansen et al. 2015) Jansen, Y., Dragicevic, P., Isenberg, P., Alexander, J., Karnik, A., Kildal, J., Subramanian, S. and Hornbaek, K. (2015) ‘Opportunities and challenges for data physicalization’, Proceedings of the ACM Conference on Human Factors in Computing Systems (CHI). ACM, New York.
+	- (pbl Khot et al. 2015) Khot, R.A., Lee, J., Hjorth, L. and Mueller, F. (2015) ‘TastyBeats: Celebrating heart rate data with a drinkable spectacle’, in Proceedings of the Ninth International Conference on Tangible, Embedded, and Embodied Interaction. ACM, New York, pp. 229–232.
+	- (pbl Kitchin 2021a) Kitchin, R. (2021a) Data Lives: How Data Are Made and Shape Our World. Bristol University Press, Bristol.
+	- (pbl Lee 2019) Lee, C.S. (2019) ‘Datafication, dataveillance, and the social credit system as China’s new normal’, Online Information Review, 43(6): 952–970.
+	- (pbl Lee et al. 2016b) Lee, M.H., Son, O. and Nam, T.J. (2016b) ‘Patina-inspired personalization: Personalizing products with traces of daily use’, in Proceedings of the 2016 ACM Conference on Designing Interactive Systems. ACM, Brisbane, pp. 251–263.
+	- (pbl Lupton 2017) Lupton, D. (2017) ‘Feeling your data: Touch and making sense of personal digital data’, New Media and Society, 19(10): 1599–1614.
+	- (pbl Lupton and Watson 2020) Lupton, D. and Watson, A. (2020, online first) ‘Towards more-than-human digital data studies: Developing research-creation methods’, Qualitative Research. DOI: 10.1177/1468794120939235.
+	- (pbl Markham and Pereira 2019a) Markham, A. and Pereira, G. (2019a) ‘Experimenting with algorithmic memory-making: Lived experience and future-oriented ethics in critical data science’, Frontiers in Big Data 2. www.frontiersin.org/articles/10.3389/fdata.2019.00035/full (accessed 1 December 2020).
+	- (pbl Markham and Pereira 2019b) Markham, A. and Pereira, G. (2019b) ‘Analyzing public interventions through the lens of experimentalism: The case of the Museum of Random Memory’, Digital Creativity, 30(4): 235–256.
+	- (pbl Offenhuber 2020) Offenhuber, D. (2020) ‘What we talk about when we talk about data physicality’, IEEE Computer Graphics and Applications, 40(6): 25–37.
+	- (pbl Petrelli et al. 2017) Petrelli, D., Marshall, M.T., O’Brien, S., McEntaggart, P. and Gwilt, I. (2017) ‘Tangible data souvenirs as a bridge between a physical museum visit and online digital experience’, Personal and Ubiquitous Computing, 21(2): 281–295.
+	- (pbl Stark 2014) Stark, L. (2014) ‘Come on feel the data (and smell it)’, The Atlantic, 19 May, www.theatlantic.com/technology/archive/2014/05/data-visceralization/370899/ (accessed 2 December 2020).
+	- (pbl Thudt et al. 2017) Thudt, A., Hinrichs, U. and Carpendale, S. (2017) ‘Data craft: Integrating data into daily practices and shared reflections’, Paper presented at CHI 2017 Workshop on Quantified Data & Social Relationships, Denver, CO, https://research-repository.st-andrews.ac.uk/handle/10023/10910 (accessed 2 December 2020).
+	- (pbl Truman 2017) Truman, S.E. (2017) ‘Speculative methodologies & emergent literacies: Walking & writing as research-creation’, Unpublished PhD thesis, University of Toronto.
+	- (pbl Truman and Springgay 2015) Truman, S.E. and Springgay, S. (2015) ‘The primacy of movement in research-creation: New materialist approaches to art research and pedagogy’, in Lewis, T. and Laverty, M. (eds), Art’s Teachings, Teaching’s Art: Philosophical, Critical and Educational Musings. Springer Netherlands, Dordrecht, pp. 151–162.
+	- (pbl Weinberg n.d.) Weinberg, T. (n.d.) ‘About the woven climate datascapes’, www.taliweinberg.com/datascapes (accessed 2 December 2020).
 - **Critical Data Science Method**
-	- (Crampton et al. 2013) Crampton, J., Graham, M., Poorthuis, A., Shelton, T., Stephens, M., Wilson, M.W. and Zook, M. (2013) ‘Beyond the geotag: Situating “big data” and leveraging the potential of the geoweb’, Cartography and Geographic Information Science, 40(2): 130–139.
-	- (Dunn 2007) Dunn, C.E. (2007) ‘Participatory GIS – A people’s GIS?’, Progress in Human Geography, 31(5): 616–637.
-	- (D’Ignazio and Klein 2020) D’Ignazio, C. and Klein, L.F. (2020) Data Feminism. MIT Press, Cambridge, MA.
-	- (Graham et al. 2014) Graham, M., Hogan, B., Straumann, R.K. and Medhat, A. (2014) ‘Uneven geographies of user-generated information: Patterns of increasing informational poverty’, Annals of the Association of American Geographers, 104(4): 746–764.
-	- (Graham et al. 2015) Graham, M., De Sabbata, S. and Zook, M. (2015) ‘Towards a study of information geographies: (Im)mutable augmentations and a mapping of the geographies of information’, Geo: Geography and environment, 2(1): 88–105.
-	- (Pickles 1995) Pickles, J. (ed) (1995) Ground Truth: The Social Implications of Geographic Information Systems. Guilford, New York.
-	- (Robinson and Franklin 2020) Robinson, C. and Franklin, R.S. (2020) ‘The sensor desert quandary: What does it mean (not) to count in the smart city?’ Transactions of the Institute of British Geographers, online first: 1–17. DOI: 10.1111/tran.12415.
-	- (Schuurman and Pratt 2002) Schuurman, N. and Pratt, G. (2002) ‘Care of the subject: Feminism and critiques of GIS’, Gender, Place & Culture, 9(3): 291–299.
-	- (Williams 2020) Williams, S. (2020) Data Action: Using Data for Public Good. MIT Press, Cambridge, MA.
+	- (pbl Crampton et al. 2013) Crampton, J., Graham, M., Poorthuis, A., Shelton, T., Stephens, M., Wilson, M.W. and Zook, M. (2013) ‘Beyond the geotag: Situating “big data” and leveraging the potential of the geoweb’, Cartography and Geographic Information Science, 40(2): 130–139.
+	- (pbl Dunn 2007) Dunn, C.E. (2007) ‘Participatory GIS – A people’s GIS?’, Progress in Human Geography, 31(5): 616–637.
+	- (pbl D’Ignazio and Klein 2020) D’Ignazio, C. and Klein, L.F. (2020) Data Feminism. MIT Press, Cambridge, MA.
+	- (pbl Graham et al. 2014) Graham, M., Hogan, B., Straumann, R.K. and Medhat, A. (2014) ‘Uneven geographies of user-generated information: Patterns of increasing informational poverty’, Annals of the Association of American Geographers, 104(4): 746–764.
+	- (pbl Graham et al. 2015) Graham, M., De Sabbata, S. and Zook, M. (2015) ‘Towards a study of information geographies: (Im)mutable augmentations and a mapping of the geographies of information’, Geo: Geography and environment, 2(1): 88–105.
+	- (pbl Pickles 1995) Pickles, J. (ed) (1995) Ground Truth: The Social Implications of Geographic Information Systems. Guilford, New York.
+	- (pbl Robinson and Franklin 2020) Robinson, C. and Franklin, R.S. (2020) ‘The sensor desert quandary: What does it mean (not) to count in the smart city?’ Transactions of the Institute of British Geographers, online first: 1–17. DOI: 10.1111/tran.12415.
+	- (pbl Schuurman and Pratt 2002) Schuurman, N. and Pratt, G. (2002) ‘Care of the subject: Feminism and critiques of GIS’, Gender, Place & Culture, 9(3): 291–299.
+	- (pbl Williams 2020) Williams, S. (2020) Data Action: Using Data for Public Good. MIT Press, Cambridge, MA.
