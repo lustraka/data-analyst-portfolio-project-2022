@@ -5,13 +5,19 @@ This journal provides the overview of case study's activities (transactions) for
 ## Design Document Transformations
 
 The *Map CDS methods based on Kitchen (2021b)* process includes steps:
-- *Map references to the CDS methods based on Kitchin (2021b)* process (See Journal 2021-11-30/2)
-- find out web resources and choose appropriate examples of each CDS method,
+- deploy *Map references to the CDS methods based on Kitchin (2021b)* process (DONE - see Journal 2021-11-30/2)
+- deploy *Search web resources* process to identify critical data studies,
 - add the **"embodies"** type triples and elements with the `title` and `url` attributes by hand,
 - check the integrity of the knowledge base.
 
+The *Search web resources* process includes steps:
+- design the structure of a web search database for storing and comparing web searches,
+- design and test algorithms for searching required web resources,
+- design and test an ontology (knowledge base) for discovering (mining) and storing knowledge,
+- populate system while updating the outline of CDS methods from Kitchin (2021b)
+
 Candidates for next steps are:
-- [ ] Change "a CDS *uses* a method" relation type to "a CSD *employs* a method" type Consider same change for *instantiates*.
+- [x] Change "a CDS *uses* a method" relation type to "a CSD *employs* a method" type Consider same change for *instantiates*.
 
 ## Journal Recent Activities
 **2021-12-01 Wed**:
@@ -21,6 +27,7 @@ Candidates for next steps are:
   - apply the change dict to tables
   - adjust and test algorithms with this new ontology
   - reflect :: The new ontology requires more care when using terms in outputs but is much clearer when selecting concepts (classes). [4 fsp]
+- (3) **Plan Web Searching Engine**. I don't need to be a CSD expert, I just need to be able to monitor published CDSs and evaluate methods they utilize. Automated web searching engine ensures simple updating (to produce focused annual reports). [2 fsp]
 
 **2021-11-30 Tue**:
 - (1) **Boot-Root**. The *Set-up a node for case study* process includes steps:
