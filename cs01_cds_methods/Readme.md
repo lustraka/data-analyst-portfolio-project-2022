@@ -1,7 +1,7 @@
 # Case Study : Critical Data Studies' Methods
 🚧 Status: Under construction! 🚧 
 ## Clarify Purpose
-The purpose of this study is to analyse examples of critical data studies (CDS) featuring various methods (Kitchin 2021b) and design a concept of some CDS for further implementation.
+The purpose of this study is to analyse best practices and lessons learned in the area of critical data studies (CDS). The point of departure are examples of CDSs featuring various methods in Kitchin (2021b). As these examples cover time up to December 2020, the goal of this project is to compile an annual report summarizing studies published in 2021 and their employed methods.
 
 The AREA Method (Einhorn 2017) helps me bring greater **CARE** to making smarter, better decisions:
 - Craft critical concepts
@@ -29,7 +29,8 @@ The initial concept model of TAO-IIM for this case study includes four concepts:
 ![Initial Ontology](https://www.plantuml.com/plantuml/png/FP2nJWCn38RtF8ML2Kxg6o3KjGDGiNIv9JcRdgMhKpcEKDyUNmWCrdy-V_fivLWjgRNR5fQa2F4aHYfay5wGPc6H2Ac2Pv1Y1ChNrGBx7oGn_c92o0y8IU1qXeIeL6iWGTZn8RrGXa-gfUdYpgPRTtgE-RdbZPTaN6IMU_uTUuxn6zbQS9Qd3xrUajBpB4M_E-GP0ej0VCclQwbMu-4GkSB-tK-BVOzNH-YM2pBzKQD5O8bzeHV4QLhOg4xJeBmRge4CrNqhZtzJxuPfl-f8WlwiFm00)
 
 ## Conduct Pre-Mortem
-**2021-11-30**: I need a clear structure for this study, otherwise I get lost. After a couple of first fsp spent on the study I can set a time limit. This is a part of my one-sided contract for this artwork.
+**2021-11-30**: I need a clear structure for this study, otherwise I **get lost**. After a couple of first fsp spent on the study I can set a time limit. This is a part of my one-sided contract for this artwork.
+**2021-12-01**: Originally I wanted to write my own CDS in the domain of EU grants but I became aware of the **lack of expertise** and so also a problematic feasibility of such endeavour. Even if the Kitchin's survey of methods is quite fresh, I can try to set up a analytics system for monitoring new CDS to identify methods they employed. The goal could be identifying the best practices and lessons learned. It is good to maintain an observer status 😇.
 
 ----
 
