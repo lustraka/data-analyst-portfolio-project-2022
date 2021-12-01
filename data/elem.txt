@@ -1,4 +1,4 @@
-{"term": "inn Fraser 2019a", "title": "Curating digital geographies in an era of data colonialism", "url": "https://mural.maynoothuniversity.ie/13809/1/AF_curating.pdf"}
+{"term": "url Fraser 2019a", "title": "Curating digital geographies in an era of data colonialism", "url": "https://mural.maynoothuniversity.ie/13809/1/AF_curating.pdf"}
 {"term": "orw critical data science method", "title": NaN, "url": NaN}
 {"term": "orw critical data study", "title": NaN, "url": NaN}
 {"term": "orw data (auto)ethnography method", "title": NaN, "url": NaN}
