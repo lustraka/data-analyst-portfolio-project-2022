@@ -19,7 +19,7 @@ Candidates for next steps are:
 
 ## Journal Recent Activities
 **2021-12-01 Wed**:
-- (1) **Design an Ontology**. I am tempted to extract authors, publishers and other concepts while searching web resources for collected publications. But! I have to proceed rigorously and lazily. Otherwise the amount of work needed to finish the case study becomes unmanageable. I plan to employ algorithmic web search with automatic extraction of a website address (aka internet node with an IP address).
+- (1) **Design an Ontology**. I am tempted to extract authors, publishers and other concepts while searching web resources for collected publications. But! I have to proceed rigorously and lazily. Otherwise the amount of work needed to finish the case study becomes unmanageable. I plan to employ algorithmic web search with automatic extraction of a website address (aka internet node with an IP address). [4 fsp]
 
 **2021-11-30 Tue**:
 - (1) **Boot-Root**. The *Set-up a node for case study* process includes steps:
