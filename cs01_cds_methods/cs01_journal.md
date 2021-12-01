@@ -3,10 +3,6 @@
 This journal provides the overview of case study's activities (transactions) for future reference. Records of steps taken are accompanied with effort entries (in square brackets) measured in fibonacci story points (fsp). The reflection process encompasses also moving recent journal entries into the archive section.
 
 ## Design Document Transformations
-The *Refactor concept names* process includes steps:
-- prepare a change dict in line with a concept model
-- apply the change dict to tables
-- adjust and test algorithms with this new convention
 
 The *Map CDS methods based on Kitchen (2021b)* process includes steps:
 - *Map references to the CDS methods based on Kitchin (2021b)* process (See Journal 2021-11-30/2)
@@ -19,7 +15,12 @@ Candidates for next steps are:
 
 ## Journal Recent Activities
 **2021-12-01 Wed**:
-- (1) **Design an Ontology**. I am tempted to extract authors, publishers and other concepts while searching web resources for collected publications. But! I have to proceed rigorously and lazily. Otherwise the amount of work needed to finish the case study becomes unmanageable. I plan to employ algorithmic web search with automatic extraction of a website address (aka internet node with an IP address). [4 fsp]
+- (1) **Re-Design the Ontology**. I am tempted to extract authors, publishers and other concepts while searching web resources for collected publications. But! I have to proceed rigorously and lazily. Otherwise the amount of work needed to finish the case study becomes unmanageable. I plan to employ algorithmic web search with automatic extraction of a website address (aka internet node with an IP address). [4 fsp]
+- (2) **Refactor the KB** The *Refactor concept names* process includes steps:
+  - prepare a change dict in line with the new oncept model (ontology)
+  - apply the change dict to tables
+  - adjust and test algorithms with this new ontology
+  - reflect :: The new ontology requires more care when using terms in outputs but is much clearer when selecting concepts (classes). [4 fsp]
 
 **2021-11-30 Tue**:
 - (1) **Boot-Root**. The *Set-up a node for case study* process includes steps:
