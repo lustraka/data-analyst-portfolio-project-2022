@@ -4,13 +4,12 @@ This journal provides the overview of case study's activities (transactions) for
 
 ## Design Document Transformations
 
-The *Map CDS methods based on Kitchen (2021b)* process includes steps:
-- deploy *Map references to the CDS methods based on Kitchin (2021b)* process (DONE - see Journal 2021-11-30/2)
-- deploy *Search web resources* process to identify critical data studies,
-- add the **"embodies"** type triples and elements with the `title` and `url` attributes by hand,
-- check the integrity of the knowledge base.
+**Master Process** In order to *map CDS methods*,:
+- map references to the CDS methods in Kitchin (2021b) > DONE: see Journal 2021-11-30/2
+- search web resources to identify critical data studies,
+- analyse search results and plan next steps.
 
-The *Search web resources* process includes steps:
+**Next Steps** In order to *search web resources*,:
 - design the structure of a web search database for storing and comparing web searches,
 - design and test algorithms for searching required web resources,
 - design and test an ontology (knowledge base) for discovering (mining) and storing knowledge,
