@@ -9,16 +9,15 @@ This journal provides the overview of case study's activities (transactions) for
 - search web resources to identify critical data studies,
 - analyse search results and plan next steps.
 
-**Next Steps**. In order to *search web resources*,:
-- design the structure of a web search database for storing and comparing web searches,
-- design and test algorithms for searching required web resources,
-- design and test an ontology (knowledge base) for discovering (mining) and storing knowledge,
-- populate system while updating the outline of CDS methods from Kitchin (2021b)
+**Next Steps**. See [20211202_Search_Web_Resources.ipynb](https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/cs01_cds_methods/20211202_Search_Web_Resources.ipynb)
 
-Candidates for next steps are:
-- [x] Change "a CDS *uses* a method" relation type to "a CSD *employs* a method" type Consider same change for *instantiates*.
+Candidates for other next steps:
+- [ ] ...
 
 ## Journal Recent Activities
+**2021-12-02 Thu**
+- (1) **Search Web Resources**. Understand the need, specify the quest, code and test the `search_web(master, search, count)` function in [20211202_Search_Web_Resources.ipynb](https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/cs01_cds_methods/20211202_Search_Web_Resources.ipynb), outline the next step, reflect that all in the journal. [7 fsp]
+
 **2021-12-01 Wed**:
 - (1) **Re-Design the Ontology**. I am tempted to extract authors, publishers and other concepts while searching web resources for collected publications. But! I have to proceed rigorously and lazily. Otherwise the amount of work needed to finish the case study becomes unmanageable. I plan to employ algorithmic web search with automatic extraction of a website address (aka internet node with an IP address). [4 fsp]
 - (2) **Refactor the KB** The *Refactor concept names* process includes steps:
