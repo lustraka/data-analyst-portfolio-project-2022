@@ -17,6 +17,7 @@ Candidates for other next steps:
 ## Journal Recent Activities
 **2021-12-03 Fri**
 - (1) **CSV <> HTML**. A semi-automated analytical system needs a semi-automated interface. Editing TXT a CSV files is the simplest method. A little bit more sophisticated method is to export, edit, and import an HTML file. Especially if this pipeline enables authomatic adding new fields. How flexible analytic tool! See [20211203_Transform_CSV_HTML.ipynb](20211203_Transform_CSV_HTML.ipynb) and [test.html](https://htmlpreview.github.io/?https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/data/web_searches/test.html). [6 fsp]
+- (2) **CDS Hunt Start**. Idenitify the most common words in CDS's titles ([20211204_Search_CDS.ipynb](20211204_Search_CDS.ipynb)) and try the first search: [url_review_20211203.html](https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/data/web_searches/url_review_20211203.html) (plain) | [url_review_20211203.html](https://htmlpreview.github.io/?https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/data/web_searches/url_review_20211203.html) (rendered) [fsp]
 
 **2021-12-02 Thu**
 - (1) **Search Web Prototype I**. Understand the need, specify the quest, code and test the `search_web(master, search, count)` function in [20211202_Search_Web_Resources.ipynb](https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/cs01_cds_methods/20211202_Search_Web_Resources.ipynb), outline the next step, reflect that all in the journal. [7 fsp]
