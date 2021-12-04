@@ -15,6 +15,8 @@ Candidates for other next steps:
 - [ ] ...
 
 ## Journal Recent Activities
+**2021-12-04 Sat**. (1) **`infon`**. A field `infon` (= information + JSON) contains structed data in the JSON format. It is a kind of a bottom-up data structure design or of the semi-structured note-taking. (2) **Gathering**. While processing the results of `data+university+society+digital+information+2021` query, I found one new CSD and was alluded by EC digital strategy to European Digital Innovation Hubs. [7 fsp]
+
 **2021-12-03 Fri**
 - (1) **CSV <> HTML**. A semi-automated analytical system needs a semi-automated interface. Editing TXT a CSV files is the simplest method. A little bit more sophisticated method is to export, edit, and import an HTML file. Especially if this pipeline enables authomatic adding new fields. How flexible analytic tool! See [20211203_Transform_CSV_HTML.ipynb](20211203_Transform_CSV_HTML.ipynb) and [test.html](https://htmlpreview.github.io/?https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/data/web_searches/test.html). [6 fsp]
 - (2) **CDS Hunt Start**. Idenitify the most common words in CDS's titles ([20211204_Search_CDS.ipynb](20211204_Search_CDS.ipynb)) and try the first search: [url_review_20211203.html](https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/data/web_searches/url_review_20211203.html) (plain) | [url_review_20211203.html](https://htmlpreview.github.io/?https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/data/web_searches/url_review_20211203.html) (rendered) or work with a local copy which apllies an in-file stylesheet. [3 fsp]
