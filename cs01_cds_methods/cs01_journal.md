@@ -17,7 +17,7 @@ Candidates for other next steps:
 ## Journal Recent Activities
 **2021-12-06 Mon**
 - (1) **Last Sprint Reflection**. The study is rooted in an idea of freelancing as an external expert / evaluator for grant agencies. While registering in the EU grant portal and the TACR system I became aware of publications being a part of references. Inspired by Kitchin (2021b), I started this case study with a goal to produce a kind of academic text. In the first sprint over last two weeks I built an internal information management system with HTML files used as an interface.
-- (2) **Next Sprint Inception**. The next sprint should be devoted to analysis and modeling of critical data studies. What is their general architecture of roles, goals, processes, events, assets, locations and their relatinships? Now, I can keep my observations in HTML files in structured expresions for further consolidation, comparison, and evaluation. I should keep the architecture as simple as possible. The key concepts can be retrived directly from Kitchin (2021b).
+- (2) **Next Sprint Inception**. The next sprint should be devoted to analysis and modeling of critical data studies. What is their general architecture of roles, goals, processes, events, assets, locations and their relatinships? Now, I can keep my observations in HTML files in structured expresions for further consolidation, comparison, and evaluation. I should keep the architecture as simple as possible. The key concepts can be retrived directly from Kitchin (2021b). [1 fsp]
 
 ## Curate Backlog and ToDos
 - [ ] Document the knowledge base with Term-Association Ontology Internal Information Management (TAO-IIM)
