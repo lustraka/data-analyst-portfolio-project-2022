@@ -22,6 +22,7 @@ The AREA Method (Einhorn 2017) helps me bring greater **CARE** to making smarter
   - 20211130_Build_knowledge_base: used for populating a knowledge base with references from Kitchin (2021b)
 - Deliverables indicate the progress
   - [Critical Data Studies Methods Instantiated](CDS_methods_instantiated.md) (done 2021-11-30)
+  - data > cd_studies > [package_20211206.html](https://htmlpreview.github.io/?https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/data/cd_studies/package_20211206.html)
 
 ## Compose Relationships
 The initial concept model of TAO-IIM for this case study includes four concepts:
