@@ -9,13 +9,15 @@ This journal provides the overview of case study's activities (transactions) for
 - search web resources to identify critical data studies,
 - analyse search results and plan next steps.
 
-**Next Steps**. See [20211202_Search_Web_Resources.ipynb](https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/cs01_cds_methods/20211202_Search_Web_Resources.ipynb)
+**Next Steps**. 
+- cs01_cds_methods > [20211202_Search_Web_Resources.ipynb](https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/cs01_cds_methods/20211202_Search_Web_Resources.ipynb)
+- data > cd_studies > [package_20211206.html](https://htmlpreview.github.io/?https://github.com/lustraka/data-analyst-portfolio-project-2022/blob/main/data/cd_studies/package_20211206.html)
 
 Candidates for other next steps:
 - [ ] ...
 
 ## Journal Recent Activities
-**2021-12-09 Thu** (1) **KnoxNafus-2018**. This focus on expertise allows us to do something that is relatively unusual in an edited collection: both to provide a comparative description of a number of empirical fieldsites where communities of experts are self-consciously forming around the new possibilities put on the table by digital data; and to consider how our understanding of the ways experts make and remake digital data might reframe our own expertise as ethnographers. (2) **Grommé et al. (2017)**. Our concern in this chapter is how data scientists are being defined in relation to national statisticians and how both professions are objects of struggle with ambiguous outcomes.
+**2021-12-09 Thu** (1) **KnoxNafus-2018**. This focus on expertise allows us to do something that is relatively unusual in an edited collection: both to provide a comparative description of a number of empirical fieldsites where communities of experts are self-consciously forming around the new possibilities put on the table by digital data; and to consider how our understanding of the ways experts make and remake digital data might reframe our own expertise as ethnographers. (2) **Grommé et al. (2017)**. Our concern in this chapter is how data scientists are being defined in relation to national statisticians and how both professions are objects of struggle with ambiguous outcomes. [7 fsp]
 
 **2021-12-06 Mon**
 - (1) **Last Sprint Reflection**. The study is rooted in an idea of freelancing as an external expert / evaluator for grant agencies. While registering in the EU grant portal and the TACR system I became aware of publications being a part of references. Inspired by Kitchin (2021b), I started this case study with a goal to produce a kind of academic text. In the first sprint over last two weeks I built an internal information management system with HTML files used as an interface.
