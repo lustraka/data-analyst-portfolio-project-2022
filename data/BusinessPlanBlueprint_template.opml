@@ -1,0 +1,248 @@
+<?xml version="1.0"?>
+<opml version="2.0">
+  <head>
+    <ownerEmail>
+      l.straka@seznam.cz
+    </ownerEmail>
+  </head>
+  <body>
+    <outline text="Business Plan Indicative Questions">
+      <outline text="1. IDEATION - A journey from the expected needs to your innovative solution">
+        <outline text="1.1. What are your Market opportunity?">
+          <outline text="1.1.1. What is the market opportunity?">
+            <outline text="What is the identified pain point / problem to solve?" />
+            <outline text="What is it about? What is your solution (product/service/process/method/service/...)?" />
+            <outline text="What are the use cases / functions of your solution?" />
+            <outline text="What are the features of your solution?" />
+            <outline text="What is/are the final deliverable(s)?" />
+            <outline text="What is your value proposition?" />
+          </outline>
+          <outline text="1.1.2. What is the market's state-of-the-art?">
+            <outline text="What are the other existing solutions and what are their limits? • Why now?" />
+          </outline>
+        </outline>
+        <outline text="1.2. What are the risks of failure?" />
+        <outline text="1.3. What is your innovation?">
+          <outline text="1.3.1. What is unique in your approach, compared to those of other companies?">
+            <outline text="What is your Unique Selling Point (USP)?" />
+            <outline text="What is your unique positioning/place on the market?" />
+          </outline>
+          <outline text="1.3.2. What is your innovation?">
+            <outline text="What are the Scientific, Technological, Market, Societal and other challenges to solve?" />
+            <outline text="Is it an Idea or Technology based Innovation?" />
+            <outline text="Is it an incremental / breakthrough innovation?" />
+            <outline text="How can you characterise the type of innovation?" />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="2. DEVELOPMENT - A journey to make it happen">
+        <outline text="2.1. What are the past and future development stages? ">
+          <outline text="2.1.1. What Is the current development stage of your Innovation?">
+            <outline text="What are your achievements and current Technological and Marketing stages?" />
+            <outline text="What is your current TRL (Technology Readiness Level)?" />
+            <outline text="What is the current technological state-of-the-art?" />
+          </outline>
+          <outline text="2.1.2. What are the further stages and activities needed to commercialize your Innovation?">
+            <outline text="What are the Future technological and Marketing/commercial development needed to develop further your solution? &lt;b&gt;Per Workpackage&lt;/b&gt;:">
+              <outline text="Tasks per TRL. Where you intend to run a clinical trial, you will be asked to upload an explanatory document using this template." />
+              <outline text="Budgeted costs for TIM 5 to 8 included (covered by an EIC grant component)" />
+              <outline text="Budgeted costs for TRL 9 (covered by and EIC investment component or other resources)" />
+              <outline text="Main deliverables per tasks" />
+              <outline text="Milestone per TRL" />
+            </outline>
+            <outline text="&lt;b&gt;For Grant First&lt;/b&gt;: what is the TRL you intend to achieve at the end of this first stage of your project?" />
+          </outline>
+        </outline>
+        <outline text="2.2. What is your winning Team and Partnership? ">
+          <outline text="2.2.1. What about your winning team?">
+            <outline text="What is the company and/or founder's track-record?" />
+            <outline text="What are the relevant achievements and experience of your team?" />
+            <outline text="To which extent does your team fit with your project?" />
+            <outline text="Do you have the team you need to Implement the action? Do you need to recruit additional staff members to implement your project?" />
+            <outline text="What is the technical/business experience of your team, including management capacity to lead a growing team?" />
+            <outline text="What is your ability to scale up?" />
+            <outline text="How do you intend to ensure gender balance among the members of your team, including executive positions?" />
+          </outline>
+          <outline text="2.2.2. What about the other stakeholders of your value chain?">
+            <outline text="Will you need cooperation with other stakeholders of your value chain (research and innovation, industrial, financial, suppliers, distributors) to implement the action?" />
+            <outline text="How will you engage end-users?" />
+            <outline text="What are their interest? To what extent are they already committed and incentivized?" />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="3. GO2MARKET - A journey from your solution to the Market">
+        <outline text="3.1. Know your market ">
+          <outline text="3.1.1. What is the market in terms of type, size and growth?">
+            <outline text="What is your targeted market?" />
+            <outline text="What is your market size?" />
+            <outline text="What is the CAGR (Compounded Annual Growth Rate) of your targeted market?" />
+            <outline text="What is your market annual growth rate?" />
+          </outline>
+          <outline text="3.1.2. Who cares about your Innovation: Who are the targeted users and/or customers and their expected satisfaction?">
+            <outline text="Who are your customers? Who pays for the solution?" />
+            <outline text="Who are your potential users, if different from customers? Who has the problem/need and will use your solution? • What is your market segmentation?" />
+            <outline text="Is there any other potential Market application? Which one?" />
+            <outline text="Is there any other Future Market segment? Which one?" />
+            <outline text="Explain why you think that there is a willingness to pay from your targeted customers" />
+            <outline text="Why do you think it will be successful? (customer satisfaction, Performance improvement and time)" />
+          </outline>
+          <outline text="3.1.3. What is your value chain?">
+            <outline text="Is it a new or an existing value chain?" />
+            <outline text="Are there new or existing customers/users?" />
+          </outline>
+          <outline text="3.1.4. What about the competition?">
+            <outline text="Who are your direct competitors?" />
+            <outline text="Who are your indirect competitors?" />
+            <outline text="What about your competitive landscape intensity?" />
+          </outline>
+          <outline text="3.1.5. What is your strategic analysis?">
+            <outline text="What are the opportunities?" />
+            <outline text="What are the threats?" />
+            <outline text="What are your weaknesses?" />
+            <outline text="What are your strengths?" />
+            <outline text="Please make a SWOT analysis and an action plan" />
+          </outline>
+        </outline>
+        <outline text="3.2. Prepare your Market Success">
+          <outline text="What is your current BRL (Business Readiness Level)" />
+          <outline text="3.2.1. How does this innovation fit with your company's overall business strategy?">
+            <outline text="What is the Mission of your company?" />
+            <outline text="What is the unique positioning of your company on the market?" />
+            <outline text="What is your Vision?" />
+            <outline text="What are your Values and Culture?" />
+            <outline text="What are the payoffs for your company in case of success?" />
+          </outline>
+          <outline text="3.2.2. What will be your business model, including the revenue model?">
+            <outline text="Fill in the Business Model Canvas" />
+          </outline>
+        </outline>
+        <outline text="3.3. How will you finance this success? ">
+          <outline text="3.3.1. What is the current company's ownership and capital structure?">
+            <outline text="What is the current company's ownership and capital structure?" />
+            <outline text="Have you already applied for public or private funds?" />
+            <outline text="What is your funding strategy for the future?" />
+          </outline>
+          <outline text="3.3.2. What is the expected growth potential of your solution in terms of turnover, profit and jobs?">
+            <outline text="What is the expected growth potential of your solution in terms of turnover, profit and jobs?" />
+            <outline text="What are the basic economics for your solution?" />
+            <outline text="What is your growth strategy?" />
+          </outline>
+          <outline text="3.3.3. What are your financial needs?">
+            <outline text="How much will it cost to develop your solution?">
+              <outline text="For Innovation activities (WI. 5 to 8)" />
+              <outline text="For Market Preparation (TRL 9)" />
+            </outline>
+            <outline text="How much will it cost for market deployment and scale up? (post IRIS)" />
+            <outline text="How much grant do you need from the EIC (up to 70% of WI. 5 to 8)?" />
+            <outline text="&lt;b&gt;For full blended finance&lt;/b&gt;: how much investment do you need from the EIC (for 30% of TRL 5 to 8, for TRL 9 and onwards)?" />
+            <outline text="&lt;b&gt;For Grant Only&lt;/b&gt;: describe precisely (amount and origin) your other resources" />
+            <outline text="&lt;b&gt;For Grant First&lt;/b&gt;: describe precisely the origin of the 30% co-financing for Till 5 to 8. If you don't have these resources, do you need in addition to the grant component an initial EIC investment component limited to these 30%?" />
+            <outline text="Why can't you do it without the EIC? What about other funding sources; including National/Regional public programmes or private investors?" />
+          </outline>
+        </outline>
+        <outline text="3.4. How will you secure this success in terms of Intellectual Property Right (IPR) and legal framework?">
+          <outline text="3.4.1. What are your IP assets?">
+            <outline text="What are your unique IP assets?" />
+            <outline text="Are they patentable?" />
+            <outline text="How many patents have you applied for?" />
+            <outline text="What are your measures to ensure commercial exploitation ('freedom to operate)?" />
+            <outline text="Is there a clear owner of the innovation or are there multiple owners?" />
+            <outline text="Are there any external issues that could compromise your ability to exploit the innovation?" />
+          </outline>
+          <outline text="3.4.2. What is your strategy for knowledge management and protection?">
+            <outline text="What is your knowledge-protection strategy, including current IPR filing status, IPR ownership and licensing issues?" />
+            <outline text="What is your data management plan?" />
+          </outline>
+        </outline>
+        <outline text="3.5. Entering the market">
+          <outline text="3.5.1. What is your exploitation plan to enter the market?">
+            <outline text="What is your exploitation plan?" />
+            <outline text="What are the main steps to enter the Market?" />
+          </outline>
+          <outline text="3.5.2. What are the barriers to entry?">
+            <outline text="What are the existing major barriers preventing you to enter the market? How can you overcome them?" />
+            <outline text="What are the new major barriers you are building to prevent your competitors to easily enter the market? How can your competitor overcome them?" />
+          </outline>
+        </outline>
+        <outline text="3.6. Scale">
+          <outline text="3.6.1. What is your Marketing Strategy?">
+            <outline text="What is your Marketing approach (B2B, B2C, B282C, etc.)?" />
+            <outline text="What is your Go2Market strategy?" />
+          </outline>
+          <outline text="3.6.2. What is your commercialization Strategy?">
+            <outline text="What is your commercialization strategy?" />
+            <outline text="What is your Time-to-Market in years?" />
+            <outline text="Can you provide proof of early market traction?" />
+          </outline>
+        </outline>
+      </outline>
+      <outline text="Table 1 - Simplified financials, k€ " _note="Please fill in with figures for your company. The figures below are illustrative. You may use the formulas provided to accelerate data input&#10;&lt;b&gt;Note&lt;/b&gt;. Please pay attention while filling the tables when relevant to use negative values for the formulas to work ;properly (for example: expenses, taxes, debt etc.).&#10;">
+        <outline text="P&amp;amp;L | N-2 | N-1 | N | N+1 | N+2 | N+3 | N+4 | N+5 | N+6">
+          <outline text="Revenues" />
+          <outline text="Gross Margin" />
+          <outline text="Selling, General and Administrative expenses" />
+          <outline text="R&amp;amp;D expenses" />
+          <outline text="Other operational expenses" />
+          <outline text="EBITDA" />
+          <outline text="Interest" />
+          <outline text="Other revenues/expenses (including grants)" />
+          <outline text="EBT" />
+          <outline text="Taxes" />
+          <outline text="Net Income" />
+        </outline>
+        <outline text="CASHFLOWS  | N-2 | N-1 | N | N+1 | N+2 | N+3 | N+4 | N+5 | N+6">
+          <outline text="Cashflows from operating activities (net)" />
+          <outline text="Cashflows from investing activities (net)" />
+          <outline text="Cashflows from financing activities (net), of which">
+            <outline text="Proceeds from grants" />
+            <outline text="Proceeds from issuance of debt" />
+            <outline text="Repayment of debt" />
+            <outline text="Proceeds from issuance of equity" />
+            <outline text="Dividends" />
+          </outline>
+          <outline text="Net increase/decrease in cash and cash equivalents" />
+        </outline>
+        <outline text="BALANCE SHEET  | N-2 | N-1 | N | N+1 ">
+          <outline text="Total assets, of which">
+            <outline text="Cash and cash equivalents" />
+            <outline text="Inventory" />
+            <outline text="Accounts receivable" />
+            <outline text="Property and Equipment" />
+            <outline text="Intangible assets" />
+            <outline text="Other assets" />
+          </outline>
+          <outline text="Outstanding liabilities, of which">
+            <outline text="Accounts payable" />
+            <outline text="Short-term debt" />
+            <outline text="Long-term debt" />
+            <outline text="Other liabilities" />
+          </outline>
+          <outline text="Equity, of which">
+            <outline text="Share capital" />
+            <outline text="Retained Earnings" />
+            <outline text="Other equity" />
+          </outline>
+        </outline>
+        <outline text="Business metrics and ratios (please do not change)" _note=" | N-2 | N-1 | N | N+1 | N+2 | N+3 | N+4 | N+5 | N+6">
+          <outline text="Cash and cash equivalents" />
+          <outline text="Total debt" />
+          <outline text="Total Equity" />
+          <outline text="Gross Margin, %" />
+          <outline text="EBITDA Margin, %" />
+          <outline text="Debt-to-Equity ratio" />
+          <outline text="Return on Equity, %" />
+          <outline text="Return on Capital Employed, %" />
+          <outline text="&lt;span class=&quot;colored c-red&quot;&gt;Break-even (operating cashflows)&lt;/span&gt;" />
+          <outline text="Cross-check: is the Balance Sheet balanced?" />
+        </outline>
+      </outline>
+      <outline text="Table 2 - Company up-to-date financial data">
+        <outline text="Information item | Value, k€ | Optional comment box">
+          <outline text="External Debt as of application date" />
+          <outline text="Total cash balance as of application date" />
+          <outline text="Cash burn per month (as per last month)" />
+        </outline>
+      </outline>
+    </outline>
+  </body>
+</opml>
