@@ -10,3 +10,7 @@ The purpose of this case study is to build a business knowledge blueprint for th
 - seek out urls with occurences of these triples, i.e. evidence
 
 Using HTML files ensures the capability of automated curation of the body of knowledge.
+
+
+## Observations
+- Using `web_search()` from local returns some introductory page for a user. To scrape the web it is important to run the code in Google Colab.
