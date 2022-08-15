@@ -6,15 +6,11 @@ Q|A
 -|-
 Why?| (A) To ensure rigorous evidence identification (in the field of AI).<br>(B) To build **evidence syntheses** capability (systematic reviews and meta-analyses).
 What?|(A) Investigate and compare the systematic search qualities of academic search systems.<br>(B) Demonstrate a use case in the field of AI.
-How?|(A) Read, review, recite using the Faynman learning method.<br>(B) Use [the seven Feynman's tricks](https://fs.blog/evaluating-information/).
+How?|(A) Read, review, recite using the Feynman learning method.<br>(B) Use [the seven Feynman's tricks](https://fs.blog/evaluating-information/).<br>(C) Use tension.MVP.practice model.
 
-
-## Introduction
-
-## Method and Analysis
-
-## Results
-
-## Discussion
-
-## Conclusion
+## Outline
+- Introduction
+- Method and Analysis
+- Results
+- Discussion
+- Conclusion
