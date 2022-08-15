@@ -23,6 +23,39 @@
   - Artificial inteligence / machine learning / SW engineering (HW design a AI, letectvi, gas & flame detection, warehouse automation, worker safety, healthcare, prediktivní diagnostika v automotive, správa velmi komplexních systémů o tisících uzlech, vytěžování obrazových materiálů a dat, videa, vytěžení dat z elektromobilů)
   - Cognitive Cloud: AI-enabled computing continuum from Cloud to Edge
 
+# Informační zdroje
 ## [IS výzkumu, vývoje a inovací](https://www.isvavai.cz/)
+IS VaVaI integruje data o národním výzkumu a vývoji, je jediným autorizovaným, a tedy úplným a závazným zdrojem těchto informací.
+V současnosti IS VaVaI tvoří čtyři aktivní vzájemně propojené veřejné datové oblasti: 
+- [Centrální evidence projektů (CEP)](https://www.isvavai.cz/is?s=o-is-vavai#oiv-cep)
+- [Centrální evidence aktivit VaVaI (CEA)](https://www.isvavai.cz/is?s=o-is-vavai#oiv-cea)
+- [Rejstřík informací o výsledcích (RIV)](https://www.isvavai.cz/is?s=o-is-vavai#oiv-riv)
+- [Evidence veřejných soutěží ve VaVaI (VES)]https://www.isvavai.cz/is?s=o-is-vavai#oiv-ves)
 
-- [ ] Mapa spolupráce mezi podniky působícími v aplikačních odvětvích tematické oblasti a VO v projektech podpořených v letech 2015–2018. Zdroj: Zdroj: Informační systém VaVaI
+IS VaVaI umožňuje export výsledků vyhledávání, např. podle oborů:
+- Hlavní obor: IN - Informatika
+- Vedlejší obor: 
+  - BC - Teorie a systémy řízení
+  - JC - Počítačový hardware a software
+  - JD - Využití počítačů, robotika a její aplikace
+  - BA - Obecná matematika
+- [ ] Mapa spolupráce mezi podniky působícími v aplikačních odvětvích tematické oblasti a VO v projektech podpořených v letech 2015–2018. Zdroj: Informační systém VaVaI
+
+## Další databáze R&D aktivit
+
+## Další databáze publikací výsledků VaV
+- [TA ČR Starfos](https://starfos.tacr.cz/en)
+- [ResearchGate](https://www.researchgate.net/)
+- [Academia.edu](https://www.academia.edu/)
+
+## Databáze periodik
+- [Scimago Journal & Country Rank - AI](https://www.scimagojr.com/journalrank.php?category=1702)
+- [Successful Student - The Best AI Journals](https://successfulstudent.org/the-best-artificial-intelligence-journals/)
+
+### [Scimago Journal & Country Rank - AI](https://www.scimagojr.com/journalrank.php?category=1702)
+> SCImago, (n.d.). SJR — SCImago Journal & Country Rank [Portal]. Retrieved Date you Retrieve, from http://www.scimagojr.com
+
+The SCImago Journal & Country Rank is a publicly available portal that includes the journals and country scientific indicators developed from the information contained in the [Scopus®](http://www.scopus.com/) database ([Elsevier B.V.](http://www.elsevier.com/)).
+
+
+
