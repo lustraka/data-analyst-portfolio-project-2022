@@ -2,7 +2,7 @@
 > Business model pro tvorbu kvalitní marketignové studie v oblasti umělé inteligence.
 
 # AI v Národní RIS3 2021 - 2027
-[Karty tematických oblastí](https://www.tacr.cz/wp-content/uploads/documents/2022/04/13/1649834081_Karty%20tematick%C3%BDch%20oblast%C3%AD%20RIS3%20strategie%20%C4%8CR.pdf)
+## [Karty tematických oblastí](https://www.tacr.cz/wp-content/uploads/documents/2022/04/13/1649834081_Karty%20tematick%C3%BDch%20oblast%C3%AD%20RIS3%20strategie%20%C4%8CR.pdf)
 - Tematická oblast odpovídá zaměření  Národní inovační platformy.
 - Doména specializace se váže na tematickou oblast.
 - Obsah karet tematických oblastí vychází z podkladů v [základní verzi karet z roku 2021](https://www.mpo.cz/assets/cz/podnikani/ris3-strategie/dokumenty/2021/1/B_Priloha-1-Karty-tematickych-oblasti.pdf).
@@ -22,5 +22,7 @@
   - Prediktivní diagnostika, SW modely založené na reálných datech, vč. AI (automotive, strojírenství, aerospace, přístroje)
   - Artificial inteligence / machine learning / SW engineering (HW design a AI, letectvi, gas & flame detection, warehouse automation, worker safety, healthcare, prediktivní diagnostika v automotive, správa velmi komplexních systémů o tisících uzlech, vytěžování obrazových materiálů a dat, videa, vytěžení dat z elektromobilů)
   - Cognitive Cloud: AI-enabled computing continuum from Cloud to Edge
+
+## [IS výzkumu, vývoje a inovací](https://www.isvavai.cz/)
 
 - [ ] Mapa spolupráce mezi podniky působícími v aplikačních odvětvích tematické oblasti a VO v projektech podpořených v letech 2015–2018. Zdroj: Zdroj: Informační systém VaVaI
