@@ -24,13 +24,13 @@
   - Cognitive Cloud: AI-enabled computing continuum from Cloud to Edge
 
 # Informační zdroje
-## [IS výzkumu, vývoje a inovací](https://www.isvavai.cz/)
+## [IS VaVaI : IS výzkumu, vývoje a inovací](https://www.isvavai.cz/)
 IS VaVaI integruje data o národním výzkumu a vývoji, je jediným autorizovaným, a tedy úplným a závazným zdrojem těchto informací.
 V současnosti IS VaVaI tvoří čtyři aktivní vzájemně propojené veřejné datové oblasti: 
 - [Centrální evidence projektů (CEP)](https://www.isvavai.cz/is?s=o-is-vavai#oiv-cep)
 - [Centrální evidence aktivit VaVaI (CEA)](https://www.isvavai.cz/is?s=o-is-vavai#oiv-cea)
 - [Rejstřík informací o výsledcích (RIV)](https://www.isvavai.cz/is?s=o-is-vavai#oiv-riv)
-- [Evidence veřejných soutěží ve VaVaI (VES)]https://www.isvavai.cz/is?s=o-is-vavai#oiv-ves)
+- [Evidence veřejných soutěží ve VaVaI (VES)](https://www.isvavai.cz/is?s=o-is-vavai#oiv-ves)
 
 IS VaVaI umožňuje export výsledků vyhledávání, např. podle oborů:
 - Hlavní obor: IN - Informatika
@@ -41,9 +41,15 @@ IS VaVaI umožňuje export výsledků vyhledávání, např. podle oborů:
   - BA - Obecná matematika
 - [ ] Mapa spolupráce mezi podniky působícími v aplikačních odvětvích tematické oblasti a VO v projektech podpořených v letech 2015–2018. Zdroj: Informační systém VaVaI
 
+## [CORDIS](https://cordis.europa.eu/about/en)
+The Community Research and Development Information Service (CORDIS) is the European Commission's primary source of results from the projects funded by the EU's framework programmes for research and innovation. CORDIS has a rich and structured public repository with all project information held by the European Commission such as project factsheets, participants, reports, deliverables and links to open-access publications.
+
 ## Další databáze R&D aktivit
 
 ## Další databáze publikací výsledků VaV
+> Michael Gusenbauer,Neal R. Haddaway (2019-10-15) Which academic search systems are suitable for systematic reviews or meta-analyses? Evaluating retrieval qualities of Google Scholar, PubMed, and 26 other resources ([OnlineLibrary](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1378))
+- [Wikipedia: List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
+- [OpenAlex](https://openalex.org/) is an index of hundreds of millions of interconnected entities across the global research system. We're 100% free and open source, and offer access via a web interface, API, and database snapshot.
 - [TA ČR Starfos](https://starfos.tacr.cz/en)
 - [ResearchGate](https://www.researchgate.net/)
 - [Academia.edu](https://www.academia.edu/)
