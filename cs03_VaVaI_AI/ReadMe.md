@@ -16,7 +16,7 @@
   - Uplatnění umělé inteligence v technologiích, zařízeních, výrobních procesech apod.
   - Výzkum dopadů rozvoje AI na kybernetickou bezpečnost a bezpečnost technologií využívajících AI
  - Aplikační odvětví, strategické téma Využití umělé inteligence (AI)
-  - >Umělou inteligenci můžeme považovat za další stupeň automatizace. Její uplatnění v průmyslu je široké a díky jejímu využití dosáhneme zefektivnění výrobních procesů, potažmo snižování nákladů a tím pádem zvyšování konkurenceschopnosti. Metody strojového učení je možné využít pro zpracování obrazových, zvukových či multimediálních dat v oblastech, kde je míra jejich využívání v ČR zatím nízká: zdravotnictví, materiálové inženýrství, zemědělství a další. Aplikaci AI v institucích a projektech, pro které byly metody strojového učení zatím nedostupné z kapacitních či finančních důvodů. Nabízí se i možnosti využít synergie s dalšími pokročilými technologiemi typu 3D tisk, kde využití metod AI povede k vyšší efektivitě a konkurenceschopnosti.
+  - > Umělou inteligenci můžeme považovat za další stupeň automatizace. Její uplatnění v průmyslu je široké a díky jejímu využití dosáhneme zefektivnění výrobních procesů, potažmo snižování nákladů a tím pádem zvyšování konkurenceschopnosti. Metody strojového učení je možné využít pro zpracování obrazových, zvukových či multimediálních dat v oblastech, kde je míra jejich využívání v ČR zatím nízká: zdravotnictví, materiálové inženýrství, zemědělství a další. Aplikaci AI v institucích a projektech, pro které byly metody strojového učení zatím nedostupné z kapacitních či finančních důvodů. Nabízí se i možnosti využít synergie s dalšími pokročilými technologiemi typu 3D tisk, kde využití metod AI povede k vyšší efektivitě a konkurenceschopnosti.
   - Technologie využívající umělou inteligenci (analýza obrazu, strojové učení, velká data, data mining aj.)
   - Uplatnění umělé inteligence v technologiích, zařízeních, výrobních procesech apod.
   - Prediktivní diagnostika, SW modely založené na reálných datech, vč. AI (automotive, strojírenství, aerospace, přístroje)
@@ -44,7 +44,13 @@ IS VaVaI umožňuje export výsledků vyhledávání, např. podle oborů:
 ## [CORDIS](https://cordis.europa.eu/about/en)
 The Community Research and Development Information Service (CORDIS) is the European Commission's primary source of results from the projects funded by the EU's framework programmes for research and innovation. CORDIS has a rich and structured public repository with all project information held by the European Commission such as project factsheets, participants, reports, deliverables and links to open-access publications.
 
-## Další databáze R&D aktivit
+## [Národní knihovna ČR](https://www.nkp.cz/) 
+NKP děkuje za registraci (NK1250112 / W66VwCDsWzSA7Gw).
+Jako vzdáleně registrovaný uživatel Národní knihovny získáváte na dobu 1 roku (365 dnů) vzdálený přístup k těmto online službám:
+- k [licencovaným databázím](http://eiz.nkp.cz/), 
+- k digitalizovaným knihám, novinám, časopisům, které jsou v digitálních knihovnách otevřeny pouze registrovaným uživatelům knihovny - tzv. [díla nedostupná na trhu](https://dnnt.cz/), 
+- ke kontrole [čtenářského konta](https://aleph.nkp.cz/F/?func=bor-info), prostřednictvím čtenářského konta je možné např. uhradit poplatek na další registrační období,
+- k objednání z [online katalogu NK ČR](https://aleph.nkp.cz/cze/nkc) a objednání meziknihovních služeb - před zpřístupněním objednaného dokumentu je nutné osobně dokončit registraci v NK.
 
 ## Další databáze publikací výsledků VaV
 > Michael Gusenbauer,Neal R. Haddaway (2019-10-15) Which academic search systems are suitable for systematic reviews or meta-analyses? Evaluating retrieval qualities of Google Scholar, PubMed, and 26 other resources ([OnlineLibrary](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1378))
@@ -63,5 +69,12 @@ The Community Research and Development Information Service (CORDIS) is the Europ
 
 The SCImago Journal & Country Rank is a publicly available portal that includes the journals and country scientific indicators developed from the information contained in the [Scopus®](http://www.scopus.com/) database ([Elsevier B.V.](http://www.elsevier.com/)).
 
+# Metodické zdroje
+Michal Gusenbaurer studies bibliographical databases, see [WoS-GusenbauerMichael](https://www.webofscience.com/wos/woscc/summary/5baa1eb4-009c-4dc9-a25d-f8c3575bd83b-48f5cb10/relevance/1).
+- 2022: The influence of incidental emotions on decision-making under risk and uncertainty: a systematic review and meta-analysis of experimental evidence ([Taylor&Francis Online](https://www.tandfonline.com/doi/full/10.1080/02699931.2022.2099349) - only abstract)
+- 2022: Search where you will find most: Comparing the disciplinary coverage of 56 bibliographic databases ([Springer Link](https://link.springer.com/article/10.1007/s11192-022-04289-7) - open access)
+- 2021: The age of abundant scholarly information and its synthesis- A time when 'just google it' is no longer enough ([Wiley Online Libary](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1520) - open access)
+- 2021: What every Researcher should know about Searching - Clarified Concepts, Search Advice, and an Agenda to improve Finding in Academia ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1457) - open access)
+- 2020: Which academic search systems are suitable for systematic reviews or meta-analyses? Evaluating retrieval qualities of Google Scholar, PubMed, and 26 other resources ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1378) - open access)
 
 
