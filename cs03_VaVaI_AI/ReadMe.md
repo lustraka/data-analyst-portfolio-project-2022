@@ -24,7 +24,8 @@
   - Cognitive Cloud: AI-enabled computing continuum from Cloud to Edge
 
 # Informační zdroje
-## [IS VaVaI : IS výzkumu, vývoje a inovací](https://www.isvavai.cz/)
+## Research and Development Information Service
+### [IS VaVaI : IS výzkumu, vývoje a inovací](https://www.isvavai.cz/)
 IS VaVaI integruje data o národním výzkumu a vývoji, je jediným autorizovaným, a tedy úplným a závazným zdrojem těchto informací.
 V současnosti IS VaVaI tvoří čtyři aktivní vzájemně propojené veřejné datové oblasti: 
 - [Centrální evidence projektů (CEP)](https://www.isvavai.cz/is?s=o-is-vavai#oiv-cep)
@@ -41,47 +42,39 @@ IS VaVaI umožňuje export výsledků vyhledávání, např. podle oborů:
   - BA - Obecná matematika
 - [ ] Mapa spolupráce mezi podniky působícími v aplikačních odvětvích tematické oblasti a VO v projektech podpořených v letech 2015–2018. Zdroj: Informační systém VaVaI
 
-## [CORDIS](https://cordis.europa.eu/about/en)
+### [CORDIS](https://cordis.europa.eu/about/en)
 The Community Research and Development Information Service (CORDIS) is the European Commission's primary source of results from the projects funded by the EU's framework programmes for research and innovation. CORDIS has a rich and structured public repository with all project information held by the European Commission such as project factsheets, participants, reports, deliverables and links to open-access publications.
 
-## [Národní knihovna ČR](https://www.nkp.cz/) 
-NKP děkuje za registraci (NK1250112 / W66VwCDsWzSA7Gw).
-Jako vzdáleně registrovaný uživatel Národní knihovny získáváte na dobu 1 roku (365 dnů) vzdálený přístup k těmto online službám:
-- k [licencovaným databázím](http://eiz.nkp.cz/), 
-- k digitalizovaným knihám, novinám, časopisům, které jsou v digitálních knihovnách otevřeny pouze registrovaným uživatelům knihovny - tzv. [díla nedostupná na trhu](https://dnnt.cz/), 
-- ke kontrole [čtenářského konta](https://aleph.nkp.cz/F/?func=bor-info), prostřednictvím čtenářského konta je možné např. uhradit poplatek na další registrační období,
-- k objednání z [online katalogu NK ČR](https://aleph.nkp.cz/cze/nkc) a objednání meziknihovních služeb - před zpřístupněním objednaného dokumentu je nutné osobně dokončit registraci v NK.
+### [TA ČR Starfos](https://starfos.tacr.cz/en)
 
-## [Licencované databáze NKP](http://eiz.nkp.cz/)
-### Web of Science Core Collection (1945-present)
-Search the world’s leading scholarly journals, books, and proceedings in the sciences, social sciences, and arts and humanities and navigate the full citation network. 
-- All cited references for all publications are fully indexed and searchable. 
-- Search across all authors and all author affiliations.
-- Track citation activity with Citation Alerts.
-- See citation activity and trends graphically with Citation Report.
-- Use Analyze Results to identify trends and publication patterns.
-
-## Další databáze publikací výsledků VaV
-> Michael Gusenbauer,Neal R. Haddaway (2019-10-15) Which academic search systems are suitable for systematic reviews or meta-analyses? Evaluating retrieval qualities of Google Scholar, PubMed, and 26 other resources ([OnlineLibrary](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1378))
+## Academic Databases and Search Engines
 - [Wikipedia: List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
 - [OpenAlex](https://openalex.org/) is an index of hundreds of millions of interconnected entities across the global research system. We're 100% free and open source, and offer access via a web interface, API, and database snapshot.
-- [TA ČR Starfos](https://starfos.tacr.cz/en)
+- [Licencované databáze NKP](http://eiz.nkp.cz/) (NK1250112 / W66VwCDsWzSA7Gw)
 - [ResearchGate](https://www.researchgate.net/)
 - [Academia.edu](https://www.academia.edu/)
-
-## Databáze periodik
-- [Scimago Journal & Country Rank - AI](https://www.scimagojr.com/journalrank.php?category=1702)
 - [Successful Student - The Best AI Journals](https://successfulstudent.org/the-best-artificial-intelligence-journals/)
+- [Scimago Journal & Country Rank - AI](https://www.scimagojr.com/journalrank.php?category=1702)
+- [Scimago Journal & Country Rank - AI](https://www.scimagojr.com/journalrank.php?category=1702). SCImago, (n.d.). SJR — SCImago Journal & Country Rank [Portal]. Retrieved Date you Retrieve, from http://www.scimagojr.com. The SCImago Journal & Country Rank is a publicly available portal that includes the journals and country scientific indicators developed from the information contained in the [Scopus®](http://www.scopus.com/) database ([Elsevier B.V.](http://www.elsevier.com/)).
 
-### [Scimago Journal & Country Rank - AI](https://www.scimagojr.com/journalrank.php?category=1702)
-> SCImago, (n.d.). SJR — SCImago Journal & Country Rank [Portal]. Retrieved Date you Retrieve, from http://www.scimagojr.com
-
-The SCImago Journal & Country Rank is a publicly available portal that includes the journals and country scientific indicators developed from the information contained in the [Scopus®](http://www.scopus.com/) database ([Elsevier B.V.](http://www.elsevier.com/)).
+Databáze s nejlepším pokrytím Computer Science (COMP, dle Gusenbauer2022a) 
+[Table 1 The 26 subjects according to the ASJC](https://link.springer.com/article/10.1007/s11192-022-04289-7/tables/1)
+COMP : 
+- [GSC](https://scholar.google.com/) Google Scholar
+- [SEM](https://www.semanticscholar.org/) Semantic Scholar
+- [BAS](https://www.base-search.net/) Bielefeld Academic Search Engine
+- [MAC](https://www.microsoft.com/en-us/research/project/academic/) Microsoft Academic
+- [COR](https://core.ac.uk/) Core
+- [LEN](https://www.lens.org/) Lens
+- [AIR](https://explore.openaire.eu/) OpenAIRE
+- [SCT](https://scite.ai/) scite
+- [CRO](https://search.crossref.org/) Crossref
+- [SCO](https://www.scopus.com/) Scopus
 
 # Metodické zdroje
 Michal Gusenbaurer studies bibliographical databases, see [WoS-GusenbauerMichael](https://www.webofscience.com/wos/woscc/summary/5baa1eb4-009c-4dc9-a25d-f8c3575bd83b-48f5cb10/relevance/1).
-- 2022: The influence of incidental emotions on decision-making under risk and uncertainty: a systematic review and meta-analysis of experimental evidence ([Taylor&Francis Online](https://www.tandfonline.com/doi/full/10.1080/02699931.2022.2099349) - only abstract)
-- 2022: Search where you will find most: Comparing the disciplinary coverage of 56 bibliographic databases ([Springer Link](https://link.springer.com/article/10.1007/s11192-022-04289-7) - open access)
+- 2022b: The influence of incidental emotions on decision-making under risk and uncertainty: a systematic review and meta-analysis of experimental evidence ([Taylor&Francis Online](https://www.tandfonline.com/doi/full/10.1080/02699931.2022.2099349) - only abstract)
+- 2022a: Search where you will find most: Comparing the disciplinary coverage of 56 bibliographic databases ([Springer Link](https://link.springer.com/article/10.1007/s11192-022-04289-7) - open access)
 - 2021: The age of abundant scholarly information and its synthesis- A time when 'just google it' is no longer enough ([Wiley Online Libary](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1520) - open access)
 - 2021: What every Researcher should know about Searching - Clarified Concepts, Search Advice, and an Agenda to improve Finding in Academia ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1457) - open access)
 - 2020: Which academic search systems are suitable for systematic reviews or meta-analyses? Evaluating retrieval qualities of Google Scholar, PubMed, and 26 other resources ([Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1378) - open access)
