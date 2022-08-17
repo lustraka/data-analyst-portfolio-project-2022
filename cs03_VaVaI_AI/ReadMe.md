@@ -52,6 +52,15 @@ Jako vzdáleně registrovaný uživatel Národní knihovny získáváte na dobu 
 - ke kontrole [čtenářského konta](https://aleph.nkp.cz/F/?func=bor-info), prostřednictvím čtenářského konta je možné např. uhradit poplatek na další registrační období,
 - k objednání z [online katalogu NK ČR](https://aleph.nkp.cz/cze/nkc) a objednání meziknihovních služeb - před zpřístupněním objednaného dokumentu je nutné osobně dokončit registraci v NK.
 
+## [Licencované databáze NKP](http://eiz.nkp.cz/)
+### Web of Science Core Collection (1945-present)
+Search the world’s leading scholarly journals, books, and proceedings in the sciences, social sciences, and arts and humanities and navigate the full citation network. 
+- All cited references for all publications are fully indexed and searchable. 
+- Search across all authors and all author affiliations.
+- Track citation activity with Citation Alerts.
+- See citation activity and trends graphically with Citation Report.
+- Use Analyze Results to identify trends and publication patterns.
+
 ## Další databáze publikací výsledků VaV
 > Michael Gusenbauer,Neal R. Haddaway (2019-10-15) Which academic search systems are suitable for systematic reviews or meta-analyses? Evaluating retrieval qualities of Google Scholar, PubMed, and 26 other resources ([OnlineLibrary](https://onlinelibrary.wiley.com/doi/10.1002/jrsm.1378))
 - [Wikipedia: List of academic databases and search engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines)
