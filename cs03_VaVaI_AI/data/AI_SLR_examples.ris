@@ -1,0 +1,447 @@
+﻿TY  - JOUR
+AU  - Ramesh, D
+AU  - Sanampudi, SK
+TI  - An automated essay scoring systems: a systematic literature review
+T2  - ARTIFICIAL INTELLIGENCE REVIEW
+AB  - Assessment in the Education system plays a significant role in judging student performance. The present evaluation system is through human assessment. As the number of teachers' student ratio is gradually increasing, the manual evaluation process becomes complicated. The drawback of manual evaluation is that it is time-consuming, lacks reliability, and many more. This connection online examination system evolved as an alternative tool for pen and paper-based methods. Present Computer-based evaluation system works only for multiple-choice questions, but there is no proper evaluation system for grading essays and short answers. Many researchers are working on automated essay grading and short answer scoring for the last few decades, but assessing an essay by considering all parameters like the relevance of the content to the prompt, development of ideas, Cohesion, and Coherence is a big challenge till now. Few researchers focused on Content-based evaluation, while many of them addressed style-based assessment. This paper provides a systematic literature review on automated essay scoring systems. We studied the Artificial Intelligence and Machine Learning techniques used to evaluate automatic essay scoring and analyzed the limitations of the current studies and research trends. We observed that the essay evaluation is not done based on the relevance of the content and coherence.
+SN  - 0269-2821
+SN  - 1573-7462
+DA  - MAR
+PY  - 2022
+VL  - 55
+IS  - 3
+SP  - 2495
+EP  - 2527
+DO  - 10.1007/s10462-021-10068-2
+C6  - SEP 2021
+AN  - WOS:000698568300002
+ER  -
+
+TY  - JOUR
+AU  - Jimenez-Bravo, DM
+AU  - Murciego, AL
+AU  - Mendes, AS
+AU  - San Blas, HS
+AU  - Bajo, J
+TI  - Multi-object tracking in traffic environments: A systematic literature review
+T2  - NEUROCOMPUTING
+AB  - The use of computer vision techniques to detect objects in images has grown in recent years. These techniques are especially useful to automatically extract and analyze information from an image or a sequence of them. One of the problems addressed by computer vision is multi-object tracking over frames sequences. To know the path and direction of objects can be crucial for some areas like traffic control and supervision; by doing that the system can be able to reduce traffic jams or redirect vehicles over less condensed areas. These algorithms include several aspects to have in mind in order to start a new development or research in this area, for instance, is important to review the current state-of-the art techniques, the hardware requirements, the main evaluation metrics, the commonly used datasets, among others. Therefore, the objective of this research is to present a systematic literature review which analyzes the recent works developed in the area of multi-object tracking in traffic environments. This paper reviews the techniques, hardware, datasets, metrics, and open lines of research in this area. (C) 2022 The Author(s). Published by Elsevier B.V.
+SN  - 0925-2312
+SN  - 1872-8286
+DA  - JUL 14
+PY  - 2022
+VL  - 494
+SP  - 43
+EP  - 55
+DO  - 10.1016/j.neucom.2022.04.087
+AN  - WOS:000830184400005
+ER  -
+
+TY  - JOUR
+AU  - Catal, C
+AU  - Giray, G
+AU  - Tekinerdogan, B
+TI  - Applications of deep learning for mobile malware detection: A systematic literature review
+T2  - NEURAL COMPUTING & APPLICATIONS
+AB  - For detecting and resolving the various types of malware, novel techniques are proposed, among which deep learning algorithms play a crucial role. Although there has been a lot of research on the development of DL-based mobile malware detection approaches, they were not reviewed in detail yet. This paper aims to identify, assess, and synthesize the reported articles related to the application of DL techniques for mobile malware detection. A Systematic Literature Review is performed in which we selected 40 journal articles for in-depth analysis. This SLR presents and categorizes these articles based on machine learning categories, data sources, DL algorithms, evaluation parameters & approaches, feature selection techniques, datasets, and DL implementation platforms. The study also highlights the challenges, proposed solutions, and future research directions on the use of DL in mobile malware detection. This study showed that Convolutional Neural Networks and Deep Neural Networks algorithms are the most used DL algorithms. API calls, Permissions, and System Calls are the most dominant features utilized. Keras and Tensorflow are the most popular platforms. Drebin and VirusShare are the most widely used datasets. Supervised learning and static features are the most preferred machine learning and data source categories.
+SN  - 0941-0643
+SN  - 1433-3058
+DA  - JAN
+PY  - 2022
+VL  - 34
+IS  - 2
+SP  - 1007
+EP  - 1032
+DO  - 10.1007/s00521-021-06597-0
+C6  - OCT 2021
+AN  - WOS:000710601700001
+ER  -
+
+TY  - JOUR
+AU  - Neu, DA
+AU  - Lahann, J
+AU  - Fettke, P
+TI  - A systematic literature review on state-of-the-art deep learning methods for process prediction
+T2  - ARTIFICIAL INTELLIGENCE REVIEW
+AB  - Process mining enables the reconstruction and evaluation of business processes based on digital traces in IT systems. An increasingly important technique in this context is process prediction. Given a sequence of events of an ongoing trace, process prediction allows forecasting upcoming events or performance measurements. In recent years, multiple process prediction approaches have been proposed, applying different data processing schemes and prediction algorithms. This study focuses on deep learning algorithms since they seem to outperform their machine learning alternatives consistently. Whilst having a common learning algorithm, they use different data preprocessing techniques, implement a variety of network topologies and focus on various goals such as outcome prediction, time prediction or control-flow prediction. Additionally, the set of log-data, evaluation metrics and baselines used by the authors diverge, making the results hard to compare. This paper attempts to synthesise the advantages and disadvantages of the procedural decisions in these approaches by conducting a systematic literature review.
+SN  - 0269-2821
+SN  - 1573-7462
+DA  - FEB
+PY  - 2022
+VL  - 55
+IS  - 2
+SP  - 801
+EP  - 827
+DO  - 10.1007/s10462-021-09960-8
+C6  - MAR 2021
+AN  - WOS:000627699800001
+ER  -
+
+TY  - JOUR
+AU  - Negro, P
+AU  - Pons, C
+TI  - Artificial Intelligence techniques based on the integration of symbolic logic and deep neural networks: A systematic literature review
+T2  - INTELIGENCIA ARTIFICIAL-IBEROAMERICAL JOURNAL OF ARTIFICIAL INTELLIGENCE
+AB  - Artificial Intelligence is tackled from two predominant but very different approaches: symbolic Artificial Intelligence, which is inspired by mathematical logic and is based on the manipulation of abstract linguistic representations, and non-symbolic Artificial Intelligence, which focuses on the construction of predictive mathematical models from large sample data sets. Significantly, the shortcomings of each of these approaches align with the strengths of the other, suggesting that an integration between them would be beneficial. A successful synthesis of symbolic and non-symbolic artificial intelligence would give us the advantages of both worlds.
+   This work aims to identify and classify solutions and architectures that use applied Artificial Intelligence techniques, based on the integration of symbolic and non-symbolic logic (particularly machine learning with artificial neural networks), to provide a comprehensive, exhaustive and organized vision of the solutions available in the literature, making them the subject of a carefully designed and implemented SLR (Systematic Literature Review). The resulting technologies are discussed and evaluated from both perspectives: symbolic and non-symbolic Artificial Intelligence.
+   The PICOC method (Population, Intervention, Comparison, Outputs, Context) plus Limits, which determine the scope of the search, has been used to define the research questions and analyze the results. From a total of 65 candidate studies found, 24 articles (37%) relevant to this study were selected. Each study also focuses on different application domains such as intelligent agents, image classification, theorem provers, cyber-security, image interpretation, mathematics, medicine, robotics and general application.
+   Through the analysis of the selected works, it was possible to classify, organize and explain the different ways in which the deficiencies of non-symbolic Artificial Intelligence are addressed by proposals based on symbolic logic. The study also determined in which stages of the development process said proposals are applied. In addition, the study made it possible to determine which are the logic tools that are preferably applied, for each area and each domain Although no clear architectural pattern has been found, efforts to find a general-purpose model that combines both worlds are driving trends and research efforts.
+SN  - 1137-3601
+SN  - 1988-3064
+DA  - JUN
+PY  - 2022
+VL  - 25
+IS  - 69
+SP  - 13
+EP  - 41
+DO  - 10.4114/intartif.vol25iss69pp13-41
+AN  - WOS:000819876600002
+ER  -
+
+TY  - JOUR
+AU  - Fernandes, M
+AU  - Corchado, JM
+AU  - Marreiros, G
+TI  - Machine learning techniques applied to mechanical fault diagnosis and fault prognosis in the context of real industrial manufacturing use-cases: a systematic literature review
+T2  - APPLIED INTELLIGENCE
+AB  - When put into practice in the real world, predictive maintenance presents a set of challenges for fault detection and prognosis that are often overlooked in studies validated with data from controlled experiments, or numeric simulations. For this reason, this study aims to review the recent advancements in mechanical fault diagnosis and fault prognosis in the manufacturing industry using machine learning methods. For this systematic review, we searched Web of Science, ACM Digital Library, Science Direct, Wiley Online Library, and IEEE Xplore between January 2015 and October 2021. Full-length studies that employed machine learning algorithms to perform mechanical fault detection or fault prognosis in manufacturing equipment and presented empirical results obtained from industrial case-studies were included, except for studies not written in English or published in sources other than peer-reviewed journals with JCR Impact Factor, conference proceedings and book chapters/sections. Of 4549 records, 44 primary studies were selected. In 37 of those studies, fault diagnosis and prognosis were performed using artificial neural networks (n = 12), decision tree methods (n = 11), hybrid models (n = 8), or latent variable models (n = 6), with one of the studies employing two different types of techniques independently. The remaining studies employed a variety of machine learning techniques, ranging from rule-based models to partition-based algorithms, and only two studies approached the problem using online learning methods. The main advantages of these algorithms include high performance, the ability to uncover complex nonlinear relationships and computational efficiency, while the most important limitation is the reduction in model performance in the presence of concept drift. This review shows that, although the number of studies performed in the manufacturing industry has been increasing in recent years, additional research is necessary to address the challenges presented by real-world scenarios.
+SN  - 0924-669X
+SN  - 1573-7497
+DO  - 10.1007/s10489-022-03344-3
+C6  - MAR 2022
+AN  - WOS:000763841700001
+ER  -
+
+TY  - JOUR
+AU  - Berardi, D
+AU  - Giallorenzo, S
+AU  - Mauro, J
+AU  - Melis, A
+AU  - Montesi, F
+AU  - Prandini, M
+TI  - Microservice security: a systematic literature review
+T2  - PEERJ COMPUTER SCIENCE
+AB  - Microservices is an emerging paradigm for developing distributed systems. With their widespread adoption, more and more work investigated the relation between microservices and security. Alas, the literature on this subject does not form a well-defined corpus: it is spread over many venues and composed of contributions mainly addressing specific scenarios or needs. In this work, we conduct a systematic review of the field, gathering 290 relevant publications-at the time of writing, the largest curated dataset on the topic. We analyse our dataset along two lines: (a) quantitatively, through publication metadata, which allows us to chart publication outlets, communities, approaches, and tackled issues; (b) qualitatively, through 20 research questions used to provide an aggregated overview of the literature and to spot gaps left open. We summarise our analyses in the conclusion in the form of a call for action to address the main open challenges.
+SN  - 2376-5992
+DA  - JAN 5
+PY  - 2022
+VL  - 8
+C7  - e779
+DO  - 10.7717/peerj-cs.779
+AN  - WOS:000741742300002
+ER  -
+
+TY  - JOUR
+AU  - Jasinska-Piadlo, A
+AU  - Bond, R
+AU  - Biglarbeigi, P
+AU  - Brisk, R
+AU  - Campbell, P
+AU  - McEneaneny, D
+TI  - What can machines learn about heart failure? A systematic literature review
+T2  - INTERNATIONAL JOURNAL OF DATA SCIENCE AND ANALYTICS
+AB  - This paper presents a systematic literature review with respect to application of data science and machine learning (ML) to heart failure (HF) datasets with the intention of generating both a synthesis of relevant findings and a critical evaluation of approaches, applicability and accuracy in order to inform future work within this field. This paper has a particular intention to consider ways in which the low uptake of ML techniques within clinical practice could be resolved. Literature searches were performed on Scopus (2014-2021), ProQuest and Ovid MEDLINE databases (2014-2021). Search terms included 'heart failure' or 'cardiomyopathy' and 'machine learning', 'data analytics', 'data mining' or 'data science'. 81 out of 1688 articles were included in the review. The majority of studies were retrospective cohort studies. The median size of the patient cohort across all studies was 1944 (min 46, max 93260). The largest patient samples were used in readmission prediction models with the median sample size of 5676 (min. 380, max. 93260). Machine learning methods focused on common HF problems: detection of HF from available dataset, prediction of hospital readmission following index hospitalization, mortality prediction, classification and clustering of HF cohorts into subgroups with distinctive features and response to HF treatment. The most common ML methods used were logistic regression, decision trees, random forest and support vector machines. Information on validation of models was scarce. Based on the authors' affiliations, there was a median 3:1 ratio between IT specialists and clinicians. Over half of studies were co-authored by a collaboration of medical and IT specialists. Approximately 25% of papers were authored solely by IT specialists who did not seek clinical input in data interpretation. The application of ML to datasets, in particular clustering methods, enabled the development of classification models assisting in testing the outcomes of patients with HF. There is, however, a tendency to over-claim the potential usefulness of ML models for clinical practice. The next body of work that is required for this research discipline is the design of randomised controlled trials (RCTs) with the use of ML in an intervention arm in order to prospectively validate these algorithms for real-world clinical utility.
+SN  - 2364-415X
+SN  - 2364-4168
+DA  - APR
+PY  - 2022
+VL  - 13
+IS  - 3
+SP  - 163
+EP  - 183
+DO  - 10.1007/s41060-021-00300-1
+C6  - DEC 2021
+AN  - WOS:000736485400001
+ER  -
+
+TY  - JOUR
+AU  - Guidotti, R
+TI  - Counterfactual explanations and how to find them: literature review and benchmarking
+T2  - DATA MINING AND KNOWLEDGE DISCOVERY
+AB  - Interpretable machine learning aims at unveiling the reasons behind predictions returned by uninterpretable classifiers. One of the most valuable types of explanation consists of counterfactuals. A counterfactual explanation reveals what should have been different in an instance to observe a diverse outcome. For instance, a bank customer asks for a loan that is rejected. The counterfactual explanation consists of what should have been different for the customer in order to have the loan accepted. Recently, there has been an explosion of proposals for counterfactual explainers. The aim of this work is to survey the most recent explainers returning counterfactual explanations. We categorize explainers based on the approach adopted to return the counterfactuals, and we label them according to characteristics of the method and properties of the counterfactuals returned. In addition, we visually compare the explanations, and we report quantitative benchmarking assessing minimality, actionability, stability, diversity, discriminative power, and running time. The results make evident that the current state of the art does not provide a counterfactual explainer able to guarantee all these properties simultaneously.
+SN  - 1384-5810
+SN  - 1573-756X
+DO  - 10.1007/s10618-022-00831-6
+C6  - APR 2022
+AN  - WOS:000788450600001
+ER  -
+
+TY  - JOUR
+AU  - Catal, C
+AU  - Giray, G
+AU  - Tekinerdogan, B
+AU  - Kumar, S
+AU  - Shukla, S
+TI  - Applications of deep learning for phishing detection: a systematic literature review
+T2  - KNOWLEDGE AND INFORMATION SYSTEMS
+AB  - Phishing attacks aim to steal confidential information using sophisticated methods, techniques, and tools such as phishing through content injection, social engineering, online social networks, and mobile applications. To avoid and mitigate the risks of these attacks, several phishing detection approaches were developed, among which deep learning algorithms provided promising results. However, the results and the corresponding lessons learned are fragmented over many different studies and there is a lack of a systematic overview of the use of deep learning algorithms in phishing detection. Hence, we performed a systematic literature review (SLR) to identify, assess, and synthesize the results on deep learning approaches for phishing detection as reported by the selected scientific publications. We address nine research questions and provide an overview of how deep learning algorithms have been used for phishing detection from several aspects. In total, 43 journal articles were selected from electronic databases to derive the answers for the defined research questions. Our SLR study shows that except for one study, all the provided models applied supervised deep learning algorithms. The widely used data sources were URL-related data, third party information on the website, website content-related data, and email. The most used deep learning algorithms were deep neural networks (DNN), convolutional neural networks, and recurrent neural networks/long short-term memory networks. DNN and hybrid deep learning algorithms provided the best performance among other deep learning-based algorithms. 72% of the studies did not apply any feature selection algorithm to build the prediction model. PhishTank was the most used dataset among other datasets. While Keras and Tensorflow were the most preferred deep learning frameworks, 46% of the articles did not mention any framework. This study also highlights several challenges for phishing detection to pave the way for further research.
+SN  - 0219-1377
+SN  - 0219-3116
+DA  - JUN
+PY  - 2022
+VL  - 64
+IS  - 6
+SP  - 1457
+EP  - 1500
+DO  - 10.1007/s10115-022-01672-x
+C6  - MAY 2022
+AN  - WOS:000800996600001
+ER  -
+
+TY  - JOUR
+AU  - Tang, L
+AU  - Li, JY
+AU  - Du, HC
+AU  - Li, L
+AU  - Wu, J
+AU  - Wang, SY
+TI  - Big Data in Forecasting Research: A Literature Review
+T2  - BIG DATA RESEARCH
+AB  - With the boom in Internet techniques and computer science, a variety of big data have been introduced into forecasting research, bringing new knowledge and improving prediction models. This paper is the first attempt to conduct a literature review on full-scale big data in forecasting research. By source, big data in forecasting research fell into user-generated content data (from the users on social media in texts, photos, etc.), device-monitored data (by meteorological monitors, smart meters, GPS, etc.) and activity log data (for web searching/visiting, online/offline marketing, clinical treatments, laboratory experiments, etc.). Different data types, bearing distinctive information and characteristics, dominated different forecasting tasks, required different analysis technologies and improved different forecasting models. This survey provides an overall review of big data-based forecasting research, details what (regarding data types and sources), where (forecasting hotspots) and how (analysis and forecasting methods used) big data improved prediction, and offers insights into future prospects. (C) 2021 Elsevier Inc. All rights reserved.
+SN  - 2214-5796
+DA  - FEB 28
+PY  - 2022
+VL  - 27
+C7  - 100289
+DO  - 10.1016/j.bdr.2021.100289
+C6  - NOV 2021
+AN  - WOS:000729947700004
+ER  -
+
+TY  - JOUR
+AU  - Eksi, GE
+AU  - Tekinerdogan, B
+AU  - Catal, C
+TI  - Software security management in critical infrastructures: a systematic literature review
+T2  - TURKISH JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES
+AB  - Critical infrastructure (CI) is an integrated set of systems and assets that are essential to ensure the functioning of a nation, including its economy, the public???s health and/or safety. Hence, protecting critical infrastructures (CI) is vital because of the potential severe consequences that may emerge at the national level. Many CIs are now controlled by software, and likewise, software is often the major source of many security problems in critical infrastructures. Software security management in CIs has been addressed in the literature and several useful approaches have been provided. Yet, these approaches are fragmented over multiple different studies, often do not explicitly relate to CIs, and a synthesized overview of the state-of-the-art on software security in CIs is lacking. To this end, this article presents the results of a systematic literature review (SLR) that identifies and synthesizes how software security has been addressed in CIs. This study identifies and synthesizes the current approaches applied for security management in critical systems in terms of identified security threats, adopted solutions, CI domains, and evaluation approaches. Hereby 32 primary studies were retrieved from electronic databases to respond to the research questions defined in this study. Based on the outcome of the SLR the reported approaches are discussed, and a roadmap is described for security management in CIs. The results of the SLR identify the current open challenges and pave the way for further research. In addition, practitioners can benefit from the best practices in the security management of CIs.
+SN  - 1300-0632
+SN  - 1303-6203
+PY  - 2022
+VL  - 30
+IS  - 4
+SP  - 1142
+EP  - 1161
+DO  - 10.55730/1300-0632.3841
+AN  - WOS:000807431800001
+ER  -
+
+TY  - JOUR
+AU  - Del Ser, J
+AU  - Casillas-Perez, D
+AU  - Cornejo-Bueno, L
+AU  - Prieto-Godino, L
+AU  - Sanz-Justo, J
+AU  - Casanova-Mateo, C
+AU  - Salcedo-Sanz, S
+TI  - Randomization-based machine learning in renewable energy prediction problems: Critical literature review, new results and perspectives
+T2  - APPLIED SOFT COMPUTING
+AB  - In the last few years, methods falling within the family of randomization-based machine learning models have grasped a great interest in the Artificial Intelligence community, mainly due to their excellent balance between performance in prediction problems and their computational efficiency. The use of these models for prediction problems related to renewable energy sources has been particularly notable in recent times, including different ways in which randomization is considered, their hybridization with other modeling techniques and/or their multi-layered (deep) and ensemble arrangement. This manuscript comprehensively reviews the most important features of randomization based machine learning methods, and critically examines recent evidences of their application to renewable energy prediction problems, focusing on those related to solar, wind, marine/ocean and hydro-power renewable sources. Our study of the literature is complemented by an extensive experimental setup encompassing three real-world problems dealing with solar radiation prediction, wind speed prediction in wind farms and hydro-power energy. In all these problems randomization based methods are reported to achieve a better predictive performance than their corresponding state-of-the-art solutions, while demanding a dramatically lower computational effort for its learning phases. Finally, we pause and reflect on important challenges faced by these methods when applied to renewable energy prediction problems, such as their intrinsic epistemic uncertainty, or the need for explainability. We also point out several research opportunities that arise from this vibrant research area.(C) 2022 Elsevier B.V. All rights reserved.
+SN  - 1568-4946
+SN  - 1872-9681
+DA  - MAR
+PY  - 2022
+VL  - 118
+C7  - 108526
+DO  - 10.1016/j.asoc.2022.108526
+AN  - WOS:000779087800004
+ER  -
+
+TY  - JOUR
+AU  - Kaddoura, S
+AU  - Chandrasekaran, G
+AU  - Popescu, DE
+AU  - Duraisamy, JH
+TI  - A systematic literature review on spam content detection and classification
+T2  - PEERJ COMPUTER SCIENCE
+AB  - The presence of spam content in social media is tremendously increasing, and therefore the detection of spam has become vital. The spam contents increase as people extensively use social media, i.e., Facebook, Twitter, YouTube, and E-mail. The time spent by people using social media is overgrowing, especially in the time of the pandemic. Users get a lot of text messages through social media, and they cannot recognize the spam content in these messages. Spam messages contain malicious links, apps, fake accounts, fake news, reviews, rumors, etc. To improve social media security, the detection and control of spam text are essential. This paper presents a detailed survey on the latest developments in spam text detection and classification in social media. The various techniques involved in spam detection and classification involving Machine Learning, Deep Learning, and text-based approaches are discussed in this paper. We also present the challenges encountered in the identification of spam with its control mechanisms and datasets used in existing works involving spam detection.
+SN  - 2376-5992
+DA  - JAN 20
+PY  - 2022
+VL  - 8
+C7  - e830
+DO  - 10.7717/peerj-cs.830
+AN  - WOS:000746168900001
+ER  -
+
+TY  - JOUR
+AU  - Nawaz, S
+AU  - Zai, A
+AU  - Imtiaz, S
+AU  - Ashraf, H
+TI  - Systematic Literature Review: Causes of Rework in GSD
+T2  - INTERNATIONAL ARAB JOURNAL OF INFORMATION TECHNOLOGY
+AB  - Global Software Development (GSD) involves multiple sites which comprise of different cultures and time zones apart from geographical locations. It is a common software development approach adopted to achieve competitiveness. However, due to multiple challenges it can result in misunderstandings and rework. Rework raises the chance of project failure by delaying the project and increasing the estimated budget. The aim of this study is to identify and categorize the rework causes to reduce its frequency in GSD. To identify the empirical literature related to causes of rework, we performed a Systematic Literature Review (SLR). A total of 23 studies are included as a result of final inclusion. The empirical literature from the year 2009 to 2020 is searched. The overall identified causes of rework in GSD are categorized into 6 major categories which are communication, Requirement Management (RM), roles of stakeholders, product development/integration issues, documentation issues, and differences among stakeholders. The most reported rework causes are related to the category of communication & coordination and RM. Moreover, an industrial survey is conducted to validate the identified rework causes and their mitigation practices from practitioners. This study will help practitioners and researchers in addressing the identified causes and therefore reduce the chances of rework.
+SN  - 1683-3198
+DA  - JAN
+PY  - 2022
+VL  - 19
+IS  - 1
+SP  - 97
+EP  - 109
+DO  - 10.34028/iajit/19/1/12
+AN  - WOS:000740813600011
+ER  -
+
+TY  - JOUR
+AU  - Desmal, AJ
+AU  - Othman, MK
+AU  - Hamid, S
+AU  - Zolait, A
+TI  - Exploring the information quality of mobile government services: a literature review
+T2  - PEERJ COMPUTER SCIENCE
+AB  - This article aims to investigate the constructs that can be used to evaluate the information quality (IQ) of mobile government services. The dimension of IQ is one of the fundamental constructs that assesses the extent of information based on its accuracy, usefulness, and timeliness. Based on the review of previous studies, there is a lack of studies related to mGovernment service quality. It is not practical to measure the service quality of mGovernment by using other measurement scales such as e-service, e-commerce, or e-government. Therefore, it is necessary to understand each dimension that guides constructing a comprehensive framework to measure service quality at mGovernment. The constructs of information quality were extracted from previous literature in mobile government, mobile application service, and e-government to understand the development stages, structure, and unique features-this guide to conduct the systematic literature review to clarify the constructs belonging to the evaluation of information quality. The present article identified six constructs-understandability, timeliness, accuracy, completeness, availability, and usefulness-to measure the information quality of mobile government service. There is limited literature on mGovernment information service quality. With the development of government services on mobile devices, it is necessary to measure information quality at mGovernment service channel to understand users' expectations. The mGovernment service provider benefits from measuring the service quality by improving the strategy and criteria of information at mGovernment portal. In addition, the end-users expect to perform the service with the best quality level of the information supplied and displayed on mGovernment platform.
+SN  - 2376-5992
+DA  - JUL 28
+PY  - 2022
+VL  - 8
+C7  - e1028
+DO  - 10.7717/peerj-cs.1028
+AN  - WOS:000835175700002
+ER  -
+
+TY  - JOUR
+AU  - Saltz, JS
+AU  - Krasteva, I
+TI  - Current approaches for executing big data science projects-a systematic literature review
+T2  - PEERJ COMPUTER SCIENCE
+AB  - There is an increasing number of big data science projects aiming to create value for organizations by improving decision making, streamlining costs or enhancing business processes. However, many of these projects fail to deliver the expected value. It has been observed that a key reason many data science projects don't succeed is not technical in nature, but rather, the process aspect of the project. The lack of established and mature methodologies for executing data science projects has been frequently noted as a reason for these project failures. To help move the field forward, this study presents a systematic review of research focused on the adoption of big data science process frameworks. The goal of the review was to identify (1) the key themes, with respect to current research on how teams execute data science projects, (2) the most common approaches regarding how data science projects are organized, managed and coordinated, (3) the activities involved in a data science projects life cycle, and (4) the implications for future research in this field. In short, the review identified 68 primary studies thematically classified in six categories. Two of the themes (workflow and agility) accounted for approximately 80% of the identified studies. The findings regarding workflow approaches consist mainly of adaptations to CRISP-DM (vs entirely new proposed methodologies). With respect to agile approaches, most of the studies only explored the conceptual benefits of using an agile approach in a data science project (vs actually evaluating an agile framework being used in a data science context). Hence, one finding from this research is that future research should explore how to best achieve the theorized benefits of agility. Another finding is the need to explore how to efficiently combine workflow and agile frameworks within a data science context to achieve a more comprehensive approach for project execution.
+SN  - 2376-5992
+DA  - FEB 21
+PY  - 2022
+VL  - 8
+C7  - e862
+DO  - 10.7717/peerj-cs.862
+AN  - WOS:000760440600002
+ER  -
+
+TY  - JOUR
+AU  - Torregrosa, J
+AU  - Bello-Orgaz, G
+AU  - Martinez-Camara, E
+AU  - Del Ser, J
+AU  - Camacho, D
+TI  - A survey on extremism analysis using natural language processing: definitions, literature review, trends and challenges
+T2  - JOURNAL OF AMBIENT INTELLIGENCE AND HUMANIZED COMPUTING
+AB  - Extremism has grown as a global problem for society in recent years, especially after the apparition of movements such as jihadism. This and other extremist groups have taken advantage of different approaches, such as the use of Social Media, to spread their ideology, promote their acts and recruit followers. The extremist discourse, therefore, is reflected on the language used by these groups. Natural language processing (NLP) provides a way of detecting this type of content, and several authors make use of it to describe and discriminate the discourse held by these groups, with the final objective of detecting and preventing its spread. Following this approach, this survey aims to review the contributions of NLP to the field of extremism research, providing the reader with a comprehensive picture of the state of the art of this research area. The content includes a first conceptualization of the term extremism, the elements that compose an extremist discourse and the differences with other terms. After that, a review description and comparison of the frequently used NLP techniques is presented, including how they were applied, the insights they provided, the most frequently used NLP software tools, descriptive and classification applications, and the availability of datasets and data sources for research. Finally, research questions are approached and answered with highlights from the review, while future trends, challenges and directions derived from these highlights are suggested towards stimulating further research in this exciting research area.
+SN  - 1868-5137
+SN  - 1868-5145
+DO  - 10.1007/s12652-021-03658-z
+C6  - JAN 2022
+AN  - WOS:000741967800001
+ER  -
+
+TY  - JOUR
+AU  - Kumar, Y
+AU  - Koul, A
+AU  - Singla, R
+AU  - Ijaz, MF
+TI  - Artificial intelligence in disease diagnosis: a systematic literature review, synthesizing framework and future research agenda
+T2  - JOURNAL OF AMBIENT INTELLIGENCE AND HUMANIZED COMPUTING
+AB  - Artificial intelligence can assist providers in a variety of patient care and intelligent health systems. Artificial intelligence techniques ranging from machine learning to deep learning are prevalent in healthcare for disease diagnosis, drug discovery, and patient risk identification. Numerous medical data sources are required to perfectly diagnose diseases using artificial intelligence techniques, such as ultrasound, magnetic resonance imaging, mammography, genomics, computed tomography scan, etc. Furthermore, artificial intelligence primarily enhanced the infirmary experience and sped up preparing patients to continue their rehabilitation at home. This article covers the comprehensive survey based on artificial intelligence techniques to diagnose numerous diseases such as Alzheimer, cancer, diabetes, chronic heart disease, tuberculosis, stroke and cerebrovascular, hypertension, skin, and liver disease. We conducted an extensive survey including the used medical imaging dataset and their feature extraction and classification process for predictions. Preferred reporting items for systematic reviews and Meta-Analysis guidelines are used to select the articles published up to October 2020 on the Web of Science, Scopus, Google Scholar, PubMed, Excerpta Medical Database, and Psychology Information for early prediction of distinct kinds of diseases using artificial intelligence-based techniques. Based on the study of different articles on disease diagnosis, the results are also compared using various quality parameters such as prediction rate, accuracy, sensitivity, specificity, the area under curve precision, recall, and F1-score.
+SN  - 1868-5137
+SN  - 1868-5145
+DO  - 10.1007/s12652-021-03612-z
+C6  - JAN 2022
+AN  - WOS:000741968200002
+ER  -
+
+TY  - JOUR
+AU  - Desmal, AJ
+AU  - Hamid, S
+AU  - Othman, MK
+AU  - Zolait, A
+TI  - Exploration of the usability quality attributes of mobile government services: a literature review
+T2  - PEERJ COMPUTER SCIENCE
+AB  - This article investigates and analyzes the usability quality attributes of mobile government services. The lack of previous research in the area of mobile government service quality encourages the researchers of the current work to select the usability quality dimension, which is considered one of the most significant parts of the mobile government service quality framework. Using the systematic literature reviews in the area of usability in human-computer interaction and software design, the main attributes are extracted and analyzed to fit into the context of mobile government services. Five quality attributes of the usability dimensions are identified for evaluation of the quality of services of mobile government. These attributes are efficiency, satisfaction, memorability, error and compatibility. The present research proposes a model that can be used to evaluate the usability of mobile government services. The attributes were extracted according to the mobility features with consideration of the service category (Government-To-Citizens). By measuring the usability quality of the mGovernment portal by the electronic government agencies, it leads to understanding the degree of usability of the provided services from the public's perspective.
+SN  - 2376-5992
+DA  - JUL 28
+PY  - 2022
+VL  - 8
+C7  - e1026
+DO  - 10.7717/peerj-cs.1026
+AN  - WOS:000835175700003
+ER  -
+
+TY  - JOUR
+AU  - Alshawi, A
+AU  - Al-Razgan, M
+AU  - AlKallas, FH
+AU  - Bin Suhaim, RA
+AU  - Al-Tamimi, R
+AU  - Alharbi, N
+AU  - AlSaif, SO
+TI  - Data privacy during pandemics: a systematic literature review of COVID-19 smartphone applications
+T2  - PEERJ COMPUTER SCIENCE
+AB  - Background: On January 8, 2020, the Centers for Disease Control and Prevention officially announced a new virus in Wuhan, China. The first novel coronavirus (COVID-19) case was discovered on December 1, 2019, implying that the disease was spreading quietly and quickly in the community before reaching the rest of the world. To deal with the virus' wide spread, countries have deployed contact tracing mobile applications to control viral transmission. Such applications collect users' information and inform them if they were in contact with an individual diagnosed with COVID-19. However, these applications might have affected human rights by breaching users' privacy.
+   Methodology: This systematic literature review followed a comprehensive methodology to highlight current research discussing such privacy issues. First, it used a search strategy to obtain 808 relevant papers published in 2020 from well-established digital libraries. Second, inclusion/exclusion criteria and the snowballing technique were applied to produce more comprehensive results. Finally, by the application of a quality assessment procedure, 40 studies were chosen.
+   Results: This review highlights privacy issues, discusses centralized and decentralized models and the different technologies affecting users' privacy, and identifies solutions to improve data privacy from three perspectives: public, law, and health considerations.
+   Conclusions: Governments need to address the privacy issues related to contact tracing apps. This can be done through enforcing special policies to guarantee users privacy. Additionally, it is important to be transparent and let users know what data is being collected and how it is being used.
+SN  - 2376-5992
+DA  - JAN 4
+PY  - 2022
+VL  - 7
+C7  - e826
+DO  - 10.7717/peerj-cs.826
+AN  - WOS:000741746700001
+ER  -
+
+TY  - JOUR
+AU  - Nassif, AB
+AU  - Abu Talib, M
+AU  - Nasir, Q
+AU  - Afadar, Y
+AU  - Elgendy, O
+TI  - Breast cancer detection using artificial intelligence techniques: A systematic literature review
+T2  - ARTIFICIAL INTELLIGENCE IN MEDICINE
+AB  - Cancer is one of the most dangerous diseases to humans, and yet no permanent cure has been developed for it. Breast cancer is one of the most common cancer types. According to the National Breast Cancer Foundation, in 2020 alone, more than 276,000 new cases of invasive breast cancer and more than 48,000 non-invasive cases were diagnosed in the US. To put these figures in perspective, 64% of these cases are diagnosed early in the disease's cycle, giving patients a 99% chance of survival. Artificial intelligence and machine learning have been used effectively in detection and treatment of several dangerous diseases, helping in early diagnosis and treatment, and thus increasing the patient's chance of survival. Deep learning has been designed to analyze the most important features affecting detection and treatment of serious diseases. For example, breast cancer can be detected using genes or histopathological imaging. Analysis at the genetic level is very expensive, so histopathological imaging is the most common approach used to detect breast cancer. In this research work, we systematically reviewed previous work done on detection and treatment of breast cancer using genetic sequencing or histopathological imaging with the help of deep learning and machine learning. We also provide recommendations to researchers who will work in this field.
+SN  - 0933-3657
+SN  - 1873-2860
+DA  - MAY
+PY  - 2022
+VL  - 127
+C7  - 102276
+DO  - 10.1016/j.artmed.2022.102276
+AN  - WOS:000793318000010
+ER  -
+
+TY  - JOUR
+AU  - Kumbure, MM
+AU  - Lohrmann, C
+AU  - Luukka, P
+AU  - Porras, J
+TI  - Machine learning techniques and data for stock market forecasting: A literature review
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - In this literature review, we investigate machine learning techniques that are applied for stock market prediction. A focus area in this literature review is the stock markets investigated in the literature as well as the types of variables used as input in the machine learning techniques used for predicting these markets. We examined 138 journal articles published between 2000 and 2019. The main contributions of this review are: (1) an extensive examination of the data, in particular, the markets and stock indices covered in the predictions, as well as the 2173 unique variables used for stock market predictions, including technical indicators, macroeconomic variables, and fundamental indicators, and (2) an in-depth review of the machine learning techniques and their variants deployed for the predictions. In addition, we provide a bibliometric analysis of these journal articles, highlighting the most influential works and articles.
+SN  - 0957-4174
+SN  - 1873-6793
+DA  - JUL 1
+PY  - 2022
+VL  - 197
+C7  - 116659
+DO  - 10.1016/j.eswa.2022.116659
+AN  - WOS:000761939600002
+ER  -
+
+TY  - JOUR
+AU  - Noaeen, M
+AU  - Naik, A
+AU  - Goodman, L
+AU  - Crebo, J
+AU  - Abrar, T
+AU  - Abad, ZSH
+AU  - Bazzan, ALC
+AU  - Far, B
+TI  - Reinforcement learning in urban network traffic signal control: A systematic literature review
+T2  - EXPERT SYSTEMS WITH APPLICATIONS
+AB  - Improvement of traffic signal control (TSC) efficiency has been found to lead to improved urban transportation and enhanced quality of life. Recently, the use of reinforcement learning (RL) in various areas of TSC has gained significant traction; thus, we conducted a systematic literature review as a systematic, comprehensive, and reproducible review to dissect all the existing research that applied RL in the network-level TSC domain, called as RL in NTSC or RL-NTSC for brevity. The review only targeted the network-level articles that tested the proposed methods in networks with two or more intersections. This review covers 160 peer-reviewed articles from 30 countries published from 1994 to March 2020. The goal of this study is to provide the research community with statistical and conceptual knowledge, summarize existence evidence, characterize RL applications in NTSC domains, explore all applied methods and major first events in the defined scope, and identify areas for further research based on the explored research problems in current research. We analyzed the extracted data from the included articles in the following seven categories: (i) publication and authors' data, (ii) method identification and analysis, (iii) environment attributes and traffic simulation, (iv) application domains of RL-NTSC, (v) major first events of RL-NTSC and authors' key statements, (vi) code availability, and (vii) evaluation. This paper provides a comprehensive view of the past 26 years of research on applying RL to NTSC. It also reveals the role of advancing deep learning methods in the revival of the research area, the rise of using non-commercial microscopic traffic simulators, a lack of interaction between traffic and transportation engineering practitioners and researchers, and a lack of proposal and creation of testbeds which can likely bring different communities together around common goals.
+SN  - 0957-4174
+SN  - 1873-6793
+DA  - AUG 1
+PY  - 2022
+VL  - 199
+C7  - 116830
+DO  - 10.1016/j.eswa.2022.116830
+AN  - WOS:000803500600006
+ER  -
+
