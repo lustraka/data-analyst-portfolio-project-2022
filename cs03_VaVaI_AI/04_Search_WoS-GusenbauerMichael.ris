@@ -21,7 +21,11 @@ KW  - SADNESS
 KW  - ANXIETY
 KW  - MODEL
 AB  - Emotions influence human decisions under risk and uncertainty, even when they are unrelated to the decisions, i.e. incidental to them. Empirical findings are mixed regarding the directions and sizes of the effects of discrete emotions such as fear, anger, or happiness. According to the Appraisal-Tendency Framework (ATF), appraisals of certainty and control determine why same-valence emotions can differentially alter preferences for risky and uncertain options. Building upon this framework of emotion-specific appraisals, we conducted a systematic review and meta-analysis of 28 experimental studies on the effects of discrete incidental emotions on decision-making under risk and uncertainty. We evaluated potential moderators at the task and study levels. We find emotion-specific, moderately heterogeneous effects partially in line with the expectations of the ATF. The framing and financial consequences of choices, the type of choices, and the presence of other participants during the task do not moderate the effect. Our meta-analytic results support the differential influence of discrete, incidental emotions on decision-making under risk and uncertainty depending on appraisals other than valence. We discuss limited sample sizes and heterogeneity as reasons for the absence of significant moderators and encourage experimental investigations of individual differences in the susceptibility to incidental affective influences.
-AD  - Tech Univ Munich, TUM Sch Management, Munich, GermanyAD  - Karlsruhe Inst Technol, Dept Econ & Management, Karlsruhe, GermanyAD  - Univ Innsbruck, Dept Strateg Management Mkt & Tourism, Innsbruck, AustriaAD  - Seeburg Castle Univ, Seekirchen Am Wallersee, AustriaPU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+AD  - Tech Univ Munich, TUM Sch Management, Munich, Germany
+AD  - Karlsruhe Inst Technol, Dept Econ & Management, Karlsruhe, Germany
+AD  - Univ Innsbruck, Dept Strateg Management Mkt & Tourism, Innsbruck, Austria
+AD  - Seeburg Castle Univ, Seekirchen Am Wallersee, Austria
+PU  - ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
 PI  - ABINGDON
 PA  - 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
 SN  - 0269-9931
@@ -30,7 +34,8 @@ J9  - COGNITION EMOTION
 JI  - Cogn. Emot.
 DO  - 10.1080/02699931.2022.2099349
 C6  - JUL 2022
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000826040100001
+WE  - Social Science Citation Index (SSCI)
+AN  - WOS:000826040100001
 N1  - Times Cited in Web of Science Core Collection:  0
 Total Times Cited:  0
 Cited Reference Count:  89
@@ -58,7 +63,8 @@ KW  - RELIABILITY
 KW  - CITATIONS
 KW  - ACCURACY
 AB  - This paper introduces a novel scientometrics method and applies it to estimate the subject coverages of many of the popular English-focused bibliographic databases in academia. The method uses query results as a common denominator to compare a wide variety of search engines, repositories, digital libraries, and other bibliographic databases. The method extends existing sampling-based approaches that analyze smaller sets of database coverages. The findings show the relative and absolute subject coverages of 56 databases-information that has often not been available before. Knowing the databases' absolute subject coverage allows the selection of the most comprehensive databases for searches requiring high recall/sensitivity, particularly relevant in lookup or exploratory searches. Knowing the databases' relative subject coverage allows the selection of specialized databases for searches requiring high precision/specificity, particularly relevant in systematic searches. The findings illustrate not only differences in the disciplinary coverage of Google Scholar, Scopus, or Web of Science, but also of less frequently analyzed databases. For example, researchers might be surprised how Meta (discontinued), Embase, or Europe PMC are found to cover more records than PubMed in Medicine and other health subjects. These findings should encourage researchers to re-evaluate their go-to databases, also against newly introduced options. Searching with more comprehensive databases can improve finding, particularly when selecting the most fitting databases needs particular thought, such as in systematic reviews and meta-analyses. This comparison can also help librarians and other information experts re-evaluate expensive database procurement strategies. Researchers without institutional access learn which open databases are likely most comprehensive in their disciplines.
-AD  - Univ Innsbruck, Innsbruck, AustriaFU  - University of Innsbruck; Medical University of Innsbruck
+AD  - Univ Innsbruck, Innsbruck, Austria
+FU  - University of Innsbruck; Medical University of Innsbruck
 FX  - Open access funding provided by University of Innsbruck and Medical University of Innsbruck.
 PU  - SPRINGER
 PI  - DORDRECHT
@@ -76,7 +82,9 @@ EP  - 2745
 DO  - 10.1007/s11192-022-04289-7
 LK  - https://link.springer.com/article/10.1007/s11192-022-04289-7
 C6  - MAY 2022
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000791652500001
+WE  - Science Citation Index Expanded (SCI-EXPANDED)
+WE  - Social Science Citation Index (SSCI)
+AN  - WOS:000791652500001
 N1  - Times Cited in Web of Science Core Collection:  0
 Total Times Cited:  0
 Cited Reference Count:  117
@@ -96,7 +104,9 @@ KW  - systematic reviews and meta-analyses
 KW  - SYSTEMATIC REVIEWS
 KW  - SCIENCE
 AB  - Academic research has changed in recent years. It has entered the age of abundant scholarly information. New scientometric data shows impressive increases in both the quantity and quality of information researchers produce. Since 2007 about the same number of publications have become accessible on databases as more than the hundred years prior. At the same time, evidence synthesis has become key in making this wealth of information understandable and useful. Researchers need to be increasingly proficient in identifying relevant information - to be able to build on an increasingly comprehensive research base and to adhere to rising standards in evidence synthesis. Both these requirements make a 'true partnership between librarians and researchers' in demand like never before.
-AD  - Univ Innsbruck, Dept Strateg Management Mkt & Tourism, Innsbruck, AustriaAD  - Tech Univ Munich, Chair Strategy & Org, Munich, GermanyPU  - WILEY
+AD  - Univ Innsbruck, Dept Strateg Management Mkt & Tourism, Innsbruck, Austria
+AD  - Tech Univ Munich, Chair Strategy & Org, Munich, Germany
+PU  - WILEY
 PI  - HOBOKEN
 PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
 SN  - 1759-2879
@@ -111,7 +121,8 @@ SP  - 684
 EP  - 691
 DO  - 10.1002/jrsm.1520
 C6  - SEP 2021
-WE  - Science Citation Index Expanded (SCI-EXPANDED)AN  - WOS:000695515900001
+WE  - Science Citation Index Expanded (SCI-EXPANDED)
+AN  - WOS:000695515900001
 N1  - Times Cited in Web of Science Core Collection:  1
 Total Times Cited:  1
 Cited Reference Count:  27
@@ -126,7 +137,12 @@ LA  - English
 KW  - LITERATURE-REVIEWS
 KW  - GOOGLE
 AB  - We researchers have taken searching for information for granted for far too long. The COVID-19 pandemic shows us the boundaries of academic searching capabilities, both in terms of our know-how and of the systems we have. With hundreds of studies published daily on COVID-19, for example, we struggle to find, stay up-to-date, and synthesize information-all hampering evidence-informed decision making. This COVID-19information crisisis indicative of the broader problem of information overloaded academic research. To improve our finding capabilities, we urgently need to improve how we search and the systems we use. We respond to Klopfenstein and Dampier (Res Syn Meth. 2020) who commented on our 2020 paper and proposed a way of improving PubMed's and Google Scholar's search functionalities. Our response puts their commentary in a larger frame and suggests how we can improve academic searching altogether. We urge that researchers need to understand that search skills require dedicated education and training. Better and more efficient searching requires an initial understanding of the different goals that define the way searching needs to be conducted. We explain the main types of searching that we academics routinely engage in; distinguishing lookup, exploratory, and systematic searching. These three types must be conducted using different search methods (heuristics) and using search systems with specific capabilities. To improve academic searching, we introduce the "Search Triangle" model emphasizing the importance of matching goals, heuristics, and systems. Further, we suggest an urgently needed agenda toward search literacy as the norm in academic research and fit-for-purpose search systems.
-AD  - Univ Innsbruck, Dept Strateg Management Mkt & Tourism, Innsbruck, AustriaAD  - Tech Univ Munich, Chair Strategy & Org, Munich, GermanyAD  - Mercator Res Inst Global Commons & Climate Change, Berlin, GermanyAD  - Stockholm Environm Inst, Stockholm, SwedenAD  - Univ Johannesburg, Africa Ctr Evidence, Johannesburg, South AfricaPU  - WILEY
+AD  - Univ Innsbruck, Dept Strateg Management Mkt & Tourism, Innsbruck, Austria
+AD  - Tech Univ Munich, Chair Strategy & Org, Munich, Germany
+AD  - Mercator Res Inst Global Commons & Climate Change, Berlin, Germany
+AD  - Stockholm Environm Inst, Stockholm, Sweden
+AD  - Univ Johannesburg, Africa Ctr Evidence, Johannesburg, South Africa
+PU  - WILEY
 PI  - HOBOKEN
 PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
 SN  - 1759-2879
@@ -141,7 +157,9 @@ SP  - 136
 EP  - 147
 DO  - 10.1002/jrsm.1457
 C6  - OCT 2020
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000576033700001
+WE  - Science Citation Index Expanded (SCI-EXPANDED)
+WE  - Social Science Citation Index (SSCI)
+AN  - WOS:000576033700001
 N1  - Times Cited in Web of Science Core Collection:  11
 Total Times Cited:  11
 Cited Reference Count:  56
@@ -170,7 +188,10 @@ KW  - IMPACT
 KW  - SCOPUS
 KW  - THERAPY
 AB  - Rigorous evidence identification is essential for systematic reviews and meta-analyses (evidence syntheses) because the sample selection of relevant studies determines a review's outcome, validity, and explanatory power. Yet, the search systems allowing access to this evidence provide varying levels of precision, recall, and reproducibility and also demand different levels of effort. To date, it remains unclear which search systems are most appropriate for evidence synthesis and why. Advice on which search engines and bibliographic databases to choose for systematic searches is limited and lacking systematic, empirical performance assessments. This study investigates and compares the systematic search qualities of 28 widely used academic search systems, including Google Scholar, PubMed, and Web of Science. A novel, query-based method tests how well users are able to interact and retrieve records with each system. The study is the first to show the extent to which search systems can effectively and efficiently perform (Boolean) searches with regards to precision, recall, and reproducibility. We found substantial differences in the performance of search systems, meaning that their usability in systematic searches varies. Indeed, only half of the search systems analyzed and only a few Open Access databases can be recommended for evidence syntheses without adding substantial caveats. Particularly, our findings demonstrate why Google Scholar is inappropriate as principal search system. We call for database owners to recognize the requirements of evidence synthesis and for academic journals to reassess quality requirements for systematic reviews. Our findings aim to support researchers in conducting better searches for better evidence synthesis.
-AD  - Johannes Kepler Univ Linz, Inst Innovat Management, Linz, AustriaAD  - Stockholm Environm Inst, Linnegatan 87D, Stockholm, SwedenAD  - Univ Johannesburg, Africa Ctr Evidence, Johannesburg, South AfricaPU  - WILEY
+AD  - Johannes Kepler Univ Linz, Inst Innovat Management, Linz, Austria
+AD  - Stockholm Environm Inst, Linnegatan 87D, Stockholm, Sweden
+AD  - Univ Johannesburg, Africa Ctr Evidence, Johannesburg, South Africa
+PU  - WILEY
 PI  - HOBOKEN
 PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
 SN  - 1759-2879
@@ -185,7 +206,9 @@ SP  - 181
 EP  - 217
 DO  - 10.1002/jrsm.1378
 C6  - JAN 2020
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000509659900001
+WE  - Science Citation Index Expanded (SCI-EXPANDED)
+WE  - Social Science Citation Index (SSCI)
+AN  - WOS:000509659900001
 N1  - Times Cited in Web of Science Core Collection:  221
 Total Times Cited:  223
 Cited Reference Count:  95
@@ -212,7 +235,8 @@ KW  - SCOPUS
 KW  - IMPACT
 KW  - SUITABILITY
 AB  - Information on the size of academic search engines and bibliographic databases (ASEBDs) is often outdated or entirely unavailable. Hence, it is difficult to assess the scope of specific databases, such as Google Scholar. While scientometric studies have estimated ASEBD sizes before, the methods employed were able to compare only a few databases. Consequently, there is no up-to-date comparative information on the sizes of popular ASEBDs. This study aims to fill this blind spot by providing a comparative picture of 12 of the most commonly used ASEBDs. In doing so, we build on and refine previous scientometric research by counting query hit data as an indicator of the number of accessible records. Iterative query optimization makes it possible to identify a maximum number of hits for most ASEBDs. The results were validated in terms of their capacity to assess database size by comparing them with official information on database sizes or previous scientometric studies. The queries used here are replicable, so size information can be updated quickly. The findings provide first-time size estimates of ProQuest and EbscoHost and indicate that Google Scholar's size might have been underestimated so far by more than 50%. By our estimation Google Scholar, with 389 million records, is currently the most comprehensive academic search engine.
-AD  - Johannes Kepler Univ Linz, Inst Innovat Management, Altenberger Str 69, A-4040 Linz, AustriaFU  - Johannes Kepler University Linz
+AD  - Johannes Kepler Univ Linz, Inst Innovat Management, Altenberger Str 69, A-4040 Linz, Austria
+FU  - Johannes Kepler University Linz
 FX  - Open access funding provided by Johannes Kepler University Linz. I would like to thank the two anonymous reviewers for their valuable comments.
 PU  - SPRINGER
 PI  - DORDRECHT
@@ -228,7 +252,9 @@ IS  - 1
 SP  - 177
 EP  - 214
 DO  - 10.1007/s11192-018-2958-5
-WE  - Science Citation Index Expanded (SCI-EXPANDED)WE  - Social Science Citation Index (SSCI)AN  - WOS:000456290600009
+WE  - Science Citation Index Expanded (SCI-EXPANDED)
+WE  - Social Science Citation Index (SSCI)
+AN  - WOS:000456290600009
 N1  - Times Cited in Web of Science Core Collection:  176
 Total Times Cited:  179
 Cited Reference Count:  56
@@ -259,7 +285,12 @@ KW  - BUSINESS
 KW  - INTERNATIONALIZATION
 KW  - COEVOLUTION
 AB  - Innovation offshoring (IO) has become a widespread management practice. Yet, evidence on the performance implications is inconsistent, and scattered across disciplines and contexts. We argue that the benefits firms can derive from IO depend on the institutional environment at home. Drawing on recent work on institutional theory in international business, we explore institutions that facilitate reverse knowledge transfer and/or institutional arbitrage with respect to innovation-related activities. The results of our meta-analysis that synthesizes evidence from 48 samples show that IO is related positively to innovation performance. As predicted, this relationship is moderated by differences in the institutional environments across countries. Specifically, when national innovation systems are weak at home, IO appears to enable institutional arbitrage strategy whereas Confucian cultures enable more effective reverse knowledge transfer. However, contrary to our expectations, the beneficial effects of IO appear to have diminished over time.
-AD  - Wilfrid Laurier Univ, Lazaridis Sch Business & Econ, Waterloo, ON, CanadaAD  - Johannes Kepler Univ Linz, Inst Innovat Management, Linz, AustriaAD  - Univ St Gallen, Swiss Res Inst Small Business & Entrepreneurship, St Gallen, SwitzerlandAD  - Univ Twente, Netherlands Inst Knowledge Intens Entrepreneurshi, Enschede, NetherlandsAD  - Western Univ, Ivey Business Sch, London, ON, CanadaPU  - WILEY
+AD  - Wilfrid Laurier Univ, Lazaridis Sch Business & Econ, Waterloo, ON, Canada
+AD  - Johannes Kepler Univ Linz, Inst Innovat Management, Linz, Austria
+AD  - Univ St Gallen, Swiss Res Inst Small Business & Entrepreneurship, St Gallen, Switzerland
+AD  - Univ Twente, Netherlands Inst Knowledge Intens Entrepreneurshi, Enschede, Netherlands
+AD  - Western Univ, Ivey Business Sch, London, ON, Canada
+PU  - WILEY
 PI  - HOBOKEN
 PA  - 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
 SN  - 0022-2380
@@ -273,7 +304,8 @@ IS  - 1
 SP  - 203
 EP  - 233
 DO  - 10.1111/joms.12407
-WE  - Social Science Citation Index (SSCI)AN  - WOS:000453015600007
+WE  - Social Science Citation Index (SSCI)
+AN  - WOS:000453015600007
 N1  - Times Cited in Web of Science Core Collection:  39
 Total Times Cited:  39
 Cited Reference Count:  109
@@ -302,7 +334,10 @@ KW  - FIRMS
 KW  - MODEL
 KW  - WORK
 AB  - Research on innovation offshoring (IO) has increased substantially over the last decade. IO is (still) widely regarded as the domain of multinational enterprises. Even though more and more researchers are claiming that small and medium-sized enterprises (SMEs) also practise IO, so far, the particularities of SMEs have been widely neglected. This is unfortunate, since a small business is not a little big business and thus most of the IO research lacks generalizability to SMEs. This study uncovers the gap and extends the empirical evidence available from scientific publications, obtaining a more current and accurate picture of IO research on SMEs. We directly approached academic experts through an online survey to collect information regarding the specific characteristics of SMEs relevant for IO, managerial needs arising from those characteristics and theoretical approaches appropriate to framing SME-specific IO research. This study provides a toolkit and roadmap for subsequent IO research aimed at SMEs.
-AD  - Johannes Kepler Univ Linz, Inst Innovat Management, Altenberger Str 69, A-4040 Linz, AustriaAD  - Univ Manchester, Sch Business, Manchester Inst Innovat Res, Manchester M15 6PB, Lancs, EnglandAD  - Anglia Ruskin Univ, Inst Int Management Practice, Cambridge CB1 1PT, EnglandPU  - SPRINGER-VERLAG BERLIN
+AD  - Johannes Kepler Univ Linz, Inst Innovat Management, Altenberger Str 69, A-4040 Linz, Austria
+AD  - Univ Manchester, Sch Business, Manchester Inst Innovat Res, Manchester M15 6PB, Lancs, England
+AD  - Anglia Ruskin Univ, Inst Int Management Practice, Cambridge CB1 1PT, England
+PU  - SPRINGER-VERLAG BERLIN
 PI  - BERLIN
 PA  - HEIDELBERGER PLATZ 3, D-14197 BERLIN, GERMANY
 SN  - 1865-1348
@@ -314,7 +349,8 @@ VL  - 236
 SP  - 156
 EP  - 170
 DO  - 10.1007/978-3-319-26739-5_9
-WE  - Conference Proceedings Citation Index - Science (CPCI-S)AN  - WOS:000369171400009
+WE  - Conference Proceedings Citation Index - Science (CPCI-S)
+AN  - WOS:000369171400009
 N1  - Times Cited in Web of Science Core Collection:  2
 Total Times Cited:  2
 Cited Reference Count:  23
