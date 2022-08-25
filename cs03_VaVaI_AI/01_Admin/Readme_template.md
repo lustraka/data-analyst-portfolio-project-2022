@@ -12,7 +12,20 @@
 - **08 Thesis** - Neat results.
 - **09 Publications** - Draft, submitted, published papers|articles.
 
-# Thesis Structure
+# Write a Review Protocol
+> Elaborate a Roadmap to the Systematic Review
+- Step 1: Planning your review
+- Step 2: Performing scoping searches, identifying the review question and writing your protocol
+- Step 3: Literature searching
+- Step 4: Screening titles and abstracts
+- Step 5: Obtaining papers
+- Step 6: Selecting full-text papers
+- Step 7: Data extraction
+- Step 8: Quality assessment
+- Step 9: Analysis and synthesis
+- Step 10: Writing up, editing and disseminating
+
+# Fill the Thesis Structure
 - Title page and preface
 - Glossary and definitions
 - Table of contents
