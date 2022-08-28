@@ -36,7 +36,7 @@ id,authors,year,title,abstract,kws,url,doi,note
 ```
 **authors.csv**
 ```
-name,year,group
+name,year,group,note
 ```
 **concepts.csv**
 ```
