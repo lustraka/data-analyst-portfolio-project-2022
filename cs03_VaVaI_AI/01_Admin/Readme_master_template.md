@@ -27,6 +27,7 @@
 
 # Organize Data
 ![Class Model](https://www.plantuml.com/plantuml/png/RP3DJcin38JtvocolnTrpwg5Bgc4W7tbammq8Z-HxGWgnBlZq4ezKid27jkVPgIiHOcrvpGTOe13Rdfq6Na6o-GJYRXd4Fk3-vh-kHZShNkojzjjjpUbs0gVZQq5Kff9O98XFQcOAbKnVKzddqTgu8lD0udk2sNyTwEwrH74AxjIrqDbCJKsrZHgmZZCeanUJRv_Z7ldDA9hjDhwl0zGYkawUJCSJz4ZwkBynhMtA_o-5e-cIpxWDPQeiHORf7Rs2_w5OqlunP6miSP8f-7k3tmRnTjASFuBq19QeuIUqmy0)
+
 **searches.csv**
 ```
 id,"expr",database,results,"note"
@@ -46,6 +47,9 @@ id,"expr",database,results,"note"
 **triples.csv**
 ```
 "eleA",rel,"eleB","source"
+```
+```
+search,retrieves,"paper",searches
 ```
 **discourse.csv**
 ```
