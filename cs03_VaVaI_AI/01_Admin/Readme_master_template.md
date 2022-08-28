@@ -32,7 +32,7 @@ id,expr,database,results,note
 ```
 **papers.csv**
 ```
-id,authors,year,title,abstract,kws,url,doi,note
+id,authors,year,title,abstract,kws,url,doi,pub_details,note
 ```
 **authors.csv**
 ```
