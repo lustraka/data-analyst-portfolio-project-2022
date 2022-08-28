@@ -25,6 +25,33 @@
 - Step 9: Analysis and synthesis
 - Step 10: Writing up, editing and disseminating
 
+# Organize Data
+**searches.csv**
+```
+id,expr,database,results,note
+```
+**papers.csv**
+```
+id,authors,year,title,abstract,kws,url,doi,note
+```
+**authors.csv**
+```
+name,year,group
+```
+**concepts.csv**
+```
+name,definition,source
+```
+**triples.csv**
+```
+eleA,rel,eleB,source
+```
+**discourse.csv**
+```
+idea,source
+```
+
+
 # Fill the Thesis Structure
 - Title page and preface
 - Glossary and definitions
