@@ -1,7 +1,7 @@
 # Train SLR Model
 > I am going to master the craft of writing "Marketingové studie" for R&D proposals, mainly in AI. A crutial step of proposal drafting is providing information about the current state of the domain. An ideal input for this step is a systematic literature review (SLR). Therefore, the goal of this case study is to set up a model for conducting SLRs based on 8 selected studies. The next step will be the validation of the model using another 5 studies as a benchmark.
 
-Check the [Readme_template](./01_Admin/Readme_template.md).
+Check the [Readme_template](./01_Admin/Readme_master_template.md).
 
 # Keep Files in Order
 - **01 Admin** - Journal (timelines), correspondence, thesis-specific instructions or regulations.
