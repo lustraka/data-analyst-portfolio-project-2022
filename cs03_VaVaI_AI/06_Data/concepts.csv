@@ -1,1 +1,4 @@
-name,definition,source
+name,definition,source,note
+"systematic literature review (SLR)","A review of an existing body of literature that follows a transparent and reproducible methodology in searching, assessing its quality and synthesising it, with a high level of objectivity.","Kraus, Sascha et al. (2020)|p.1026","note"
+"SL-Reviewer","The system (model) for producing systematic literature reviews","This study","note"
+"SL-Reviewer's States","Ask questions (ASQ)|Collect data (COD)|Explore data (EXD)|Synthesise knowledge (SYK)|Write the review (WRV)","This study","note"
