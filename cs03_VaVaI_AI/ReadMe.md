@@ -1,36 +1,12 @@
-# Train SLR Model
-> I am going to master the craft of writing "Marketingové studie" for R&D proposals, mainly in AI. A crutial step of proposal drafting is providing information about the current state of the domain. An ideal input for this step is a systematic literature review (SLR). Therefore, the goal of this case study is to set up a model for conducting SLRs based on 8 selected studies. The next step will be the validation of the model using another 5 studies as a benchmark.
+# Train SL-Reviewer Model
+**Purpose**. A crutial step of drafting R&d proposals is providing information about the current state of the domain. An ideal input for this step is a systematic literature review (SLR). Therefore, the goal of this case study is to set up a model for conducting SLRs based on 8 selected studies. The next step will be the validation of the model using another 5 studies as a benchmark.
 
-Check the [Readme_template](./01_Admin/Readme_master_template.md).
+> “An **SLR** is a review of an existing body of literature that follows a transparent and reproducible methodology in searching, assessing its quality and synthesizing it, with a high level of objectivity.”
 
-# Keep Files in Order
-- **01 Admin** - Journal (timelines), correspondence, thesis-specific instructions or regulations.
-- **02 Protocol** - Protocol and scoping searches
-- **03 Information** - Findings from scoping searches, articles of interest for background and discussion, useful reviews.
-- **04 Search results** - Reference library and search strategies (in CADIMA).
-- **05 Screeening and eligibility** - In CADIMA.
-- **06 Data** - PDFs, data extraction tables, quality assessment information
-- **07 Analysis** - Raw results.
-- **08 Thesis** - Neat results.
-- **09 Publications** - Draft, submitted, published papers|articles.
+**Double S Approach**. Beside the systematic approach to searching papers and assessing their quality, there is an opportunity to apply the methodology of requirments specification to the subject matter of the review study. Identify requirments and evaluate thier fullfilment in relevant resources. Identify the gaps and specify requirments for the next developmental stage of the given system or domain.
 
-# Write a Review Protocol
+**EARS CheatSheet**
+![EARS CheatSheet](https://www.plantuml.com/plantuml/png/RP11ImCn48Nl-HLp3chkMv5UAXP4eLeyJtUdkmFPsJKpgVZlJMe55tfzyxxtahTMmsHvZAxPqMVcH2E9wShf7DbSipzmKMtAVn9WZookUJCqkkqIdqXMhlbusZvlu3u45a3GcLe-SWjQNI4yG5ZIcqBPVthpKc5BtFUKhW2li_4a6E58Q3dHBxGxLruaO0MMDkQEkYi9U_b2CUhWG0EUUCgfP6mVbxKty5wV4Xn91vS9lBU1lAz6_LQZ4GJ7ywUyrm5ZNDmIwJo9rljTSEkIKyRz0G00)
 
-# Fill the Thesis Structure
-- Title page and preface
-- Glossary and definitions
-- Table of contents
-- Abstract or summary
-- Background
-- Research question
-- Methods
-  - Search strategy
-  - Inclusion and exclusion criteria
-  - Screening and selection
-  - Data extraction and quality assessment
-  - Methods of synthesis/analysis
-- Results
-- Discussion (including principal findings, strengths and limitations, and relevant factors)
-- Conclusion
-- References
-- Appendices
+Check the [Starter_template](./01_Admin/Starter_template.md).
+
