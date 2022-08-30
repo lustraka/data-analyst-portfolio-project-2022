@@ -1,5 +1,3 @@
-# Title
-> Subtitle
 
 # Keep Files in Order
 - **01 Admin** - Journal (timelines), correspondence, thesis-specific instructions or regulations.
