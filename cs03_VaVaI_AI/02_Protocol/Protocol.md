@@ -1,10 +1,15 @@
 # Protocol
 ## (WP-PMP) Foster Repository and ConOps
 > ZTD
+- [ ] Consolidate journal entries
+
 ## (WP-REQ) Wrangle SLR Requirements
 > Define & Code & Test
 - Choose resources
-  - Oosterwyk, Grant et al (2019)
+  - Oosterwyk, Grant et al (2019) - master input
+  - BolandA-2017 - to complete from another point of view
+    - [ ] First, add a record to papers.csv (fill chapters instead of an abstract or to the note)
+  - CADIMA - just check the table comparing the stages
  ```
  "S-|","WHILE the SL-Reviewer shall ","Oosterwyk, Grant et al (2019)","note"
  ```
