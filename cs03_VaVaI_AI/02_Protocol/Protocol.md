@@ -1,4 +1,14 @@
 # Protocol
+
+Project Description|Indicators|Source of Verification| Assumptions
+-|-|-|-
+Goal|(impact)|-|-
+Objective|(outcome)|-|-
+Deliverable 1|(output)|-|-
+Deliverable 2|(output)|-|-
+Activities|Effort|Budget|-
+
+
 ## (WP-PMP) Foster Repository and ConOps
 > ZTD
 - [ ] Consolidate journal entries
