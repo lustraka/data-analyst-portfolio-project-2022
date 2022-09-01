@@ -13,9 +13,9 @@ OVI = Objectively Verifiable Indicators (Indicator = Concept + **Q**uantity (Tar
 
 ## Foster Repository and ConOps
 
-WP PMP|Indicators|SoV| Assumptions
+WP PMP|OVI|SoV| Assumptions
 -|-|-|-
-**Goal**<br>SLR production system|SLR skills|Verification studies|
+**Goal**<br>Healthu SLR production system|Systematic literature review and sensmaking skills|Verification studies|
 **Objective**<br>Go with the flow of meaning|Study dynamics|Journal|OODA, MRVIA
 **Deliverable**<br>Study content|CCCC|GitHub Repository|ZTD, boundaries
 **Activities**<br>|**Effort**|**Budget**|Health, energy, time
