@@ -1,6 +1,6 @@
 # Protocol
 
-WP XYZ|Indicators|Source of Verification| Assumptions
+WP XYZ|Indicators|SoV| Assumptions
 -|-|-|-
 **Goal**|(impact)|-|-
 **Objective**|(outcome)|-|-
@@ -8,7 +8,7 @@ WP XYZ|Indicators|Source of Verification| Assumptions
 Deliverable 2|(output)|-|-
 **Activities**|**Effort**|**Budget**|-
 
-Indicator = Concept + Quantity (Target) + Quality (Standard) + Time
+Indicator = Concept + Quantity (Target) + Quality (Standard) + Time | SoV = Source of Verification
 
 
 ## (WP-PMP) Foster Repository and ConOps
