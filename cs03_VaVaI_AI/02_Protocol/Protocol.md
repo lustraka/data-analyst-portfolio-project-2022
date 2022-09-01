@@ -1,19 +1,27 @@
 # Protocol
 
-WP XYZ|Indicators|SoV| Assumptions
+WP XYZ|OVI|SoV| Assumptions
 -|-|-|-
-**Goal**|(impact)|-|-
+**Goal**|(impact)|-|
 **Objective**|(outcome)|-|-
 **Deliverable** 1|(output)|-|-
 Deliverable 2|(output)|-|-
 **Activities**|**Effort**|**Budget**|-
 
-Indicator = Concept + Quantity (Target) + Quality (Standard) + Time | SoV = Source of Verification
+OVI = Objectively Verifiable Indicators (Indicator = Concept + **Q**uantity (Target) + **Q**uality (Standard) + **T**ime > QQT) | SoV = Source of Verification
 
 
-## (WP-PMP) Foster Repository and ConOps
-> ZTD
+## Foster Repository and ConOps
+
+WP PMP|Indicators|SoV| Assumptions
+-|-|-|-
+**Goal**<br>SLR production system|SLR skills|Verification studies|
+**Objective**<br>Go with the flow of meaning|Study dynamics|Journal|OODA, MRVIA
+**Deliverable**<br>Study content|CCCC|GitHub Repository|ZTD, boundaries
+**Activities**<br>|**Effort**|**Budget**|Health, energy, time
+
 - [ ] Consolidate journal entries
+- [ ] Passport key resources (papers, books)
 
 ## (WP-REQ) Wrangle SLR Requirements
 > Define & Code & Test
