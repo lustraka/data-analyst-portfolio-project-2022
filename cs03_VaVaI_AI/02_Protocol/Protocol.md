@@ -1,12 +1,14 @@
 # Protocol
 
-Project Description|Indicators|Source of Verification| Assumptions
+WP XYZ|Indicators|Source of Verification| Assumptions
 -|-|-|-
-Goal|(impact)|-|-
-Objective|(outcome)|-|-
-Deliverable 1|(output)|-|-
+**Goal**|(impact)|-|-
+**Objective**|(outcome)|-|-
+**Deliverable** 1|(output)|-|-
 Deliverable 2|(output)|-|-
-Activities|Effort|Budget|-
+**Activities**|**Effort**|**Budget**|-
+
+Indicator = Concept + Quantity (Target) + Quality (Standard) + Time
 
 
 ## (WP-PMP) Foster Repository and ConOps
