@@ -49,7 +49,7 @@ def export_papers_to_md_table(df):
     """Prints records of papers as markdown tables."""
 
     for idx, row in df.iterrows():
-        print(f"\n{str(idx+1)}")
+        print(f"\n{str(idx+1)}\n")
         print("aspect|value\n-|-")
         print(f"id|**{row['id']}** [{id_to_filename(row['id'])}]")
         print(f"authors|{row['authors'].replace('|',';')}")
