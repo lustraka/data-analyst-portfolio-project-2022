@@ -16,6 +16,8 @@ Paper|Question(s)
 Sylvester, Allan et al. (2013)|What are the goals and viewpoints for reviewing and presenting previous literature, especially in areas where the research literature is diffuse, contradictory and heterogenous (e.g., in service quality research)?
 Wolfswinkel, Joost et al. (2013)|How to rigorously review literature using grounded theory?
 Boell, Sebastian & Cecez-Kecmanovic, Dubravka (2014)|How to conduct literature reviews and literature searches using a heremeneutic approach?
+Bandara, Wasana et al. (2015)|How to organize and prepare papers for qualitative data-analysis?<br>How to code and analyze papers and write up and present results?
+Okoli, Chitu (2015)| How to conduct a standalone systematic literature review?
 
 # Oosterwyk, Grant et al. (2019) cites X:
 ## Sylvester et al. (2013)
@@ -61,31 +63,31 @@ pub_details|Communications of the Association for Information Systems, 34, 257-2
 note|Hermeneutic approach
 
 ## Bandara et al. (2015)
-> Bandara, W., Furtmueller, E., Gorbacheva, E., Miskon, S., & Beekhuyzen, J. (2015). Achieving rigor in literature reviews: Insights from qualitative data analysis and tool-support.Communicationsof the Association for Information Systems,37,154-204.
+> Bandara, W., Furtmueller, E., Gorbacheva, E., Miskon, S., & Beekhuyzen, J. (2015). Achieving rigor in literature reviews: Insights from qualitative data analysis and tool-support. Communications of the Association for Information Systems, 37, 154-204.
 
 (4) aspect|value
 -|-
-id| []
-authors|
-title|[]()
-abstract|
-kws|
-doi|
-pub_details|
+id|Bandara, Wasana et al. (2015) [[Bandara_Wasana_et_al_2015](https://1drv.ms/b/s!AikiH0T16G7Y9RGSoGo78q7AKqzL?e=kUlUKd)]
+authors|Bandara, Wasana * Furtmueller, Elfi * Gorbacheva, Elena * Miskon, Suraya * Beekhuyzen, Jenine
+title|[Achieving rigor in literature reviews: Insights from qualitative data analysis and tool-support.](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=3873&context=cais)
+abstract|It is important for researchers to efficiently conduct quality literature studies. Hence, a structured and efficient approach is essential. We overview work that has demonstrated the potential for using software tools in literature reviews. We highlight the untapped opportunities in using an end-to-end tool-supported literature review methodology. Qualitative data-analysis tools such as NVivo are immensely useful as a means to analyze, synthesize, and write up literature reviews. In this paper, we describe how to organize and prepare papers for analysis and provide detailed guidelines for actually coding and analyzing papers, including detailed illustrative strategies to effectively write up and present the results. We present a detailed case study as an illustrative example of the proposed approach put into practice. We discuss the means, value, and also pitfalls of applying tool-supported literature review approaches. We contribute to the literature by proposing a four-phased tool-supported methodology that serves as best practice in conducting literature reviews in IS. By viewing the literature review process as a qualitative study and treating the literature as the “data set”, we address the complex puzzle of how best to extract relevant literature and justify its scope, relevance, and quality. We provide systematic guidelines for novice IS researchers seeking to conduct a robust literature review.
+kws|qualitative literature reviewing methods * rigorous review * IS literature * research integration * NVivo * coding scheme
+doi|10.17705/1CAIS.03708
+pub_details|Communications of the Association for Information Systems, 37, 154-204.
 note|Qualitative rigour through tool support
 
 ## Okoli (2015)
-> Okoli,  C. (2015).  A  guide  to  conducting  a  standalone  systematic  literature  review.Communicationsof the Association for Information Systems, 37(43), 879-910.
+> Okoli, C. (2015). A guide to conducting a standalone systematic literature review. Communications of the Association for Information Systems, 37(43), 879-910.
 
 (5) aspect|value
 -|-
 id|Okoli, Chitu (2015) [[Okoli_Chitu_2015](https://1drv.ms/b/s!AikiH0T16G7Y9QxzPEWuy0wY7bvi?e=uVGwck)]
-authors|
-title|[]()
-abstract|
-kws|
-doi|
-pub_details|
+authors|Okoli, Chitu
+title|[A guide to conducting a standalone systematic literature review.](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=3908&context=cais)
+abstract|Many scholars are not well trained in conducting a standalone literature review, a scholarly paper that in its entirety summarizes and synthesizes knowledge from a prior body of research. Numerous guides that exist for information systems (IS) research mainly concentrate on only certain parts of the process; few span the entire process. This paper introduces the rigorous, standardized methodology for the systematic literature review (also called systematic review) to IS scholars. This comprehensive guide extends the base methodology from the health sciences and other fields with numerous adaptations to meet the needs of methodologically diverse fields such as IS research, especially those that involve including and synthesizing both quantitative and qualitative studies. Moreover, this guide provides many examples from IS research and provides references to guides with further helpful details for conducting a rigorous and valuable literature review. Although tailored to IS research, it is sufficiently broad to be applicable and valuable to scholars from any social science field.
+kws|literature reviews * systematic reviews * ystematic literature reviews * information systems research
+doi|10.17705/1CAIS.03743
+pub_details|Communications of the Association for Information Systems, 37(43), 879-910.
 note|Overarching systematic guidelines
 
 ## Schryen (2015)
