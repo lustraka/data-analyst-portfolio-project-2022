@@ -14,7 +14,7 @@ note|note
 Paper|Question(s)
 -|-
 Sylvester, Allan et al. (2013)|What are the goals and viewpoints for reviewing and presenting previous literature, especially in areas where the research literature is diffuse, contradictory and heterogenous (e.g., in service quality research)?
-
+Wolfswinkel, Joost et al. (2013)|How to rigorously review literature using grounded theory?
 
 # Oosterwyk, Grant et al. (2019) cites X:
 ## Sylvester et al. (2013)
@@ -31,18 +31,18 @@ doi|10.1080/0144929X.2011.624633
 pub_details|Behaviour & Information Technology,32(12), 1199-1215.
 note|Historical discourse and SSM as method
 
-## Wolfswinkel et al.(2013)
-> Wolfswinkel,  J.  F.,  Furtmueller,  E.,  &  Wilderom,  C.  P.  (2013).  Using  grounded  theory  as  a method for rigorously reviewing literature.European Journal of Information Systems,22(1), 45-55.
+## Wolfswinkel, Joost et al. (2013)
+> Wolfswinkel, J.F., Furtmueller, E., & Wilderom, C.P. (2013). Using grounded theory as a method for rigorously reviewing literature. European Journal of Information Systems,22(1), 45-55.
 
 (2) aspect|value
 -|-
-id|**** []
-authors|
-title|[]()
-abstract|
+id|Wolfswinkel, Joost et al. (2013) [no full text]
+authors|Wolfswinkel, Joost .F. * Furtmueller, Elfi * Wilderom, Celeste P.M.
+title|Using grounded theory as a method for rigorously reviewing literature.[]()
+abstract|This paper offers guidance to conducting a rigorous literature review. We present this in the form of a five-stage process in which we use Grounded Theory as a method. We first probe the guidelines explicated by Webster and Watson, and then we show the added value of Grounded Theory for rigorously analyzing a carefully chosen set of studies; it assures solidly legitimized, in-depth analyses of empirical facts and related insights. This includes, the emergence of new themes, issues and opportunities; interrelationships and dependencies in or beyond a particular area; as well as inconsistencies. If carried out meticulously, reviewing a well-carved out piece of literature by following this guide is likely to lead to more integrated and fruitful theory emergence, something that would enrich many fields in the social sciences.
 kws|
 doi|
-pub_details|
+pub_details|European Journal of Information Systems,22(1), 45-55.
 note|
 
 ## Boell & Cecez-Kecmanovic (2014)
