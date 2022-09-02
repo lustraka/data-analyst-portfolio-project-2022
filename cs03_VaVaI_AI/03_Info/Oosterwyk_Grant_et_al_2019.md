@@ -15,6 +15,7 @@ Paper|Question(s)
 -|-
 Sylvester, Allan et al. (2013)|What are the goals and viewpoints for reviewing and presenting previous literature, especially in areas where the research literature is diffuse, contradictory and heterogenous (e.g., in service quality research)?
 Wolfswinkel, Joost et al. (2013)|How to rigorously review literature using grounded theory?
+Boell, Sebastian & Cecez-Kecmanovic, Dubravka (2014)|How to conduct literature reviews and literature searches using a heremeneutic approach?
 
 # Oosterwyk, Grant et al. (2019) cites X:
 ## Sylvester et al. (2013)
@@ -38,122 +39,122 @@ note|Historical discourse and SSM as method
 -|-
 id|Wolfswinkel, Joost et al. (2013) [no full text]
 authors|Wolfswinkel, Joost .F. * Furtmueller, Elfi * Wilderom, Celeste P.M.
-title|Using grounded theory as a method for rigorously reviewing literature.[]()
+title|[Using grounded theory as a method for rigorously reviewing literature.](https://link.springer.com/article/10.1057/ejis.2011.51)
 abstract|This paper offers guidance to conducting a rigorous literature review. We present this in the form of a five-stage process in which we use Grounded Theory as a method. We first probe the guidelines explicated by Webster and Watson, and then we show the added value of Grounded Theory for rigorously analyzing a carefully chosen set of studies; it assures solidly legitimized, in-depth analyses of empirical facts and related insights. This includes, the emergence of new themes, issues and opportunities; interrelationships and dependencies in or beyond a particular area; as well as inconsistencies. If carried out meticulously, reviewing a well-carved out piece of literature by following this guide is likely to lead to more integrated and fruitful theory emergence, something that would enrich many fields in the social sciences.
 kws|
 doi|
 pub_details|European Journal of Information Systems,22(1), 45-55.
-note|
+note|Grounded theory as method
 
 ## Boell & Cecez-Kecmanovic (2014)
-> Boell, S. K., & Cecez-Kecmanovic, D. (2014). A hermeneutic approach for conducting literature reviews and literature searches.Communications of the Association for Information Systems,34,257-286.
+> Boell, S. K., & Cecez-Kecmanovic, D. (2014). A hermeneutic approach for conducting literature reviews and literature searches. Communications of the Association for Information Systems, 34, 257-286.
 
 (3) aspect|value
 -|-
-id|**** []
-authors|
-title|[]()
-abstract|
-kws|
-doi|
-pub_details|
-note|
+id|Boell, Sebastian & Cecez-Kecmanovic, Dubravka (2014) [[Boell_Sebastian_Cecez-Kecmanovic_Dubravka_2014](https://1drv.ms/b/s!AikiH0T16G7Y9RAJc_sY7B6XIUKs?e=vs6enu)]
+authors|Boell, Sebastian K. * Cecez-Kecmanovic, Dubravka
+title|[A hermeneutic approach for conducting literature reviews and literature searches.](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=3733&context=cais)
+abstract|The quality and success of scholarly work depends in large measure on the quality of the literature review process. This paper advances conceptual understanding of the literature review process and extends earlier guidelines on literature reviews. It proposes a hermeneutic framework that integrates the analysis and interpretation of literature and the search for literature. This hermeneutic framework describes the literature review process as fundamentally a process of developing understanding that is iterative in nature. Using the hermeneutic circle it describes the literature review process as being constituted by literature searching, classifying and mapping, critical assessment, and argument development. The hermeneutic approach emphasizes continuous engagement with and gradual development of a body of literature during which increased understanding and insights are developed. The paper contributes to better understanding of the literature review process and provides guidelines to assist researchers in conducting high quality reviews. Approaches for efficient searching are included in an Appendix.
+kws|literature review * hermeneutics * research methods * conducting literature reviews * literature searches * interpreting literature * database searches
+doi|10.17705/1CAIS.03412
+pub_details|Communications of the Association for Information Systems, 34, 257-286.
+note|Hermeneutic approach
 
 ## Bandara et al. (2015)
 > Bandara, W., Furtmueller, E., Gorbacheva, E., Miskon, S., & Beekhuyzen, J. (2015). Achieving rigor in literature reviews: Insights from qualitative data analysis and tool-support.Communicationsof the Association for Information Systems,37,154-204.
 
 (4) aspect|value
 -|-
-id|**** []
+id| []
 authors|
 title|[]()
 abstract|
 kws|
 doi|
 pub_details|
-note|
+note|Qualitative rigour through tool support
 
 ## Okoli (2015)
 > Okoli,  C. (2015).  A  guide  to  conducting  a  standalone  systematic  literature  review.Communicationsof the Association for Information Systems, 37(43), 879-910.
 
 (5) aspect|value
 -|-
-id|**Okoli, Chitu (2015)** [[Okoli_Chitu_2015](https://1drv.ms/b/s!AikiH0T16G7Y9QxzPEWuy0wY7bvi?e=uVGwck)]
+id|Okoli, Chitu (2015) [[Okoli_Chitu_2015](https://1drv.ms/b/s!AikiH0T16G7Y9QxzPEWuy0wY7bvi?e=uVGwck)]
 authors|
 title|[]()
 abstract|
 kws|
 doi|
 pub_details|
-note|
+note|Overarching systematic guidelines
 
 ## Schryen (2015)
 > Schryen,  G.  (2015).  Writing  qualitative  IS  literature reviews–Guidelines  for  synthesis, interpretation  and  guidance  of  research.Communications  of  the Association  for  Information Systems,37(12), 286-325.
 
 (6) aspect|value
 -|-
-id|**** []
+id| []
 authors|
 title|[]()
 abstract|
 kws|
 doi|
 pub_details|
-note|
+note|Overarching qualitative guidelines
 
 ## vom Brocke et al.(2015)
 > Vom  Brocke,  J.,  Simons,  A.,  Riemer,  K.,  Niehaves,  B.,  Plattfaut,  R.,  &  Cleven,  A.  (2015). Standing  on  the  shoulders  of  giants:  Challenges  and  recommendations  of  literature  search  in information  systems  research.Communications  of  the  Association  for  Information  Systems,37(1), 205-224
 
 (7) aspect|value
 -|-
-id|**** []
+id| []
 authors|
 title|[]()
 abstract|
 kws|
 doi|
 pub_details|
-note|
+note|Literature search
 
 ## Templier & Paré(2015)
 > Templier,  M.,  &  Paré,  G.  (2015).  A  framework  for  guiding  and  evaluating  literature reviews.Communications of the Association for Information Systems,37(1),112-137
 
 (8) aspect|value
 -|-
-id|**** []
+id| []
 authors|
 title|[]()
 abstract|
 kws|
 doi|
 pub_details|
-note|
+note|Overarching guidelines
 
 ## Wall et al.(2015)
 > Wall, J., Stahl, B. C., & Salam, A. F. (2015). Critical discourse analysis as a review methodology: An empirical example. Communications of the Association for Information Systems,37(11), 257-285
 
 (9) aspect|value
 -|-
-id|**** []
+id| []
 authors|
 title|[]()
 abstract|
 kws|
 doi|
 pub_details|
-note|
+note|Critical discourse analysis as method
 
 ## Paré et al. (2016)
 > Paré,  G.,  Trudel,  M.  C.,  Jaana,  M.,  &  Kitsiou,  S.  (2015).  Synthesizing  information  systems knowledge: A typology of literature reviews.Information & Management,52(2), 183-199.
 
 (10) aspect|value
 -|-
-id|**** []
+id| []
 authors|
 title|[]()
 abstract|
 kws|
 doi|
 pub_details|
-note|
+note|Systematicity and transparency as twin concepts
 
