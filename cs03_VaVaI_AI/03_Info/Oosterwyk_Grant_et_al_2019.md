@@ -20,6 +20,12 @@ Bandara, Wasana et al. (2015)|How to organize and prepare papers for qualitative
 Okoli, Chitu (2015)|How to conduct a standalone systematic literature review?
 Schryen, Guido (2015)|How to methodologically conduct qualitative literature review?
 vom Brocke, Jan et al. (2015)|How to deal with challenges of literature searches in the increasingly dynamic context of information systems?
+Templier, Mathieu & Paré, Guy (2015)|How to conduct and evaluate the rigor of standalone systematic literature reviews in information systems research?
+Wall, Jeffrey et al. (2015)|How to systematically conduct critical reviews of information systems literature based on Habermasian strains of critical discourse analysis?
+Paré, Guy et al. (2015)|What is a typology of systematic literature reviews in information systems research?<br>What are the most common reviews found in top IS journals?
+Ramaprasad, Arkalgud & Syn, Thant (2015)|How to review, map, and visualize the research literature in a domain cumulatively, logically, systematically, and systemically using ontological meta-analysis and synthesis?
+
+Note: `Ramaprasad, Arkalgud & Syn, Thant (2015)` has been added opportunistically from the special SLR issue of AIS Journal.
 
 # Oosterwyk, Grant et al. (2019) cites X:
 ## Sylvester et al. (2013)
@@ -120,45 +126,59 @@ doi|10.17705/1CAIS.03709
 pub_details|Communications of the Association for Information Systems, 37(1), 205-224.
 note|Literature search
 
-## Templier & Paré(2015)
-> Templier,  M.,  &  Paré,  G.  (2015).  A  framework  for  guiding  and  evaluating  literature reviews.Communications of the Association for Information Systems,37(1),112-137
+## Templier & Paré (2015)
+> Templier, M., & Paré, G. (2015). A framework for guiding and evaluating literature reviews. Communications of the Association for Information Systems, 37(1), 112-137.
 
 (8) aspect|value
 -|-
-id| []
-authors|
-title|[]()
-abstract|
-kws|
-doi|
-pub_details|
+id|Templier, Mathieu & Paré, Guy (2015) [[Templier_Mathieu_Pare_Guy_2015](https://1drv.ms/b/s!AikiH0T16G7Y9RW5Mbh4jEZnAitY?e=5W2DFh)]
+authors|Templier, Mathieu * Paré, Guy
+title|[A framework for guiding and evaluating literature reviews.](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=3871&context=cais)
+abstract|Given that the synthesis of cumulated knowledge is an essential condition for any field to grow and develop, we believe that the enhanced role of IS reviews requires that this expository form be given careful scrutiny. Over the past decade, several senior scholars have made calls for more review papers in our field. While the number of IS review papers has substantially increased in recent years, no prior research has attempted to develop a general framework to conduct and evaluate the rigor of standalone reviews. In this paper, we fill this gap. More precisely, we present a set of guidelines for guiding and evaluating IS literature reviews and specify to which review types they apply. To do so, we first distinguish between four broad categories of review papers and then propose a set of guidelines that are grouped according to the generic phases and steps of the review process. We hope our work will serve as a valuable source for those conducting, evaluating, and/or interpreting reviews in our field.
+kws|literature review * standalone review paper * research synthesis * review methodology * methodological guidelines * review quality
+doi|10.17705/1CAIS.03706
+pub_details|Communications of the Association for Information Systems, 37(1), 112-137.
 note|Overarching guidelines
 
-## Wall et al.(2015)
-> Wall, J., Stahl, B. C., & Salam, A. F. (2015). Critical discourse analysis as a review methodology: An empirical example. Communications of the Association for Information Systems,37(11), 257-285
+## Wall et al. (2015)
+> Wall, J., Stahl, B. C., & Salam, A. F. (2015). Critical discourse analysis as a review methodology: An empirical example. Communications of the Association for Information Systems, 37(11), 257-285.
 
 (9) aspect|value
 -|-
-id| []
-authors|
-title|[]()
-abstract|
-kws|
-doi|
-pub_details|
+id|Wall, Jeffrey et al. (2015) [[Wall_Jeffrey_et_al_2015](https://1drv.ms/b/s!AikiH0T16G7Y9RZQoEEs-0My-Bxf?e=3hYjM9)]
+authors|Wall, Jeffrey D. * Stahl, Bernd Carsten * Salam, A. F.
+title|[Critical discourse analysis as a review methodology: An empirical example.](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=3876&context=cais)
+abstract|Research disciplines and subdisciplines are steeped in epistemological beliefs and theoretical assumptions that guide and constrain research. These beliefs and assumptions both enable scientific inquiry and limit scientific progress. Theory and review papers tend to be a means for reproducing ideological assumptions. However, review papers can also challenge ideological assumptions by critically assessing taken-for-granted assumptions. Critical review methods are underdeveloped in the management disciplines. The information systems (IS) discipline must do more to improve the critical examination of its scientific discourse. In this paper, we present a method with guiding principles and steps for systematically conducting critical reviews of IS literature based on Habermasian strains of critical discourse analysis. We provide an empirical example of the method. The empirical example offers a critical review of behavioral information security research with a focus on employees’ security behaviors.
+kws|critical discourse analysis * literature review * theory and review * information security * security behavior * ideological hegemony
+doi|10.17705/1CAIS.03711
+pub_details|Communications of the Association for Information Systems, 37(11), 257-285.
 note|Critical discourse analysis as method
 
 ## Paré et al. (2016)
-> Paré,  G.,  Trudel,  M.  C.,  Jaana,  M.,  &  Kitsiou,  S.  (2015).  Synthesizing  information  systems knowledge: A typology of literature reviews.Information & Management,52(2), 183-199.
+> Paré, G., Trudel, M.C., Jaana, M., & Kitsiou, S. (2015). Synthesizing information systems knowledge: A typology of literature reviews. Information & Management, 52(2), 183-199.
 
 (10) aspect|value
 -|-
-id| []
-authors|
-title|[]()
-abstract|
-kws|
-doi|
-pub_details|
+id|Paré, Guy et al. (2015) [[Pare_Guy_et_al_2015](https://1drv.ms/b/s!AikiH0T16G7Y9ReIFU6BcEAKWW4d?e=Zs5tQq)]
+authors|Paré, Guy * Trudel, Marie-Claude * Jaana, Mirou * Kitsiou, Spyros
+title|[Synthesizing information systems knowledge: A typology of literature reviews.](https://edisciplinas.usp.br/pluginfile.php/4150288/mod_resource/content/1/2.4.Pare%20et%20al.%202015%20-%20literature%20review.pdf)
+abstract|In this article we develop a typology of review types and provide a descriptive insight into the most common reviews found in top IS journals. Our assessment reveals that the number of IS reviews has increased over the years. The majority of the 139 reviews are theoretical in nature, followed by narrative reviews, meta-analyses, descriptive reviews, hybrid reviews, critical reviews, and scoping reviews. Considering the calls for IS research to develop a cumulative tradition, we hope more review articles will be published in the future and encourage researchers who start a review to use our typology to position their contribution.
+kws|literature review * research synthesis * typology * evidence-based practice
+doi|10.1016/j.im.2014.08.008
+pub_details|Information & Management, 52(2), 183-199.
 note|Systematicity and transparency as twin concepts
 
+# AIS Journal Special SLR Issue
+## Ramaprasad, A., & Syn, T. (2015)
+> Ramaprasad, A., & Syn, T. (2015). Ontological Meta-Analysis and Synthesis. Communications of the Association for Information Systems, 37, 138-153.
+
+aspect|value
+-|-
+id|Ramaprasad, Arkalgud & Syn, Thant (2015) [[Ramaprasad_Arkalgud_Syn_Thant_2015](https://1drv.ms/b/s!AikiH0T16G7Y9RQ94CPO6Zp5y-io?e=N2iile)]
+authors|Ramaprasad, Arkalgud * Syn, Thant
+title|[Ontological Meta-Analysis and Synthesis.](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=3872&context=cais)
+abstract|We present ontological meta-analysis and synthesis as a method for reviewing, mapping, and visualizing the research literature in a domain cumulatively, logically, systematically, and systemically. The method highlights a domain’s bright spots that have been heavily studied, the light spots that have been lightly studied, the blind spots that have been overlooked, and the blank spots that have not been studied. It highlights the biases in a domain’s research; the research can then be realigned to make it stronger and more effective. We illustrate the method using the emerging domain of public health informatics (PHI). We present an ontological framework for the domain, map the literature onto the framework, and highlight its bright, light, and blind/blank spots. We also present detailed analyses using the ontological maps of dyads and triads. We conclude by discussing how (a) the results can be used to realign PHI research, and (b) the method can be used in other information systems domains.
+kws|ontological meta-analysis * ontological synthesis * public health informatics
+doi|10.17705/1CAIS.03707
+pub_details|Communications of the Association for Information Systems, 37, 138-153.
+note|
