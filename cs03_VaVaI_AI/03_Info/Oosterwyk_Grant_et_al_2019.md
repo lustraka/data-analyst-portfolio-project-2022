@@ -13,6 +13,7 @@ note|note
 ## Summary of Selected Papers
 Paper|Question(s)
 -|-
+Oosterwyk, Grant et al. (2019)|What stages for conducting systematic literature reviews are generally valid for different types of reviews in information systems research?
 Sylvester, Allan et al. (2013)|What are the goals and viewpoints for reviewing and presenting previous literature, especially in areas where the research literature is diffuse, contradictory and heterogenous (e.g., in service quality research)?
 Wolfswinkel, Joost et al. (2013)|How to rigorously review literature using grounded theory?
 Boell, Sebastian & Cecez-Kecmanovic, Dubravka (2014)|How to conduct literature reviews and literature searches using a heremeneutic approach?
