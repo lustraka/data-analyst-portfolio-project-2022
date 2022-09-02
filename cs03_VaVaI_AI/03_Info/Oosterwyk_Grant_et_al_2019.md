@@ -10,20 +10,26 @@ doi|doi
 pub_details|Kalpa Publications in Computing. Volume 12, 2019, Pages 250–260. Proceedings of 4th International Conference on the Internet, Cyber Security and Information Systems 2019
 note|note
 
+## Summary of Selected Papers
+Paper|Question(s)
+-|-
+Sylvester, Allan et al. (2013)|What are the goals and viewpoints for reviewing and presenting previous literature, especially in areas where the research literature is diffuse, contradictory and heterogenous (e.g., in service quality research)?
+
+
 # Oosterwyk, Grant et al. (2019) cites X:
 ## Sylvester et al. (2013)
-> Sylvester, A., Tate, M., & Johnstone, D. (2013). Beyond synthesis: Re-presenting heterogeneous research literature.Behaviour & Information Technology,32(12), 1199-1215.
+> Sylvester, A., Tate, M., & Johnstone, D. (2013). Beyond synthesis: Re-presenting heterogeneous research literature. Behaviour & Information Technology,32(12), 1199-1215.
 
 (1) aspect|value
 -|-
-id|**Sylvester et al. (2013)** []
-authors|
-title|[]()
-abstract|
-kws|
-doi|
-pub_details|
-note|
+id|Sylvester, Allan et al. (2013) [no full text]
+authors|Sylvester, Allan * Tate, Mary * Johnstone, David
+title|[Beyond synthesis: Re-presenting heterogeneous research literature.](https://www.tandfonline.com/doi/abs/10.1080/0144929X.2011.624633)
+abstract|This article examines the nature, role and function of the literature review in academic discourse. Researchers in information systems (IS) are often advised to espouse a neutral viewpoint and adapt the goal of synthesising previous literature when conducting a literature review. However, since research literature in many areas of IS is diverse and heterogeneous, this synthesis is not value neutral, but is a construction of the researchers. We suggest that other goals and viewpoints for reviewing and presenting previous literature are possible, and in some cases, desirable. Using the example of service quality literature, we use a lens of historical discourse, and techniques of soft systems analysis and rich pictures, to present previous research literature on ServQual-related research in IS and electronic commerce. We identify seven ‘stories’ from service quality research literature and analyse the clients, actors, transformations, world-view (weltanschauung), owners and environment in each story. We conclude that alternative presentations of research literature can offer fresh insights, especially in areas where the research literature is diffuse, contradictory and heterogeneous.
+kws|literature review * soft systems analysis * service quality * historiography
+doi|10.1080/0144929X.2011.624633
+pub_details|Behaviour & Information Technology,32(12), 1199-1215.
+note|Historical discourse and SSM as method
 
 ## Wolfswinkel et al.(2013)
 > Wolfswinkel,  J.  F.,  Furtmueller,  E.,  &  Wilderom,  C.  P.  (2013).  Using  grounded  theory  as  a method for rigorously reviewing literature.European Journal of Information Systems,22(1), 45-55.
