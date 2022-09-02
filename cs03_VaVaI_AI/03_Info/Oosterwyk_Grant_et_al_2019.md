@@ -179,7 +179,7 @@ id|Ramaprasad, Arkalgud & Syn, Thant (2015) [[Ramaprasad_Arkalgud_Syn_Thant_2015
 authors|Ramaprasad, Arkalgud * Syn, Thant
 title|[Ontological Meta-Analysis and Synthesis.](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=3872&context=cais)
 abstract|We present ontological meta-analysis and synthesis as a method for reviewing, mapping, and visualizing the research literature in a domain cumulatively, logically, systematically, and systemically. The method highlights a domain’s bright spots that have been heavily studied, the light spots that have been lightly studied, the blind spots that have been overlooked, and the blank spots that have not been studied. It highlights the biases in a domain’s research; the research can then be realigned to make it stronger and more effective. We illustrate the method using the emerging domain of public health informatics (PHI). We present an ontological framework for the domain, map the literature onto the framework, and highlight its bright, light, and blind/blank spots. We also present detailed analyses using the ontological maps of dyads and triads. We conclude by discussing how (a) the results can be used to realign PHI research, and (b) the method can be used in other information systems domains.
-kws|ontological meta-analysis * ontological synthesis * public health informatics
+kws|ontological meta-analysis * ontological synthesis * public health informatics * NVivo
 doi|10.17705/1CAIS.03707
 pub_details|Communications of the Association for Information Systems, 37, 138-153.
 note|
