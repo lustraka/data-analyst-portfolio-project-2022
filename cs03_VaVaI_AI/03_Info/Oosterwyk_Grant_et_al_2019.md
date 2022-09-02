@@ -17,7 +17,9 @@ Sylvester, Allan et al. (2013)|What are the goals and viewpoints for reviewing a
 Wolfswinkel, Joost et al. (2013)|How to rigorously review literature using grounded theory?
 Boell, Sebastian & Cecez-Kecmanovic, Dubravka (2014)|How to conduct literature reviews and literature searches using a heremeneutic approach?
 Bandara, Wasana et al. (2015)|How to organize and prepare papers for qualitative data-analysis?<br>How to code and analyze papers and write up and present results?
-Okoli, Chitu (2015)| How to conduct a standalone systematic literature review?
+Okoli, Chitu (2015)|How to conduct a standalone systematic literature review?
+Schryen, Guido (2015)|How to methodologically conduct qualitative literature review?
+vom Brocke, Jan et al. (2015)|How to deal with challenges of literature searches in the increasingly dynamic context of information systems?
 
 # Oosterwyk, Grant et al. (2019) cites X:
 ## Sylvester et al. (2013)
@@ -91,31 +93,31 @@ pub_details|Communications of the Association for Information Systems, 37(43), 8
 note|Overarching systematic guidelines
 
 ## Schryen (2015)
-> Schryen,  G.  (2015).  Writing  qualitative  IS  literature reviews–Guidelines  for  synthesis, interpretation  and  guidance  of  research.Communications  of  the Association  for  Information Systems,37(12), 286-325.
+> Schryen, G. (2015). Writing qualitative IS literature reviews – Guidelines for synthesis, interpretation and guidance of research. Communications of the Association for Information Systems, 37(12), 286-325.
 
 (6) aspect|value
 -|-
-id| []
-authors|
-title|[]()
-abstract|
-kws|
-doi|
-pub_details|
+id|Schryen, Guido (2015) [[Schryen_Guido_2015](https://1drv.ms/b/s!AikiH0T16G7Y9RKLvaon_d2K5lPg?e=uvNGy2)]
+authors|Schryen, Guido
+title|[Writing qualitative IS literature reviews – Guidelines for synthesis, interpretation and guidance of research.](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=3877&context=cais)
+abstract|The literature review is an established research genre in many academic disciplines, including the IS discipline. Although many scholars agree that systematic literature reviews should be rigorous, few instructional texts for compiling a solid literature review, at least with regard to the IS discipline, exist. In response to this shortage, in this tutorial, I provide practical guidance for both students and researchers in the IS community who want to methodologically conduct qualitative literature reviews. The tutorial differs from other instructional texts in two regards. First, in contrast to most textbooks, I cover not only searching and synthesizing the literature but also the challenging tasks of framing the literature review, interpreting research findings, and proposing research paths. Second, I draw on other texts that provide guidelines for writing literature reviews in the IS discipline but use many examples of published literature reviews. I use an integrated example of a literature review, which guides the reader through the overall process of compiling a literature review.
+kws|literature review * methodology * tutorial * literature synthesis * research gaps * research agenda
+doi|10.17705/1CAIS.03712
+pub_details|Communications of the Association for Information Systems, 37(12), 286-325.
 note|Overarching qualitative guidelines
 
 ## vom Brocke et al.(2015)
-> Vom  Brocke,  J.,  Simons,  A.,  Riemer,  K.,  Niehaves,  B.,  Plattfaut,  R.,  &  Cleven,  A.  (2015). Standing  on  the  shoulders  of  giants:  Challenges  and  recommendations  of  literature  search  in information  systems  research.Communications  of  the  Association  for  Information  Systems,37(1), 205-224
+> Vom Brocke, J., Simons, A., Riemer, K., Niehaves, B., Plattfaut, R., & Cleven, A. (2015). Standing on the shoulders of giants: Challenges and recommendations of literature search in information systems research. Communications of the Association for Information Systems, 37(1), 205-224.
 
 (7) aspect|value
 -|-
-id| []
-authors|
-title|[]()
-abstract|
-kws|
-doi|
-pub_details|
+id|vom Brocke, Jan et al. (2015) [[vom_Brocke_Jan_et_al_2015](https://1drv.ms/b/s!AikiH0T16G7Y9RMfdpVzpFa7bsti?e=leysnV)]
+authors|vom Brocke, Jan * Simons, Alexander * Riemer, Kai * Niehaves, Bjoern * Plattfaut, Ralf * Cleven, Anne
+title|[Standing on the shoulders of giants: Challenges and recommendations of literature search in information systems research.](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=3874&context=cais)
+abstract|The “standing on the shoulders of giants” metaphor is often used to acknowledge the work of others when undertaking research and, in particular, stresses the importance of literature reviews in scientific inquiry. Though the significance of literature reviews has never been in doubt, researchers, especially novice researchers, still struggle with developing effective strategies for reviewing literature. An important reason for this difficulty is the rapidly increasing number of potentially relevant publications—not all of which necessarily add value to a literature review. As such, avoiding standing on the shoulders of dwarfs literature search emerges as a major issue in crafting an effective literature review. In this paper, we discuss challenges of literature searches in the increasingly dynamic context of information systems (IS) research and make recommendations for how to deal with them. We present practical guidelines and a checklist to help researchers with planning and organizing their literature searches.
+kws|literature review * literature search * systematic literature review * dissertation review * information systems
+doi|10.17705/1CAIS.03709
+pub_details|Communications of the Association for Information Systems, 37(1), 205-224.
 note|Literature search
 
 ## Templier & Paré(2015)
