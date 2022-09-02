@@ -7,10 +7,10 @@ database|www.google.com/search
 results|50500000
 note|
 
-## Oosterwyk, Grant et al (2019)
+## Oosterwyk, Grant et al. (2019)
 aspect|value
 -|-
-id|**Oosterwyk, Grant et al (2019)** [[Oosterwyk_Grant_et_al_2019](https://1drv.ms/b/s!AikiH0T16G7Y9QoeLue4SvuCDV9H?e=9btYor)]
+id|**Oosterwyk, Grant et al. (2019)** [[Oosterwyk_Grant_et_al_2019](https://1drv.ms/b/s!AikiH0T16G7Y9QoeLue4SvuCDV9H?e=9btYor)]
 authors|Oosterwyk, Grant ; Brown, Irwin; Geeling, Sharon
 title|[A Synthesis of Literature Review Guidelines from Information Systems Journals](https://easychair.org/publications/open/2h3r)
 abstract|There has recently been a plethora of guidelines published in Information Systems (IS) journals on how to conduct literature reviews for publication, often referred to as “systematic” literature reviews. The purpose of this paper is to make sense of these guidelines by synthesising them into a coherent whole. The synthesis results in the identification of five major stages for conducting literature reviews for publication, i.e. (1) Define the protocol, (2) Search the literature, (3) Select the papers, (4) Analyse, synthesise and interpret the data, (5) Write the review. The synthesis reveals that there are different types of literature review, but that the five broad stages are generally valid for all types. Differences in conducting literature review across type arise at a lower level of detail, when considering the specific activities to be performed at each stage. The greatest variation between types occurs at Stage 4, when analysing, synthesising and interpreting data.
@@ -19,7 +19,8 @@ doi|doi
 pub_details|Kalpa Publications in Computing. Volume 12, 2019, Pages 250–260. Proceedings of 4th International Conference on the Internet, Cyber Security and Information Systems 2019
 note|note
 
-- Chapter 4 "Syntheis of Stages" identifies five major stages and main activities associated with each stage. Theses activites are extracted in the form of requirements.
+- Chapter 4 "Synthesis of Stages" identifies five major stages and main activities associated with each stage. Theses activites are extracted in the form of requirements.
+- For key cited papers see [Oosterwyk_Grant_et_al_2019.md](Oosterwyk_Grant_et_al_2019.md)
 
 ## Kraus, Sascha et al. (2020)
 aspect|value
@@ -45,10 +46,10 @@ doi|doi
 pub_details|International Conference on Engineering Design 2019, Aug 2019, Delft, Netherlands. pp.1633-1642, ff10.1017/dsi.2019.169
 note|note
 
-## Chong, S.W. et al (2022)
+## Chong, S.W. et al. (2022)
 aspect|value
 -|-
-id|**Chong, S.W. et al (2022)** [Chong_SW_et_al_2022]
+id|**Chong, S.W. et al. (2022)** [Chong_SW_et_al_2022]
 authors|Chong, S. W.; Jun T. J.; Chen, Y.
 title|[A methodological review of systematic literature reviews in higher education: Heterogeneity and homogeneity. Educational Research Review.](https://osf.io/jn84b/download)
 abstract|The field of higher education research has bourgeoned in the past decades, addressing a wide range of topics. Being in a rapidly expanding and interdisciplinary field of research, higher education scholars have demonstrated exigency for aggregating research findings to map the research landscape, identify future research directions, and bridge the research-practice divide. In this connection, systematic literature reviews have been carried out to consolidate research findings. With a proliferation of systematic literature reviews in higher education, the aim of this meta, methodological review is to provide a state-of-the-art systematic literature review methodologies in the field of higher education. Adhering to the exploratory nature of this study, this review analyses systematic literature reviews published in 16 toptiered international journals in higher education (n=160). Through qualitative researchsynthesis using thematic analysis and informed by grounded theory, a methodological framework comprising six stages and 20 steps is developed, which might help to instigate methodological dialogue between researchers when it comes to conducting systematic literature reviews. A handy checklist for conducting and evaluating systematic literature reviews in higher education is created.
