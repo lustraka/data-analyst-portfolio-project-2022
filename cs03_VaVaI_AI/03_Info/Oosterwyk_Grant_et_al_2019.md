@@ -10,7 +10,25 @@ doi|doi
 pub_details|Kalpa Publications in Computing. Volume 12, 2019, Pages 250–260. Proceedings of 4th International Conference on the Internet, Cyber Security and Information Systems 2019
 note|note
 
-aspect|value
+# Oosterwyk, Grant et al. (2019) cites X:
+## Sylvester et al. (2013)
+> Sylvester, A., Tate, M., & Johnstone, D. (2013). Beyond synthesis: Re-presenting heterogeneous research literature.Behaviour & Information Technology,32(12), 1199-1215.
+
+(1) aspect|value
+-|-
+id|**Sylvester et al. (2013)** []
+authors|
+title|[]()
+abstract|
+kws|
+doi|
+pub_details|
+note|
+
+## Wolfswinkel et al.(2013)
+> Wolfswinkel,  J.  F.,  Furtmueller,  E.,  &  Wilderom,  C.  P.  (2013).  Using  grounded  theory  as  a method for rigorously reviewing literature.European Journal of Information Systems,22(1), 45-55.
+
+(2) aspect|value
 -|-
 id|**** []
 authors|
@@ -20,3 +38,116 @@ kws|
 doi|
 pub_details|
 note|
+
+## Boell & Cecez-Kecmanovic (2014)
+> Boell, S. K., & Cecez-Kecmanovic, D. (2014). A hermeneutic approach for conducting literature reviews and literature searches.Communications of the Association for Information Systems,34,257-286.
+
+(3) aspect|value
+-|-
+id|**** []
+authors|
+title|[]()
+abstract|
+kws|
+doi|
+pub_details|
+note|
+
+## Bandara et al. (2015)
+> Bandara, W., Furtmueller, E., Gorbacheva, E., Miskon, S., & Beekhuyzen, J. (2015). Achieving rigor in literature reviews: Insights from qualitative data analysis and tool-support.Communicationsof the Association for Information Systems,37,154-204.
+
+(4) aspect|value
+-|-
+id|**** []
+authors|
+title|[]()
+abstract|
+kws|
+doi|
+pub_details|
+note|
+
+## Okoli (2015)
+> Okoli,  C. (2015).  A  guide  to  conducting  a  standalone  systematic  literature  review.Communicationsof the Association for Information Systems, 37(43), 879-910.
+
+(5) aspect|value
+-|-
+id|**Okoli, Chitu (2015)** [[Okoli_Chitu_2015](https://1drv.ms/b/s!AikiH0T16G7Y9QxzPEWuy0wY7bvi?e=uVGwck)]
+authors|
+title|[]()
+abstract|
+kws|
+doi|
+pub_details|
+note|
+
+## Schryen (2015)
+> Schryen,  G.  (2015).  Writing  qualitative  IS  literature reviews–Guidelines  for  synthesis, interpretation  and  guidance  of  research.Communications  of  the Association  for  Information Systems,37(12), 286-325.
+
+(6) aspect|value
+-|-
+id|**** []
+authors|
+title|[]()
+abstract|
+kws|
+doi|
+pub_details|
+note|
+
+## vom Brocke et al.(2015)
+> Vom  Brocke,  J.,  Simons,  A.,  Riemer,  K.,  Niehaves,  B.,  Plattfaut,  R.,  &  Cleven,  A.  (2015). Standing  on  the  shoulders  of  giants:  Challenges  and  recommendations  of  literature  search  in information  systems  research.Communications  of  the  Association  for  Information  Systems,37(1), 205-224
+
+(7) aspect|value
+-|-
+id|**** []
+authors|
+title|[]()
+abstract|
+kws|
+doi|
+pub_details|
+note|
+
+## Templier & Paré(2015)
+> Templier,  M.,  &  Paré,  G.  (2015).  A  framework  for  guiding  and  evaluating  literature reviews.Communications of the Association for Information Systems,37(1),112-137
+
+(8) aspect|value
+-|-
+id|**** []
+authors|
+title|[]()
+abstract|
+kws|
+doi|
+pub_details|
+note|
+
+## Wall et al.(2015)
+> Wall, J., Stahl, B. C., & Salam, A. F. (2015). Critical discourse analysis as a review methodology: An empirical example. Communications of the Association for Information Systems,37(11), 257-285
+
+(9) aspect|value
+-|-
+id|**** []
+authors|
+title|[]()
+abstract|
+kws|
+doi|
+pub_details|
+note|
+
+## Paré et al. (2016)
+> Paré,  G.,  Trudel,  M.  C.,  Jaana,  M.,  &  Kitsiou,  S.  (2015).  Synthesizing  information  systems knowledge: A typology of literature reviews.Information & Management,52(2), 183-199.
+
+(10) aspect|value
+-|-
+id|**** []
+authors|
+title|[]()
+abstract|
+kws|
+doi|
+pub_details|
+note|
+
