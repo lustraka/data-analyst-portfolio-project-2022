@@ -1,9 +1,11 @@
 # Train SL-Reviewer Model
+> **Vision**: Channeling the flow of meaning between academies and businesses.
+
 # Manage Content With OODA
-- Review progress and keep a journal in [Journal](./01_Admin/Journal.md)
 - Update a Review Protocol in [Protocol](./02_Protocol/Protocol.md)
+- Review progress and keep a journal in [Journal](./01_Admin/Journal.md)
 - Review the point of departure in [A_KickOff](./03_Info/A_KickOff.md)
-- Take notes from the book [Ref_BolandA-2017](./03_Info/Ref_BolandA-2017.md) (Doing a Systematic Review)
+- Check methodology in the book [Ref_BolandA-2017](./03_Info/Ref_BolandA-2017.md) (Doing a Systematic Review)
 - Take notes from the paper [Ref_GusenbauerHaddaway-20191015.md](./03_Info/Ref_GusenbauerHaddaway-20191015.md) (SLR suitable search systems)
 - Store search results in [04_Search_results](./04_Search_results/)
 - Manage data in [06_Data](./06_Data/) in line with [Data Model](./06_Data/DataModel.md)
