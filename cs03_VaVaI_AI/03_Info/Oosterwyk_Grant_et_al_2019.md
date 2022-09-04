@@ -48,7 +48,7 @@ note|Historical discourse and SSM as method
 
 (2) aspect|value
 -|-
-id|Wolfswinkel, Joost et al. (2013) [no full text]
+id|Wolfswinkel, Joost et al. (2013) [[Wolfswinkel_Joost_et_al_2013](https://1drv.ms/b/s!AikiH0T16G7Y9RjEHpH9GcJ4aMeF)]
 authors|Wolfswinkel, Joost .F. * Furtmueller, Elfi * Wilderom, Celeste P.M.
 title|[Using grounded theory as a method for rigorously reviewing literature.](https://link.springer.com/article/10.1057/ejis.2011.51)
 abstract|This paper offers guidance to conducting a rigorous literature review. We present this in the form of a five-stage process in which we use Grounded Theory as a method. We first probe the guidelines explicated by Webster and Watson, and then we show the added value of Grounded Theory for rigorously analyzing a carefully chosen set of studies; it assures solidly legitimized, in-depth analyses of empirical facts and related insights. This includes, the emergence of new themes, issues and opportunities; interrelationships and dependencies in or beyond a particular area; as well as inconsistencies. If carried out meticulously, reviewing a well-carved out piece of literature by following this guide is likely to lead to more integrated and fruitful theory emergence, something that would enrich many fields in the social sciences.
