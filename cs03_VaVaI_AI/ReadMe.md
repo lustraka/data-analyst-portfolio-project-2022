@@ -15,10 +15,16 @@
 
 > “An **SLR** is a review of an existing body of literature that follows a transparent and reproducible methodology in searching, assessing its quality and synthesizing it, with a high level of objectivity.” (Kraus et al., 2020)
 
+**Key Concepts** in this study are requirements/guidelines which can build up checklists for conducting SLRs in their contexts. These requirements can be [enforced on various levels](https://www.sciencedirect.com/topics/computer-science/enforcement-level) (from strictly enforced to guideline) invocating appropriate consequences. The model systemizing these requirements will allow to derive appropriate set of requirment for the review task at hand.
+
+**MVP**. What is the minimum viable review assembly line that allows me to produce a minimum viable standalone systematic literature review?
+
+**3S Competitive Advantage**. The "systematic review consultancy" Google search retrieves for example [Systematic Review Consultants LTD](https://systematicreview.info/) and a couple of opportunities on job sites (Fiverr, Upwork, Kolabtree). You need to build and maintain your competitive advantage strategically, systematically, and systemically.
+----
+
 **Double S Approach**. Beside the systematic approach to searching papers and assessing their quality, there is an opportunity to apply the methodology of requirements specification to the subject matter of the review study. Identify requirements and evaluate thier fullfilment in relevant resources. Identify the gaps and specify requirements for the next developmental stage of the given system or domain.
 
 **EARS CheatSheet**
 
 ![EARS CheatSheet](https://www.plantuml.com/plantuml/png/RP11ImCn48Nl-HLp3chkMv5UAXP4eLeyJtUdkmFPsJKpgVZlJMe55tfzyxxtahTMmsHvZAxPqMVcH2E9wShf7DbSipzmKMtAVn9WZookUJCqkkqIdqXMhlbusZvlu3u45a3GcLe-SWjQNI4yG5ZIcqBPVthpKc5BtFUKhW2li_4a6E58Q3dHBxGxLruaO0MMDkQEkYi9U_b2CUhWG0EUUCgfP6mVbxKty5wV4Xn91vS9lBU1lAz6_LQZ4GJ7ywUyrm5ZNDmIwJo9rljTSEkIKyRz0G00)
-
 
