@@ -8,32 +8,7 @@ WP PLCM|OVI|SoV| Assumptions
 **Goal**<br>Healthy SLR production system|Systematic literature review and sensmaking skills|Verification studies|
 **Objective**<br>Go with the flow of meaning|Study dynamics|Journal|OODA, MRVIA
 **Deliverable**<br>Review's content|CCCC|GitHub Repository|ZTD, boundaries
-**Activities**<br>- WP PLCM<br>-WP ACADAS<br>- WP SEARCH<br>-WP DEC|**Effort**|**Budget**|Health, energy, time, stillness
-
-- [ ] Consolidate journal entries
-- [ ] Passport/Map key resources (papers, books) = Cultivate extraction forms
-
-## Collect Data
-> Define & Code & Test
-
-**Extract Guidelines / Checklists**
-- Choose resources
-  - Oosterwyk, Grant et al (2019) - master input
-  - BolandA-2017 - to complete from another point of view
-  - CADIMA - just check the table comparing the stages
-
-Add other sources until the set of requirements is saturated.
- 
-- Extract requirements as Concepts
-
-aspect|value
--|-
- name|Sxx-nn|name for state-driven requirments
-  definition|wording of the requirement in line with EARS methodology ; further details
-  source|a source of defition or "This study"
-  note|free text based on paper's content
-
-- Sort requirements within states and add the numbers.
+**Activities**<br>- WP PLCM<br>- WP ACADAS<br>- WP SEARCH<br>- WP CRM|**Effort**|**Budget**|Health, energy, time, stillness
 
 ## GODA Template
 WP XYZ|OVI|SoV| Assumptions
