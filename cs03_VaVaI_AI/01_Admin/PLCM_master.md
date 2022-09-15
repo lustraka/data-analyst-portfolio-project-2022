@@ -10,6 +10,16 @@ WP PLCM|OVI|SoV| Assumptions
 **Deliverable**<br>Review's content|CCCC|GitHub Repository|ZTD, boundaries
 **Activities**<br>- WP PLCM<br>- WP ACADAS<br>- WP SEARCH<br>- WP CRM|**Effort**|**Budget**|Health, energy, time, stillness
 
+## Sprint Restart
+> Slow down, think deeply! Build and keep routines mindfully!
+- Method
+  - Review the general and project journals to update purpose, elements, and interactions.
+  - Explore the state of the study (system architecture, expression tree, pattern grammar).
+  - Re-design activities to streamline production (system dynamics, experiment, session).
+  - Test and validate the activities mindfully.
+  - Review and journal progress.
+- Results
+
 ## GODA Template
 WP XYZ|OVI|SoV| Assumptions
 -|-|-|-
