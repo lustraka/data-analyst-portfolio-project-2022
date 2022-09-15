@@ -23,10 +23,16 @@
 **3S Competitive Advantage**. The "systematic review consultancy" Google search retrieves for example [Systematic Review Consultants LTD](https://systematicreview.info/) and a couple of opportunities on job sites (Fiverr, Upwork, Kolabtree). You need to build and maintain your competitive advantage strategically, systematically, and systemically.
 
 # Manage Content With OODA
-- Update a Review Protocol in [Protocol](./02_Protocol/Protocol.md)
-- Review progress and keep a journal in [Journal](./01_Admin/Journal.md)
-- Review the point of departure in [A_KickOff](./03_Info/A_KickOff.md)
-- Check methodology in the book [Ref_BolandA-2017](./03_Info/Ref_BolandA-2017.md) (Doing a Systematic Review)
-- Take notes from the paper [Ref_GusenbauerHaddaway-20191015.md](./03_Info/Ref_GusenbauerHaddaway-20191015.md) (SLR suitable search systems)
-- Store search results in [04_Search_results](./04_Search_results/)
-- Manage data in [06_Data](./06_Data/) in line with [Data Model](./06_Data/DataModel.md)
+- Manage the product's life cycle in [PLCM](./01_Admin/PLCM_master.md)
+- Review progress and keep a journal in [Journal](./01_Admin/Journal_master.md)
+- Review the point of departure in [20220825_KickOff](./02_TopicMaps/20220825_KickOff.md)
+- Map documents in [02_TopicMaps](./02_TopicMaps)
+- Store search results in [04_DataBase](./04_DataBase/)
+- Manage data in [04_DataBase](./04_DataBase/) in line with [Data Model](./04_DataBase/DataModel.md)
+- Process data in [05_CodeBase](./05_CodeBase/)
+- Report findings in [06_CRM](./06_CRM/Readme.md)
+
+----
+
+- [ ] Take notes from the paper [Ref_GusenbauerHaddaway-20191015.md](./03_Info/Ref_GusenbauerHaddaway-20191015.md) (SLR suitable search systems)
+
