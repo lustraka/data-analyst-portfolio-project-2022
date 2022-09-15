@@ -23,3 +23,7 @@ Write the review (SWR)|Write the review|Presenting data/results
 
 ## Journal Continues
 **2022-09-02 Fri**. (1) **Root Questions**. The markdown passports for papers in [20220828_google_SLR_SM.md](../03_Info/20220828_google_SLR_SM.md) originated from the first search managed in CSV and IPYNB. The table with root questions derived from abstracts enable focusing on the next steps. On the other hand, to markdown passports for papers in [Oosterwyk_Grant_et_al_2019.md](../03_Info/Oosterwyk_Grant_et_al_2019.md) has been filled manually based on the refrences in Oosterwyk. There is another interesting paper on onthological meta-analysis and synthesis by Ramaprasad & Syn (2015) published along with a couple of other articles from this batch. Again, root questins enable OODA cycle. (2) **Bright, Light, Blind/Blank Spots**. The ontological approach from Ramaprasad & Syn (2015) is well suited for innovation-friendly SLRs. It is possible to combine it with requirment-based approach? Aren't requirments just logical components? An ontological approach enables more flexible derivation of features and requirments, I think.
+
+**2022-09-07 Tue through 11 Sun**. Contemplate a systematic reviewer career at cottage in Polom. Read selected papers, clarify vision and mission.
+
+**2022-09-14 Wed**. (1) Update a protocol with a hermeneutics cycle ACADAS. (2) Update a root page with systemic view (clarify purpose, collect elements, compose interactions). (3) Focus on MPVs and building 3S competitive advantage (strategic, systematic, systemic).
