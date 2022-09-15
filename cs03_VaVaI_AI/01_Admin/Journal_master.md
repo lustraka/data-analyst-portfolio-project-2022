@@ -3,7 +3,7 @@
 - [Journal > Week 33](https://github.com/lustraka/mypps/blob/main/Jour/2022Q3-Journal.md#week-33-%E8%BE%B6%E8%B1%9A)
   - Marketingová studie pro R&D AI
   - Systematic Literature Reviews
-  - Národní knihovna ČR
+  - Národní knihovna ČR (See also the search [20220825_KickOff](../02_TopicMaps/20220825_KickOff.md).)
   - Topic area of interest
   - Review of reviews
 - [Journal > Week 34](https://github.com/lustraka/mypps/blob/main/Jour/2022Q3-Journal.md#week-34-%E5%A4%A7%E5%A3%AE)
@@ -13,8 +13,7 @@
   - SLR Arch & ConOps
   - SLR Protocol
   - SL-Reviewer as a System
-  - Train SL-Reviewer
-- Search [20220825_KickOff](../02_TopicMaps/20220825_KickOff.md)
+  - Train SL-Reviewer (For the first iteration of SLR Examples in AI (featuring CADIMA) see [20220825-data_extraction_sheet.ipynb](../05_CodeBase/20220825-data_extraction_sheet.ipynb).)
 
 **2022-08-28 Sun**. What is the state-of-the-art of systematic literature reviews? Do they relate to sensemaking (both organization and information science)? To learn about sensemaking, read [CulmseeP-2013](https://workflowy.com/#/81653a4589d6) or check [Wikipedia](https://en.wikipedia.org/wiki/Sensemaking), [a conversation with Paul Culmsee](https://eight2late.wordpress.com/2014/06/18/making-sense-of-sensemaking-a-conversation-with-paul-culmsee/), or [CogNexus Institue](http://cognexus.org/id41.htm).
 
