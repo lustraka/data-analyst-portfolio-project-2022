@@ -21,12 +21,12 @@ Write the review (SWR)|Write the review|Presenting data/results
 
 **2022-09-02 Fri**. (1) **Root Questions**. The markdown passports for papers in [20220828_google_SLR_SM.md](../03_Info/20220828_google_SLR_SM.md) originated from the first search managed in CSV and IPYNB. The table with root questions derived from abstracts enable focusing on the next steps. On the other hand, to markdown passports for papers in [Oosterwyk_Grant_et_al_2019.md](../03_Info/Oosterwyk_Grant_et_al_2019.md) has been filled manually based on the refrences in Oosterwyk. There is another interesting paper on onthological meta-analysis and synthesis by Ramaprasad & Syn (2015) published along with a couple of other articles from this batch. Again, root questins enable OODA cycle. (2) **Bright, Light, Blind/Blank Spots**. The ontological approach from Ramaprasad & Syn (2015) is well suited for innovation-friendly SLRs. It is possible to combine it with requirment-based approach? Aren't requirments just logical components? An ontological approach enables more flexible derivation of features and requirments, I think.
 
-**2022-09-07 Tue through 11 Sun**. Contemplate a systematic reviewer career at cottage in Polom. Read selected papers, clarify vision and mission.
+**2022-09-07 Tue through 11 Sun**. Contemplate a systematic reviewer career at cottage in Polom. Read selected papers, clarify vision and mission. Should I extract requirments or checklist statements?
 
 ## Sprint Restart
 **2022-09-14 Wed**. (1) Update a protocol with a hermeneutics cycle ACADAS. (2) Update a root page with systemic view (clarify purpose, collect elements, compose interactions). (3) Focus on MPVs and building 3S competitive advantage (strategic, systematic, systemic).
 
-**2022-09-15 Tue** (1) **VaVaI FileConfig**. Adoption of BolandA-2017 file structure leads to confusion, partly because it presuppose a sequential protocol. A new FileConfig is more hermeneutic-friendly. Should I extract requirments or checklist statements?
+**2022-09-15 Tue** (1) **VaVaI FileConfig**. Adoption of BolandA-2017 file structure leads to confusion, partly because it presuppose a sequential protocol. A new FileConfig is more hermeneutic-friendly.
 
 ![FileConfig](https://www.plantuml.com/plantuml/png/JL9DRnen4BtpA-O8GaG9-KXx2rcQAcqfg44v8LN6di2qtXdBdat3lo-nZR9xclUnJ-DdtoKrKLjYrvemK5AFy1qnm0DvJ40Co-Wmml0TDy8lj1iDnl1iditZXYV7RyFtuWsxsMHwVd4x68_X_09cxXXvdCU_uUjoFXkcKG6h7yq2XiJMdsquH56nuglsHxh8nkU4AQmba5sOa8huX2RQVPddOhiMMRFp4XuwxzVufjKvN3BE8xtYAEjNC3Tgxat2Tpc3XJZqnPnoBAOpcruB4qp0sCEcqxtq2IjiCMYFqKZ1zpCS9IjTJ7YYmCa_zc9SoZjTGoCEwqv7_xSk71JZXd-AubRaRx7TGFDhKOzCAM5BR9IazlhbBNWXxJ6Dj6t7P0ircPmkeinJMDM-Cxo4HtwHs7wOhsh9435rNbCch-79HaHauXqOTe2UThGbJth8XfjSQHvlOSR67nALNp_1Ueydy1bMtTRNtTBW3jdLH_SV)
 
