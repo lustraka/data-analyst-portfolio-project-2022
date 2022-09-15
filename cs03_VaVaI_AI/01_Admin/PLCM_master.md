@@ -21,6 +21,7 @@ WP PLCM|OVI|SoV| Assumptions
 - Results
   - Add links to relevant entries from the general journal to this study journal.
   - Restructure the kick-off search page.
+  - Distinguish a code of practice for database, internet, and paper's citation searches!
 
 ## GODA Template
 WP XYZ|OVI|SoV| Assumptions
