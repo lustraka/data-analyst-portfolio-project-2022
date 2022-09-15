@@ -26,7 +26,7 @@ Write the review (SWR)|Write the review|Presenting data/results
 ## Sprint Restart
 **2022-09-14 Wed**. (1) Update a protocol with a hermeneutics cycle ACADAS. (2) Update a root page with systemic view (clarify purpose, collect elements, compose interactions). (3) Focus on MPVs and building 3S competitive advantage (strategic, systematic, systemic).
 
-**2022-09-15 Tue** (1) **VaVaI FileConfig**. Adoption of BolandA-2017 file structure leads to confusion, partly because it presuppose a sequential protocol. A new FileConfig is more hermeneutic-friendly.
+**2022-09-15 Tue** (1) **VaVaI FileConfig**. Adoption of BolandA-2017 file structure leads to confusion, partly because it presuppose a sequential protocol. A new FileConfig is more hermeneutic-friendly. Should I extract requirments or checklist statements?
 
 ![FileConfig](https://www.plantuml.com/plantuml/png/JL9DRnen4BtpA-O8GaG9-KXx2rcQAcqfg44v8LN6di2qtXdBdat3lo-nZR9xclUnJ-DdtoKrKLjYrvemK5AFy1qnm0DvJ40Co-Wmml0TDy8lj1iDnl1iditZXYV7RyFtuWsxsMHwVd4x68_X_09cxXXvdCU_uUjoFXkcKG6h7yq2XiJMdsquH56nuglsHxh8nkU4AQmba5sOa8huX2RQVPddOhiMMRFp4XuwxzVufjKvN3BE8xtYAEjNC3Tgxat2Tpc3XJZqnPnoBAOpcruB4qp0sCEcqxtq2IjiCMYFqKZ1zpCS9IjTJ7YYmCa_zc9SoZjTGoCEwqv7_xSk71JZXd-AubRaRx7TGFDhKOzCAM5BR9IazlhbBNWXxJ6Dj6t7P0ircPmkeinJMDM-Cxo4HtwHs7wOhsh9435rNbCch-79HaHauXqOTe2UThGbJth8XfjSQHvlOSR67nALNp_1Ueydy1bMtTRNtTBW3jdLH_SV)
 
