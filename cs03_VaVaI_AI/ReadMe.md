@@ -36,3 +36,15 @@
 
 - [ ] Take notes from the paper [Ref_GusenbauerHaddaway-20191015.md](./03_Info/Ref_GusenbauerHaddaway-20191015.md) (SLR suitable search systems)
 
+
+## GODA Template
+WP XYZ|OVI|SoV| Assumptions
+-|-|-|-
+**Goal**|(impact)|-|
+**Objective**|(outcome)|-|-
+**Deliverable** 1|(output)|-|-
+Deliverable 2|(output)|-|-
+**Activities**|**Effort**|**Budget**|-
+
+OVI = Objectively Verifiable Indicators (Indicator = Concept + **Q**uantity (Target) + **Q**uality (Standard) + **T**ime > QQT) | SoV = Source of Verification
+
