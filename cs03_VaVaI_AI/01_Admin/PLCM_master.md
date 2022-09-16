@@ -23,14 +23,3 @@ WP PLCM|OVI|SoV| Assumptions
   - Restructure the kick-off search page.
   - Distinguish a code of practice for database, internet, and paper's citation searches!
 
-## GODA Template
-WP XYZ|OVI|SoV| Assumptions
--|-|-|-
-**Goal**|(impact)|-|
-**Objective**|(outcome)|-|-
-**Deliverable** 1|(output)|-|-
-Deliverable 2|(output)|-|-
-**Activities**|**Effort**|**Budget**|-
-
-OVI = Objectively Verifiable Indicators (Indicator = Concept + **Q**uantity (Target) + **Q**uality (Standard) + **T**ime > QQT) | SoV = Source of Verification
-
