@@ -8,17 +8,17 @@
 ### Concepts
 name|definition|source|note
 -|-|-|-
-"name","definition","source","note"
+"name"|"definition"|"source"|"note"
 
 ### Triples
 eleA|rel|eleB|source|note
 -|-|-|-|-
-"eleA",rel,"eleB","source","note"
+"eleA"|rel|"eleB"|"source"|"note"
 
 ### Discourse
 idea|concept|source|note
 -|-|-|-
-"idea","concept","source","note"
+"idea"|"concept"|"source"|"note"
 
 # CSV Structures
 **searches.csv**
