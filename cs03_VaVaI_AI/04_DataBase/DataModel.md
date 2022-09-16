@@ -1,8 +1,23 @@
 # Data Model
 
 # Organize Data
-![Class Model](https://www.plantuml.com/plantuml/png/TL7DJiCm3BxdAQnUOHjS9muRJ9oOX80xSbF38j8aSXp1DEtTITQ68WrwYDtlnuwTLHHaIRrLEzCHK1za3ptrBN5KscACy4p8UWS7TG6cWoKyvM-xtMncpcM8lWBdqA5WYv5ooXIJbPWpvuNKKOrr7Z4GJsMQ1uSzNS9z2R3O4_AYoIGcsNakzWBb84Oi5QADmgWbfn-VXKziIsTlyXbI-zgHeB7dZTUbuj2vz9eglxDFuKn-vvsc8B_r7RqPPyJuCd7qYJMTsLxO14id5rbQdnPXXv_R_rqR4tLc8esB8VnBEpx1x03DrNpkcc6NwdGM59hh0e-JLdnMxxI4o1fkL9tic2q3DKb_BbBL4rLjbL0hSbtgxJS0)
+![Class Model](https://www.plantuml.com/plantuml/png/TL1BJWCn3Dtd556tg1Li4OiME00Ix94dCJGYdyXs15NLkvFCP1YaWOq_VdxFdpqBa9JWrT5Pr1Yod7J0C22nCXwOzJC2cQC-goljR3NubQaw2m83CDQGa8iNhb5CWkgYElC9Cj92X2B7HAtjXD0an8d71Wmi14Pg-F7Py4A-JKYksbo6Lui2pgy779hYD252m4NvdLB9g_Q750rc-TrlySr59ox5cd0gP715Uo6NFOuiz7WO3_PJSly_wz6ngGXZVm12TMRQu2zMV_Fsh3VNkrtSJDzJesrLlRbfvNxpND_Eszrg9gFlL4ylbT7FLTrNaMMfXJ-N5eaVQ2REm1wZBS5_0m00)
 
+# MarkDown Structures
+## Concepts, Triples, Discourse
+### Concepts
+name|definition|source|note
+-|-|-|-
+
+### Triples
+eleA|rel|eleB|source|note
+-|-|-|-|-
+
+### Discourse
+idea|concept|source|note
+-|-|-|-
+
+# CSV Structures
 **searches.csv**
 ```
 id,"expr",database,results,"note"
@@ -41,7 +56,7 @@ search,retrieves,"paper",searches,"note"
 ```
 **discourse.csv**
 ```
-"idea","source","note"
+"idea","concept","source","note"
 ```
 
 
