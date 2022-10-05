@@ -5,6 +5,18 @@
 
 # MarkDown Structures
 ```
+## Paper(s)
+aspect|value
+-|-
+id|**** []
+authors|
+title|[]()
+abstract|
+kws|
+doi|
+pub_details|
+note|
+
 ## Concepts, Triples, Discourse
 ### Concepts
 name|definition|source|note
@@ -29,18 +41,6 @@ id,"expr",database,results,"note"
 **papers.csv**
 ```
 "id","authors",year,"title","abstract","kws",url,doi,"pub_details","note"
-```
-```
-aspect|value
--|-
-id|**** []
-authors|
-title|[]()
-abstract|
-kws|
-doi|
-pub_details|
-note|
 ```
 **authors.csv**
 ```
