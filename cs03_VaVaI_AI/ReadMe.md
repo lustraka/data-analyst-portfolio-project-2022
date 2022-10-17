@@ -23,6 +23,16 @@
 **3S Competitive Advantage**. The "systematic review consultancy" Google search retrieves for example [Systematic Review Consultants LTD](https://systematicreview.info/) and a couple of opportunities on job sites (Fiverr, Upwork, Kolabtree). You need to build and maintain your competitive advantage strategically, systematically, and systemically.
 
 # Manage Content With OODA
+
+Folder|Content|Note
+-|-|-
+[01_Admin](./01_Admin)|[Journal_master](./01_Admin/Journal_master.md) * [PLCM_master](./01_Admin/PLCM_master.md)|GODA(s), PLCM, Journal
+[02_TopicMaps](./02_TopicMaps)|[20220825_KickOff](./02_TopicMaps/20220825_KickOff.md) * [20220828_google_SLR_SM](./02_TopicMaps/20220828_google_SLR_SM.md) * [BolandA-2017](./02_TopicMaps/BolandA-2017.md) * [GusenbauerHaddaway-2019](./02_TopicMaps/GusenbauerHaddaway-2019.md) * [OosterwykG+2019](./02_TopicMaps/OosterwykG+2019.md)|Search, Document
+[03_FullTexts](./03_FullTexts)||.pdf
+[04_DataBase](./04_DataBase)|[AI_SLR_examples](./04_DataBase/AI_SLR_examples.ris) * [AI_SLR_examples](./04_DataBase/AI_SLR_examples.xls) * [authors](./04_DataBase/authors.csv) * [concepts](./04_DataBase/concepts.csv) * [DataModel](./04_DataBase/DataModel.md) * [data_extraction_sheet](./04_DataBase/data_extraction_sheet.xlsx) * [discourse](./04_DataBase/discourse.csv) * [papers](./04_DataBase/papers.csv) * [searches](./04_DataBase/searches.csv) * [triples](./04_DataBase/triples.csv) * [WoS-GusenbauerMichael](./04_DataBase/WoS-GusenbauerMichael.ris)|DataModel, .csv, downloads
+[05_CodeBase](./05_CodeBase)|[20220825-data_extraction_sheet](./05_CodeBase/20220825-data_extraction_sheet.ipynb) * [Admin](./05_CodeBase/Admin.ipynb) * [Collect_Data_Concepts](./05_CodeBase/Collect_Data_Concepts.ipynb) * [Collect_Data_Papers](./05_CodeBase/Collect_Data_Papers.ipynb) * [slr](./05_CodeBase/slr.py)|Jupyter Notebooks
+[06_CRM](./06_CRM)|[Readme](./06_CRM/Readme.md)|Dissemination, Exploitation, Communication
+
 - Manage the product's life cycle in [PLCM](./01_Admin/PLCM_master.md)
 - Review progress and keep a journal in [Journal](./01_Admin/Journal_master.md)
 - Review the point of departure in [20220825_KickOff](./02_TopicMaps/20220825_KickOff.md)
@@ -31,6 +41,7 @@
 - Manage data in [04_DataBase](./04_DataBase/) in line with [Data Model](./04_DataBase/DataModel.md)
 - Process data in [05_CodeBase](./05_CodeBase/)
 - Report findings in [06_CRM](./06_CRM/Readme.md)
+
 
 ----
 
